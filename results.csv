@@ -1,0 +1,2551 @@
+,Year,Club,Date,Versus,Club Score,Opposing Score,W/L/D
+0,2011,Chicago Fire,"Saturday, Mar 19",FC Dallas,1,1,D
+1,2011,Chicago Fire,"Saturday, Mar 26",Sporting Kansas City,3,2,W
+2,2011,Chicago Fire,"Saturday, Apr 9",Seattle Sounders FC,1,2,L
+3,2011,Chicago Fire,"Friday, Apr 15",Portland Timbers,2,4,L
+4,2011,Chicago Fire,"Sunday, Apr 17",LA Galaxy,1,2,L
+5,2011,Chicago Fire,"Saturday, Apr 23",Houston Dynamo,1,1,D
+6,2011,Chicago Fire,"Saturday, Apr 30",Colorado Rapids,1,1,D
+7,2011,Chicago Fire,"Saturday, May 7",Vancouver Whitecaps,0,0,D
+8,2011,Chicago Fire,"Saturday, May 14",Toronto FC,2,2,D
+9,2011,Chicago Fire,"Saturday, May 21",Philadelphia Union,1,2,L
+10,2011,Chicago Fire,"Saturday, May 28",San Jose Earthquakes,2,2,D
+11,2011,Chicago Fire,"Saturday, Jun 4",Seattle Sounders FC,0,0,D
+12,2011,Chicago Fire,"Thursday, Jun 9",Sporting Kansas City,0,0,D
+13,2011,Chicago Fire,"Sunday, Jun 12",Columbus Crew,1,0,W
+14,2011,Chicago Fire,"Saturday, Jun 18",New England Revolution,1,1,D
+15,2011,Chicago Fire,"Wednesday, Jun 22",Real Salt Lake,0,0,D
+16,2011,Chicago Fire,"Sunday, Jun 26",New York Red Bulls,1,1,D
+17,2011,Chicago Fire,"Saturday, Jul 2",Chivas USA,1,1,D
+18,2011,Chicago Fire,"Saturday, Jul 9",LA Galaxy,1,2,L
+19,2011,Chicago Fire,"Saturday, Jul 16",Portland Timbers,0,1,L
+20,2011,Chicago Fire,"Wednesday, Aug 3",Philadelphia Union,1,1,D
+21,2011,Chicago Fire,"Sunday, Aug 7",Vancouver Whitecaps,2,4,L
+22,2011,Chicago Fire,"Saturday, Aug 13",New York Red Bulls,2,2,D
+23,2011,Chicago Fire,"Thursday, Aug 18",D.C. United,1,1,D
+24,2011,Chicago Fire,"Sunday, Aug 21",Toronto FC,2,0,W
+25,2011,Chicago Fire,"Saturday, Aug 27",Colorado Rapids,2,0,W
+26,2011,Chicago Fire,"Saturday, Sep 10",San Jose Earthquakes,0,2,L
+27,2011,Chicago Fire,"Saturday, Sep 17",Chivas USA,3,2,W
+28,2011,Chicago Fire,"Sunday, Sep 25",New England Revolution,3,2,W
+29,2011,Chicago Fire,"Wednesday, Sep 28",Real Salt Lake,3,0,W
+30,2011,Chicago Fire,"Saturday, Oct 1",Houston Dynamo,1,1,D
+31,2011,Chicago Fire,"Wednesday, Oct 12",FC Dallas,1,2,L
+32,2011,Chicago Fire,"Saturday, Oct 15",D.C. United,2,1,W
+33,2011,Chicago Fire,"Saturday, Oct 22",Columbus Crew,3,2,W
+34,2011,Chivas USA,"Saturday, Mar 19",Sporting Kansas City,2,3,L
+35,2011,Chivas USA,"Saturday, Mar 26",Colorado Rapids,0,1,L
+36,2011,Chivas USA,"Saturday, Apr 2",Toronto FC,1,1,D
+37,2011,Chivas USA,"Saturday, Apr 9",Columbus Crew,0,0,D
+38,2011,Chivas USA,"Saturday, Apr 16",Vancouver Whitecaps,0,0,D
+39,2011,Chivas USA,"Saturday, Apr 23",San Jose Earthquakes,2,1,W
+40,2011,Chivas USA,"Saturday, Apr 30",New England Revolution,3,0,W
+41,2011,Chivas USA,"Saturday, May 7",Real Salt Lake,0,1,L
+42,2011,Chivas USA,"Sunday, May 15",New York Red Bulls,3,2,W
+43,2011,Chivas USA,"Saturday, May 21",LA Galaxy,0,1,L
+44,2011,Chivas USA,"Saturday, May 28",Columbus Crew,3,3,D
+45,2011,Chivas USA,"Wednesday, Jun 1",Vancouver Whitecaps,1,1,D
+46,2011,Chivas USA,"Saturday, Jun 4",Portland Timbers,1,0,W
+47,2011,Chivas USA,"Saturday, Jun 11",Houston Dynamo,1,2,L
+48,2011,Chivas USA,"Saturday, Jun 18",FC Dallas,1,2,L
+49,2011,Chivas USA,"Saturday, Jun 25",Philadelphia Union,2,3,L
+50,2011,Chivas USA,"Saturday, Jul 2",Chicago Fire,1,1,D
+51,2011,Chivas USA,"Wednesday, Jul 6",San Jose Earthquakes,2,0,W
+52,2011,Chivas USA,"Saturday, Jul 9",Sporting Kansas City,1,1,D
+53,2011,Chivas USA,"Saturday, Jul 16",New York Red Bulls,0,0,D
+54,2011,Chivas USA,"Saturday, Jul 23",Houston Dynamo,3,0,W
+55,2011,Chivas USA,"Sunday, Jul 31",FC Dallas,0,1,L
+56,2011,Chivas USA,"Saturday, Aug 6",New England Revolution,3,2,W
+57,2011,Chivas USA,"Saturday, Aug 13",Seattle Sounders FC,0,0,D
+58,2011,Chivas USA,"Saturday, Aug 20",Colorado Rapids,2,2,D
+59,2011,Chivas USA,"Thursday, Aug 25",Portland Timbers,0,1,L
+60,2011,Chivas USA,"Saturday, Aug 27",Real Salt Lake,0,1,L
+61,2011,Chivas USA,"Saturday, Sep 10",D.C. United,0,3,L
+62,2011,Chivas USA,"Saturday, Sep 17",Chicago Fire,2,3,L
+63,2011,Chivas USA,"Wednesday, Sep 21",D.C. United,2,2,D
+64,2011,Chivas USA,"Saturday, Sep 24",Toronto FC,3,0,W
+65,2011,Chivas USA,"Sunday, Oct 2",Philadelphia Union,1,1,D
+66,2011,Chivas USA,"Sunday, Oct 16",LA Galaxy,0,1,L
+67,2011,Chivas USA,"Saturday, Oct 22",Seattle Sounders FC,1,3,L
+68,2011,Colorado Rapids,"Saturday, Mar 19",Portland Timbers,3,1,W
+69,2011,Colorado Rapids,"Saturday, Mar 26",Chivas USA,1,0,W
+70,2011,Colorado Rapids,"Sunday, Apr 3",D.C. United,4,1,W
+71,2011,Colorado Rapids,"Friday, Apr 8",FC Dallas,0,3,L
+72,2011,Colorado Rapids,"Wednesday, Apr 13",Real Salt Lake,0,1,L
+73,2011,Colorado Rapids,"Friday, Apr 22",Seattle Sounders FC,0,1,L
+74,2011,Colorado Rapids,"Saturday, Apr 30",Chicago Fire,1,1,D
+75,2011,Colorado Rapids,"Wednesday, May 4",Houston Dynamo,2,1,W
+76,2011,Colorado Rapids,"Saturday, May 7",New England Revolution,0,0,D
+77,2011,Colorado Rapids,"Saturday, May 14",D.C. United,1,1,D
+78,2011,Colorado Rapids,"Sunday, May 22",Toronto FC,0,0,D
+79,2011,Colorado Rapids,"Wednesday, May 25",New York Red Bulls,2,2,D
+80,2011,Colorado Rapids,"Saturday, May 28",Sporting Kansas City,1,1,D
+81,2011,Colorado Rapids,"Saturday, Jun 4",Philadelphia Union,1,1,D
+82,2011,Colorado Rapids,"Saturday, Jun 11",Portland Timbers,1,0,W
+83,2011,Colorado Rapids,"Saturday, Jun 18",LA Galaxy,1,3,L
+84,2011,Colorado Rapids,"Sunday, Jun 26",Columbus Crew,1,4,L
+85,2011,Colorado Rapids,"Sunday, Jul 3",Houston Dynamo,0,0,D
+86,2011,Colorado Rapids,"Wednesday, Jul 6",Sporting Kansas City,1,1,D
+87,2011,Colorado Rapids,"Saturday, Jul 9",Vancouver Whitecaps,2,1,W
+88,2011,Colorado Rapids,"Saturday, Jul 16",Seattle Sounders FC,3,4,L
+89,2011,Colorado Rapids,"Wednesday, Jul 20",New York Red Bulls,4,1,W
+90,2011,Colorado Rapids,"Saturday, Jul 23",New England Revolution,2,2,D
+91,2011,Colorado Rapids,"Friday, Jul 29",Philadelphia Union,2,1,W
+92,2011,Colorado Rapids,"Friday, Aug 5",Columbus Crew,2,0,W
+93,2011,Colorado Rapids,"Saturday, Aug 13",San Jose Earthquakes,2,1,W
+94,2011,Colorado Rapids,"Saturday, Aug 20",Chivas USA,2,2,D
+95,2011,Colorado Rapids,"Saturday, Aug 27",Chicago Fire,0,2,L
+96,2011,Colorado Rapids,"Saturday, Sep 10",LA Galaxy,0,1,L
+97,2011,Colorado Rapids,"Saturday, Sep 17",Toronto FC,1,2,L
+98,2011,Colorado Rapids,"Saturday, Sep 24",San Jose Earthquakes,1,1,D
+99,2011,Colorado Rapids,"Saturday, Oct 1",FC Dallas,1,0,W
+100,2011,Colorado Rapids,"Friday, Oct 14",Real Salt Lake,0,0,D
+101,2011,Colorado Rapids,"Saturday, Oct 22",Vancouver Whitecaps,2,1,W
+102,2011,Columbus Crew,"Saturday, Mar 19",D.C. United,1,3,L
+103,2011,Columbus Crew,"Saturday, Mar 26",New York Red Bulls,0,0,D
+104,2011,Columbus Crew,"Friday, Apr 1",FC Dallas,2,0,W
+105,2011,Columbus Crew,"Saturday, Apr 9",Chivas USA,0,0,D
+106,2011,Columbus Crew,"Saturday, Apr 16",Sporting Kansas City,1,0,W
+107,2011,Columbus Crew,"Saturday, Apr 23",Toronto FC,1,1,D
+108,2011,Columbus Crew,"Saturday, Apr 30",Vancouver Whitecaps,2,1,W
+109,2011,Columbus Crew,"Saturday, May 7",Seattle Sounders FC,1,1,D
+110,2011,Columbus Crew,"Saturday, May 14",San Jose Earthquakes,0,3,L
+111,2011,Columbus Crew,"Sunday, May 22",Portland Timbers,0,1,L
+112,2011,Columbus Crew,"Saturday, May 28",Chivas USA,3,3,D
+113,2011,Columbus Crew,"Saturday, Jun 4",New York Red Bulls,1,1,D
+114,2011,Columbus Crew,"Wednesday, Jun 8",Real Salt Lake,2,1,W
+115,2011,Columbus Crew,"Sunday, Jun 12",Chicago Fire,0,1,L
+116,2011,Columbus Crew,"Saturday, Jun 18",Houston Dynamo,2,0,W
+117,2011,Columbus Crew,"Sunday, Jun 26",Colorado Rapids,4,1,W
+118,2011,Columbus Crew,"Saturday, Jul 2",FC Dallas,0,2,L
+119,2011,Columbus Crew,"Wednesday, Jul 6",Vancouver Whitecaps,1,0,W
+120,2011,Columbus Crew,"Saturday, Jul 16",San Jose Earthquakes,0,0,D
+121,2011,Columbus Crew,"Wednesday, Jul 20",LA Galaxy,0,1,L
+122,2011,Columbus Crew,"Saturday, Jul 23",Portland Timbers,1,0,W
+123,2011,Columbus Crew,"Saturday, Jul 30",Real Salt Lake,2,0,W
+124,2011,Columbus Crew,"Friday, Aug 5",Colorado Rapids,0,2,L
+125,2011,Columbus Crew,"Saturday, Aug 13",New England Revolution,3,1,W
+126,2011,Columbus Crew,"Saturday, Aug 20",Philadelphia Union,2,1,W
+127,2011,Columbus Crew,"Saturday, Aug 27",Seattle Sounders FC,2,6,L
+128,2011,Columbus Crew,"Saturday, Sep 10",Toronto FC,2,4,L
+129,2011,Columbus Crew,"Wednesday, Sep 14",Houston Dynamo,2,2,D
+130,2011,Columbus Crew,"Saturday, Sep 17",Philadelphia Union,0,1,L
+131,2011,Columbus Crew,"Saturday, Sep 24",LA Galaxy,0,1,L
+132,2011,Columbus Crew,"Wednesday, Sep 28",Sporting Kansas City,1,2,L
+133,2011,Columbus Crew,"Sunday, Oct 2",D.C. United,2,1,W
+134,2011,Columbus Crew,"Saturday, Oct 15",New England Revolution,3,0,W
+135,2011,Columbus Crew,"Saturday, Oct 22",Chicago Fire,2,3,L
+136,2011,D.C. United,"Saturday, Mar 19",Columbus Crew,3,1,W
+137,2011,D.C. United,"Saturday, Mar 26",New England Revolution,1,2,L
+138,2011,D.C. United,"Sunday, Apr 3",Colorado Rapids,1,4,L
+139,2011,D.C. United,"Saturday, Apr 9",LA Galaxy,1,1,D
+140,2011,D.C. United,"Saturday, Apr 16",Toronto FC,3,0,W
+141,2011,D.C. United,"Thursday, Apr 21",New York Red Bulls,0,4,L
+142,2011,D.C. United,"Friday, Apr 29",Houston Dynamo,1,4,L
+143,2011,D.C. United,"Wednesday, May 4",Seattle Sounders FC,2,1,W
+144,2011,D.C. United,"Saturday, May 7",FC Dallas,0,0,D
+145,2011,D.C. United,"Saturday, May 14",Colorado Rapids,1,1,D
+146,2011,D.C. United,"Sunday, May 29",Portland Timbers,3,2,W
+147,2011,D.C. United,"Saturday, Jun 4",LA Galaxy,0,0,D
+148,2011,D.C. United,"Saturday, Jun 11",San Jose Earthquakes,2,4,L
+149,2011,D.C. United,"Saturday, Jun 18",Real Salt Lake,1,1,D
+150,2011,D.C. United,"Saturday, Jun 25",Houston Dynamo,2,2,D
+151,2011,D.C. United,"Saturday, Jul 2",Philadelphia Union,2,2,D
+152,2011,D.C. United,"Saturday, Jul 9",New York Red Bulls,1,0,W
+153,2011,D.C. United,"Saturday, Jul 16",FC Dallas,0,0,D
+154,2011,D.C. United,"Wednesday, Jul 20",New England Revolution,0,1,L
+155,2011,D.C. United,"Saturday, Jul 30",San Jose Earthquakes,2,0,W
+156,2011,D.C. United,"Saturday, Aug 6",Toronto FC,3,3,D
+157,2011,D.C. United,"Saturday, Aug 13",Vancouver Whitecaps,4,0,W
+158,2011,D.C. United,"Thursday, Aug 18",Chicago Fire,1,1,D
+159,2011,D.C. United,"Sunday, Aug 21",Sporting Kansas City,0,1,L
+160,2011,D.C. United,"Saturday, Sep 10",Chivas USA,3,0,W
+161,2011,D.C. United,"Saturday, Sep 17",Seattle Sounders FC,0,3,L
+162,2011,D.C. United,"Wednesday, Sep 21",Chivas USA,2,2,D
+163,2011,D.C. United,"Saturday, Sep 24",Real Salt Lake,4,1,W
+164,2011,D.C. United,"Thursday, Sep 29",Philadelphia Union,2,3,L
+165,2011,D.C. United,"Sunday, Oct 2",Columbus Crew,1,2,L
+166,2011,D.C. United,"Wednesday, Oct 12",Vancouver Whitecaps,1,2,L
+167,2011,D.C. United,"Saturday, Oct 15",Chicago Fire,1,2,L
+168,2011,D.C. United,"Wednesday, Oct 19",Portland Timbers,1,1,D
+169,2011,D.C. United,"Saturday, Oct 22",Sporting Kansas City,0,1,L
+170,2011,FC Dallas,"Saturday, Mar 19",Chicago Fire,1,1,D
+171,2011,FC Dallas,"Saturday, Mar 26",San Jose Earthquakes,0,2,L
+172,2011,FC Dallas,"Friday, Apr 1",Columbus Crew,0,2,L
+173,2011,FC Dallas,"Friday, Apr 8",Colorado Rapids,3,0,W
+174,2011,FC Dallas,"Sunday, Apr 17",Portland Timbers,2,3,L
+175,2011,FC Dallas,"Saturday, Apr 23",Vancouver Whitecaps,2,1,W
+176,2011,FC Dallas,"Sunday, May 1",LA Galaxy,2,1,W
+177,2011,FC Dallas,"Saturday, May 7",D.C. United,0,0,D
+178,2011,FC Dallas,"Wednesday, May 11",Toronto FC,1,0,W
+179,2011,FC Dallas,"Saturday, May 14",Philadelphia Union,2,0,W
+180,2011,FC Dallas,"Sunday, May 22",Real Salt Lake,0,0,D
+181,2011,FC Dallas,"Wednesday, May 25",Seattle Sounders FC,1,0,W
+182,2011,FC Dallas,"Saturday, May 28",Houston Dynamo,2,2,D
+183,2011,FC Dallas,"Saturday, Jun 4",New England Revolution,1,0,W
+184,2011,FC Dallas,"Sunday, Jun 12",Sporting Kansas City,1,4,L
+185,2011,FC Dallas,"Saturday, Jun 18",Chivas USA,2,1,W
+186,2011,FC Dallas,"Saturday, Jun 25",Portland Timbers,4,0,W
+187,2011,FC Dallas,"Saturday, Jul 2",Columbus Crew,2,0,W
+188,2011,FC Dallas,"Saturday, Jul 9",Real Salt Lake,0,2,L
+189,2011,FC Dallas,"Saturday, Jul 16",D.C. United,0,0,D
+190,2011,FC Dallas,"Wednesday, Jul 20",Toronto FC,1,0,W
+191,2011,FC Dallas,"Saturday, Jul 23",New York Red Bulls,2,2,D
+192,2011,FC Dallas,"Sunday, Jul 31",Chivas USA,1,0,W
+193,2011,FC Dallas,"Saturday, Aug 6",LA Galaxy,1,3,L
+194,2011,FC Dallas,"Saturday, Aug 13",Philadelphia Union,2,2,D
+195,2011,FC Dallas,"Saturday, Aug 20",Seattle Sounders FC,0,1,L
+196,2011,FC Dallas,"Saturday, Aug 27",Sporting Kansas City,3,2,W
+197,2011,FC Dallas,"Saturday, Sep 10",New England Revolution,0,2,L
+198,2011,FC Dallas,"Saturday, Sep 17",New York Red Bulls,0,1,L
+199,2011,FC Dallas,"Saturday, Sep 24",Houston Dynamo,0,1,L
+200,2011,FC Dallas,"Saturday, Oct 1",Colorado Rapids,0,1,L
+201,2011,FC Dallas,"Wednesday, Oct 12",Chicago Fire,2,1,W
+202,2011,FC Dallas,"Saturday, Oct 15",Vancouver Whitecaps,2,0,W
+203,2011,FC Dallas,"Saturday, Oct 22",San Jose Earthquakes,2,4,L
+204,2011,Houston Dynamo,"Saturday, Mar 19",Philadelphia Union,0,1,L
+205,2011,Houston Dynamo,"Friday, Mar 25",Seattle Sounders FC,1,1,D
+206,2011,Houston Dynamo,"Saturday, Apr 2",New York Red Bulls,1,1,D
+207,2011,Houston Dynamo,"Sunday, Apr 10",Vancouver Whitecaps,3,1,W
+208,2011,Houston Dynamo,"Sunday, Apr 17",New England Revolution,1,0,W
+209,2011,Houston Dynamo,"Saturday, Apr 23",Chicago Fire,1,1,D
+210,2011,Houston Dynamo,"Friday, Apr 29",D.C. United,4,1,W
+211,2011,Houston Dynamo,"Wednesday, May 4",Colorado Rapids,1,2,L
+212,2011,Houston Dynamo,"Saturday, May 7",Toronto FC,1,2,L
+213,2011,Houston Dynamo,"Saturday, May 14",Real Salt Lake,0,0,D
+214,2011,Houston Dynamo,"Saturday, May 21",New York Red Bulls,2,2,D
+215,2011,Houston Dynamo,"Wednesday, May 25",LA Galaxy,0,1,L
+216,2011,Houston Dynamo,"Saturday, May 28",FC Dallas,2,2,D
+217,2011,Houston Dynamo,"Saturday, Jun 4",San Jose Earthquakes,0,2,L
+218,2011,Houston Dynamo,"Saturday, Jun 11",Chivas USA,2,1,W
+219,2011,Houston Dynamo,"Saturday, Jun 18",Columbus Crew,0,2,L
+220,2011,Houston Dynamo,"Saturday, Jun 25",D.C. United,2,2,D
+221,2011,Houston Dynamo,"Sunday, Jul 3",Colorado Rapids,0,0,D
+222,2011,Houston Dynamo,"Saturday, Jul 9",Toronto FC,2,0,W
+223,2011,Houston Dynamo,"Saturday, Jul 16",Sporting Kansas City,1,1,D
+224,2011,Houston Dynamo,"Saturday, Jul 23",Chivas USA,0,3,L
+225,2011,Houston Dynamo,"Saturday, Jul 30",Seattle Sounders FC,3,1,W
+226,2011,Houston Dynamo,"Saturday, Aug 6",Philadelphia Union,1,1,D
+227,2011,Houston Dynamo,"Sunday, Aug 14",Portland Timbers,2,1,W
+228,2011,Houston Dynamo,"Wednesday, Aug 17",New England Revolution,1,1,D
+229,2011,Houston Dynamo,"Saturday, Aug 20",Real Salt Lake,3,2,W
+230,2011,Houston Dynamo,"Saturday, Aug 27",Vancouver Whitecaps,0,1,L
+231,2011,Houston Dynamo,"Saturday, Sep 10",Sporting Kansas City,0,3,L
+232,2011,Houston Dynamo,"Wednesday, Sep 14",Columbus Crew,2,2,D
+233,2011,Houston Dynamo,"Saturday, Sep 17",San Jose Earthquakes,2,1,W
+234,2011,Houston Dynamo,"Saturday, Sep 24",FC Dallas,1,0,W
+235,2011,Houston Dynamo,"Saturday, Oct 1",Chicago Fire,1,1,D
+236,2011,Houston Dynamo,"Friday, Oct 14",Portland Timbers,2,0,W
+237,2011,Houston Dynamo,"Sunday, Oct 23",LA Galaxy,3,1,W
+238,2011,LA Galaxy,"Tuesday, Mar 15",Seattle Sounders FC,1,0,W
+239,2011,LA Galaxy,"Sunday, Mar 20",New England Revolution,1,1,D
+240,2011,LA Galaxy,"Saturday, Mar 26",Real Salt Lake,1,4,L
+241,2011,LA Galaxy,"Saturday, Apr 2",Philadelphia Union,1,0,W
+242,2011,LA Galaxy,"Saturday, Apr 9",D.C. United,1,1,D
+243,2011,LA Galaxy,"Wednesday, Apr 13",Toronto FC,0,0,D
+244,2011,LA Galaxy,"Sunday, Apr 17",Chicago Fire,2,1,W
+245,2011,LA Galaxy,"Sunday, Apr 24",Portland Timbers,3,0,W
+246,2011,LA Galaxy,"Sunday, May 1",FC Dallas,1,2,L
+247,2011,LA Galaxy,"Sunday, May 8",New York Red Bulls,1,1,D
+248,2011,LA Galaxy,"Wednesday, May 11",Philadelphia Union,1,1,D
+249,2011,LA Galaxy,"Saturday, May 14",Sporting Kansas City,4,1,W
+250,2011,LA Galaxy,"Saturday, May 21",Chivas USA,1,0,W
+251,2011,LA Galaxy,"Wednesday, May 25",Houston Dynamo,1,0,W
+252,2011,LA Galaxy,"Saturday, May 28",New England Revolution,1,0,W
+253,2011,LA Galaxy,"Saturday, Jun 4",D.C. United,0,0,D
+254,2011,LA Galaxy,"Saturday, Jun 11",Toronto FC,2,2,D
+255,2011,LA Galaxy,"Saturday, Jun 18",Colorado Rapids,3,1,W
+256,2011,LA Galaxy,"Saturday, Jun 25",San Jose Earthquakes,0,0,D
+257,2011,LA Galaxy,"Monday, Jul 4",Seattle Sounders FC,0,0,D
+258,2011,LA Galaxy,"Saturday, Jul 9",Chicago Fire,2,1,W
+259,2011,LA Galaxy,"Wednesday, Jul 20",Columbus Crew,1,0,W
+260,2011,LA Galaxy,"Saturday, Jul 30",Vancouver Whitecaps,4,0,W
+261,2011,LA Galaxy,"Wednesday, Aug 3",Portland Timbers,0,3,L
+262,2011,LA Galaxy,"Saturday, Aug 6",FC Dallas,3,1,W
+263,2011,LA Galaxy,"Saturday, Aug 20",San Jose Earthquakes,2,0,W
+264,2011,LA Galaxy,"Monday, Sep 5",Sporting Kansas City,2,2,D
+265,2011,LA Galaxy,"Saturday, Sep 10",Colorado Rapids,1,0,W
+266,2011,LA Galaxy,"Saturday, Sep 17",Vancouver Whitecaps,3,0,W
+267,2011,LA Galaxy,"Saturday, Sep 24",Columbus Crew,1,0,W
+268,2011,LA Galaxy,"Saturday, Oct 1",Real Salt Lake,2,1,W
+269,2011,LA Galaxy,"Tuesday, Oct 4",New York Red Bulls,0,2,L
+270,2011,LA Galaxy,"Sunday, Oct 16",Chivas USA,1,0,W
+271,2011,LA Galaxy,"Sunday, Oct 23",Houston Dynamo,1,3,L
+272,2011,New England Revolution,"Sunday, Mar 20",LA Galaxy,1,1,D
+273,2011,New England Revolution,"Saturday, Mar 26",D.C. United,2,1,W
+274,2011,New England Revolution,"Saturday, Apr 2",Portland Timbers,1,1,D
+275,2011,New England Revolution,"Wednesday, Apr 6",Vancouver Whitecaps,1,1,D
+276,2011,New England Revolution,"Saturday, Apr 9",Real Salt Lake,0,2,L
+277,2011,New England Revolution,"Sunday, Apr 17",Houston Dynamo,0,1,L
+278,2011,New England Revolution,"Saturday, Apr 23",Sporting Kansas City,3,2,W
+279,2011,New England Revolution,"Saturday, Apr 30",Chivas USA,0,3,L
+280,2011,New England Revolution,"Saturday, May 7",Colorado Rapids,0,0,D
+281,2011,New England Revolution,"Saturday, May 14",Vancouver Whitecaps,1,0,W
+282,2011,New England Revolution,"Saturday, May 21",San Jose Earthquakes,1,2,L
+283,2011,New England Revolution,"Saturday, May 28",LA Galaxy,0,1,L
+284,2011,New England Revolution,"Saturday, Jun 4",FC Dallas,0,1,L
+285,2011,New England Revolution,"Friday, Jun 10",New York Red Bulls,1,2,L
+286,2011,New England Revolution,"Wednesday, Jun 15",Toronto FC,0,0,D
+287,2011,New England Revolution,"Saturday, Jun 18",Chicago Fire,1,1,D
+288,2011,New England Revolution,"Sunday, Jun 26",Seattle Sounders FC,1,2,L
+289,2011,New England Revolution,"Monday, Jul 4",Real Salt Lake,3,3,D
+290,2011,New England Revolution,"Sunday, Jul 17",Philadelphia Union,0,3,L
+291,2011,New England Revolution,"Wednesday, Jul 20",D.C. United,1,0,W
+292,2011,New England Revolution,"Saturday, Jul 23",Colorado Rapids,2,2,D
+293,2011,New England Revolution,"Saturday, Jul 30",Sporting Kansas City,1,1,D
+294,2011,New England Revolution,"Saturday, Aug 6",Chivas USA,2,3,L
+295,2011,New England Revolution,"Saturday, Aug 13",Columbus Crew,1,3,L
+296,2011,New England Revolution,"Wednesday, Aug 17",Houston Dynamo,1,1,D
+297,2011,New England Revolution,"Saturday, Aug 20",New York Red Bulls,2,2,D
+298,2011,New England Revolution,"Wednesday, Sep 7",Philadelphia Union,4,4,D
+299,2011,New England Revolution,"Saturday, Sep 10",FC Dallas,2,0,W
+300,2011,New England Revolution,"Saturday, Sep 17",Portland Timbers,0,3,L
+301,2011,New England Revolution,"Sunday, Sep 25",Chicago Fire,2,3,L
+302,2011,New England Revolution,"Saturday, Oct 1",Seattle Sounders FC,1,2,L
+303,2011,New England Revolution,"Saturday, Oct 8",San Jose Earthquakes,1,2,L
+304,2011,New England Revolution,"Saturday, Oct 15",Columbus Crew,0,3,L
+305,2011,New England Revolution,"Saturday, Oct 22",Toronto FC,2,2,D
+306,2011,New York Red Bulls,"Saturday, Mar 19",Seattle Sounders FC,1,0,W
+307,2011,New York Red Bulls,"Saturday, Mar 26",Columbus Crew,0,0,D
+308,2011,New York Red Bulls,"Saturday, Apr 2",Houston Dynamo,1,1,D
+309,2011,New York Red Bulls,"Saturday, Apr 9",Philadelphia Union,0,1,L
+310,2011,New York Red Bulls,"Saturday, Apr 16",San Jose Earthquakes,3,0,W
+311,2011,New York Red Bulls,"Thursday, Apr 21",D.C. United,4,0,W
+312,2011,New York Red Bulls,"Saturday, Apr 30",Sporting Kansas City,1,0,W
+313,2011,New York Red Bulls,"Sunday, May 8",LA Galaxy,1,1,D
+314,2011,New York Red Bulls,"Sunday, May 15",Chivas USA,2,3,L
+315,2011,New York Red Bulls,"Saturday, May 21",Houston Dynamo,2,2,D
+316,2011,New York Red Bulls,"Wednesday, May 25",Colorado Rapids,2,2,D
+317,2011,New York Red Bulls,"Saturday, May 28",Vancouver Whitecaps,1,1,D
+318,2011,New York Red Bulls,"Saturday, Jun 4",Columbus Crew,1,1,D
+319,2011,New York Red Bulls,"Friday, Jun 10",New England Revolution,2,1,W
+320,2011,New York Red Bulls,"Sunday, Jun 19",Portland Timbers,3,3,D
+321,2011,New York Red Bulls,"Thursday, Jun 23",Seattle Sounders FC,2,4,L
+322,2011,New York Red Bulls,"Sunday, Jun 26",Chicago Fire,1,1,D
+323,2011,New York Red Bulls,"Saturday, Jul 2",San Jose Earthquakes,2,2,D
+324,2011,New York Red Bulls,"Wednesday, Jul 6",Toronto FC,5,0,W
+325,2011,New York Red Bulls,"Saturday, Jul 9",D.C. United,0,1,L
+326,2011,New York Red Bulls,"Saturday, Jul 16",Chivas USA,0,0,D
+327,2011,New York Red Bulls,"Wednesday, Jul 20",Colorado Rapids,1,4,L
+328,2011,New York Red Bulls,"Saturday, Jul 23",FC Dallas,2,2,D
+329,2011,New York Red Bulls,"Saturday, Aug 6",Real Salt Lake,0,3,L
+330,2011,New York Red Bulls,"Saturday, Aug 13",Chicago Fire,2,2,D
+331,2011,New York Red Bulls,"Saturday, Aug 20",New England Revolution,2,2,D
+332,2011,New York Red Bulls,"Saturday, Sep 10",Vancouver Whitecaps,1,1,D
+333,2011,New York Red Bulls,"Saturday, Sep 17",FC Dallas,1,0,W
+334,2011,New York Red Bulls,"Wednesday, Sep 21",Real Salt Lake,1,3,L
+335,2011,New York Red Bulls,"Saturday, Sep 24",Portland Timbers,2,0,W
+336,2011,New York Red Bulls,"Saturday, Oct 1",Toronto FC,1,1,D
+337,2011,New York Red Bulls,"Tuesday, Oct 4",LA Galaxy,2,0,W
+338,2011,New York Red Bulls,"Saturday, Oct 15",Sporting Kansas City,0,2,L
+339,2011,New York Red Bulls,"Thursday, Oct 20",Philadelphia Union,1,0,W
+340,2011,Philadelphia Union,"Saturday, Mar 19",Houston Dynamo,1,0,W
+341,2011,Philadelphia Union,"Saturday, Mar 26",Vancouver Whitecaps,1,0,W
+342,2011,Philadelphia Union,"Saturday, Apr 2",LA Galaxy,0,1,L
+343,2011,Philadelphia Union,"Saturday, Apr 9",New York Red Bulls,1,0,W
+344,2011,Philadelphia Union,"Saturday, Apr 16",Seattle Sounders FC,1,1,D
+345,2011,Philadelphia Union,"Saturday, Apr 30",San Jose Earthquakes,1,0,W
+346,2011,Philadelphia Union,"Friday, May 6",Portland Timbers,0,1,L
+347,2011,Philadelphia Union,"Wednesday, May 11",LA Galaxy,1,1,D
+348,2011,Philadelphia Union,"Saturday, May 14",FC Dallas,0,2,L
+349,2011,Philadelphia Union,"Saturday, May 21",Chicago Fire,2,1,W
+350,2011,Philadelphia Union,"Saturday, May 28",Toronto FC,6,2,W
+351,2011,Philadelphia Union,"Saturday, Jun 4",Colorado Rapids,1,1,D
+352,2011,Philadelphia Union,"Saturday, Jun 11",Real Salt Lake,1,1,D
+353,2011,Philadelphia Union,"Saturday, Jun 18",Vancouver Whitecaps,0,1,L
+354,2011,Philadelphia Union,"Wednesday, Jun 22",Sporting Kansas City,0,0,D
+355,2011,Philadelphia Union,"Saturday, Jun 25",Chivas USA,3,2,W
+356,2011,Philadelphia Union,"Saturday, Jul 2",D.C. United,2,2,D
+357,2011,Philadelphia Union,"Saturday, Jul 9",San Jose Earthquakes,0,0,D
+358,2011,Philadelphia Union,"Sunday, Jul 17",New England Revolution,3,0,W
+359,2011,Philadelphia Union,"Friday, Jul 29",Colorado Rapids,1,2,L
+360,2011,Philadelphia Union,"Wednesday, Aug 3",Chicago Fire,1,1,D
+361,2011,Philadelphia Union,"Saturday, Aug 6",Houston Dynamo,1,1,D
+362,2011,Philadelphia Union,"Saturday, Aug 13",FC Dallas,2,2,D
+363,2011,Philadelphia Union,"Saturday, Aug 20",Columbus Crew,1,2,L
+364,2011,Philadelphia Union,"Saturday, Sep 3",Real Salt Lake,1,2,L
+365,2011,Philadelphia Union,"Wednesday, Sep 7",New England Revolution,4,4,D
+366,2011,Philadelphia Union,"Saturday, Sep 10",Portland Timbers,0,0,D
+367,2011,Philadelphia Union,"Saturday, Sep 17",Columbus Crew,1,0,W
+368,2011,Philadelphia Union,"Friday, Sep 23",Sporting Kansas City,1,1,D
+369,2011,Philadelphia Union,"Thursday, Sep 29",D.C. United,3,2,W
+370,2011,Philadelphia Union,"Sunday, Oct 2",Chivas USA,1,1,D
+371,2011,Philadelphia Union,"Saturday, Oct 8",Seattle Sounders FC,2,0,W
+372,2011,Philadelphia Union,"Saturday, Oct 15",Toronto FC,1,1,D
+373,2011,Philadelphia Union,"Thursday, Oct 20",New York Red Bulls,0,1,L
+374,2011,Portland Timbers,"Saturday, Mar 19",Colorado Rapids,1,3,L
+375,2011,Portland Timbers,"Saturday, Mar 26",Toronto FC,0,2,L
+376,2011,Portland Timbers,"Saturday, Apr 2",New England Revolution,1,1,D
+377,2011,Portland Timbers,"Friday, Apr 15",Chicago Fire,4,2,W
+378,2011,Portland Timbers,"Sunday, Apr 17",FC Dallas,3,2,W
+379,2011,Portland Timbers,"Sunday, Apr 24",LA Galaxy,0,3,L
+380,2011,Portland Timbers,"Saturday, Apr 30",Real Salt Lake,1,0,W
+381,2011,Portland Timbers,"Friday, May 6",Philadelphia Union,1,0,W
+382,2011,Portland Timbers,"Sunday, May 15",Seattle Sounders FC,1,1,D
+383,2011,Portland Timbers,"Sunday, May 22",Columbus Crew,1,0,W
+384,2011,Portland Timbers,"Sunday, May 29",D.C. United,2,3,L
+385,2011,Portland Timbers,"Saturday, Jun 4",Chivas USA,0,1,L
+386,2011,Portland Timbers,"Saturday, Jun 11",Colorado Rapids,0,1,L
+387,2011,Portland Timbers,"Sunday, Jun 19",New York Red Bulls,3,3,D
+388,2011,Portland Timbers,"Saturday, Jun 25",FC Dallas,0,4,L
+389,2011,Portland Timbers,"Sunday, Jul 3",Sporting Kansas City,1,2,L
+390,2011,Portland Timbers,"Sunday, Jul 10",Seattle Sounders FC,2,3,L
+391,2011,Portland Timbers,"Saturday, Jul 16",Chicago Fire,1,0,W
+392,2011,Portland Timbers,"Saturday, Jul 23",Columbus Crew,0,1,L
+393,2011,Portland Timbers,"Sunday, Jul 31",Toronto FC,2,2,D
+394,2011,Portland Timbers,"Wednesday, Aug 3",LA Galaxy,3,0,W
+395,2011,Portland Timbers,"Saturday, Aug 6",San Jose Earthquakes,1,1,D
+396,2011,Portland Timbers,"Sunday, Aug 14",Houston Dynamo,1,2,L
+397,2011,Portland Timbers,"Wednesday, Aug 17",Sporting Kansas City,1,3,L
+398,2011,Portland Timbers,"Saturday, Aug 20",Vancouver Whitecaps,2,1,W
+399,2011,Portland Timbers,"Thursday, Aug 25",Chivas USA,1,0,W
+400,2011,Portland Timbers,"Saturday, Sep 10",Philadelphia Union,0,0,D
+401,2011,Portland Timbers,"Saturday, Sep 17",New England Revolution,3,0,W
+402,2011,Portland Timbers,"Wednesday, Sep 21",San Jose Earthquakes,1,1,D
+403,2011,Portland Timbers,"Saturday, Sep 24",New York Red Bulls,0,2,L
+404,2011,Portland Timbers,"Sunday, Oct 2",Vancouver Whitecaps,1,0,W
+405,2011,Portland Timbers,"Friday, Oct 14",Houston Dynamo,0,2,L
+406,2011,Portland Timbers,"Wednesday, Oct 19",D.C. United,1,1,D
+407,2011,Portland Timbers,"Saturday, Oct 22",Real Salt Lake,1,1,D
+408,2011,Real Salt Lake,"Saturday, Mar 19",San Jose Earthquakes,1,0,W
+409,2011,Real Salt Lake,"Saturday, Mar 26",LA Galaxy,4,1,W
+410,2011,Real Salt Lake,"Saturday, Apr 9",New England Revolution,2,0,W
+411,2011,Real Salt Lake,"Wednesday, Apr 13",Colorado Rapids,1,0,W
+412,2011,Real Salt Lake,"Saturday, Apr 30",Portland Timbers,0,1,L
+413,2011,Real Salt Lake,"Saturday, May 7",Chivas USA,1,0,W
+414,2011,Real Salt Lake,"Saturday, May 14",Houston Dynamo,0,0,D
+415,2011,Real Salt Lake,"Sunday, May 22",FC Dallas,0,0,D
+416,2011,Real Salt Lake,"Saturday, May 28",Seattle Sounders FC,1,2,L
+417,2011,Real Salt Lake,"Saturday, Jun 4",Vancouver Whitecaps,2,0,W
+418,2011,Real Salt Lake,"Wednesday, Jun 8",Columbus Crew,1,2,L
+419,2011,Real Salt Lake,"Saturday, Jun 11",Philadelphia Union,1,1,D
+420,2011,Real Salt Lake,"Saturday, Jun 18",D.C. United,1,1,D
+421,2011,Real Salt Lake,"Wednesday, Jun 22",Chicago Fire,0,0,D
+422,2011,Real Salt Lake,"Saturday, Jun 25",Toronto FC,3,1,W
+423,2011,Real Salt Lake,"Monday, Jul 4",New England Revolution,3,3,D
+424,2011,Real Salt Lake,"Saturday, Jul 9",FC Dallas,2,0,W
+425,2011,Real Salt Lake,"Saturday, Jul 23",San Jose Earthquakes,4,0,W
+426,2011,Real Salt Lake,"Saturday, Jul 30",Columbus Crew,0,2,L
+427,2011,Real Salt Lake,"Wednesday, Aug 3",Sporting Kansas City,0,2,L
+428,2011,Real Salt Lake,"Saturday, Aug 6",New York Red Bulls,3,0,W
+429,2011,Real Salt Lake,"Saturday, Aug 13",Toronto FC,0,1,L
+430,2011,Real Salt Lake,"Saturday, Aug 20",Houston Dynamo,2,3,L
+431,2011,Real Salt Lake,"Saturday, Aug 27",Chivas USA,1,0,W
+432,2011,Real Salt Lake,"Saturday, Sep 3",Philadelphia Union,2,1,W
+433,2011,Real Salt Lake,"Saturday, Sep 10",Seattle Sounders FC,2,1,W
+434,2011,Real Salt Lake,"Saturday, Sep 17",Sporting Kansas City,1,0,W
+435,2011,Real Salt Lake,"Wednesday, Sep 21",New York Red Bulls,3,1,W
+436,2011,Real Salt Lake,"Saturday, Sep 24",D.C. United,1,4,L
+437,2011,Real Salt Lake,"Wednesday, Sep 28",Chicago Fire,0,3,L
+438,2011,Real Salt Lake,"Saturday, Oct 1",LA Galaxy,1,2,L
+439,2011,Real Salt Lake,"Thursday, Oct 6",Vancouver Whitecaps,0,3,L
+440,2011,Real Salt Lake,"Friday, Oct 14",Colorado Rapids,0,0,D
+441,2011,Real Salt Lake,"Saturday, Oct 22",Portland Timbers,1,1,D
+442,2011,San Jose Earthquakes,"Saturday, Mar 19",Real Salt Lake,0,1,L
+443,2011,San Jose Earthquakes,"Saturday, Mar 26",FC Dallas,2,0,W
+444,2011,San Jose Earthquakes,"Saturday, Apr 2",Seattle Sounders FC,2,2,D
+445,2011,San Jose Earthquakes,"Saturday, Apr 9",Toronto FC,1,1,D
+446,2011,San Jose Earthquakes,"Saturday, Apr 16",New York Red Bulls,0,3,L
+447,2011,San Jose Earthquakes,"Saturday, Apr 23",Chivas USA,1,2,L
+448,2011,San Jose Earthquakes,"Saturday, Apr 30",Philadelphia Union,0,1,L
+449,2011,San Jose Earthquakes,"Wednesday, May 11",Vancouver Whitecaps,1,1,D
+450,2011,San Jose Earthquakes,"Saturday, May 14",Columbus Crew,3,0,W
+451,2011,San Jose Earthquakes,"Saturday, May 21",New England Revolution,2,1,W
+452,2011,San Jose Earthquakes,"Saturday, May 28",Chicago Fire,2,2,D
+453,2011,San Jose Earthquakes,"Saturday, Jun 4",Houston Dynamo,2,0,W
+454,2011,San Jose Earthquakes,"Saturday, Jun 11",D.C. United,4,2,W
+455,2011,San Jose Earthquakes,"Friday, Jun 17",Sporting Kansas City,0,1,L
+456,2011,San Jose Earthquakes,"Saturday, Jun 25",LA Galaxy,0,0,D
+457,2011,San Jose Earthquakes,"Saturday, Jul 2",New York Red Bulls,2,2,D
+458,2011,San Jose Earthquakes,"Wednesday, Jul 6",Chivas USA,0,2,L
+459,2011,San Jose Earthquakes,"Saturday, Jul 9",Philadelphia Union,0,0,D
+460,2011,San Jose Earthquakes,"Saturday, Jul 16",Columbus Crew,0,0,D
+461,2011,San Jose Earthquakes,"Wednesday, Jul 20",Vancouver Whitecaps,2,2,D
+462,2011,San Jose Earthquakes,"Saturday, Jul 23",Real Salt Lake,0,4,L
+463,2011,San Jose Earthquakes,"Saturday, Jul 30",D.C. United,0,2,L
+464,2011,San Jose Earthquakes,"Saturday, Aug 6",Portland Timbers,1,1,D
+465,2011,San Jose Earthquakes,"Saturday, Aug 13",Colorado Rapids,1,2,L
+466,2011,San Jose Earthquakes,"Saturday, Aug 20",LA Galaxy,0,2,L
+467,2011,San Jose Earthquakes,"Saturday, Aug 27",Toronto FC,1,1,D
+468,2011,San Jose Earthquakes,"Saturday, Sep 10",Chicago Fire,2,0,W
+469,2011,San Jose Earthquakes,"Saturday, Sep 17",Houston Dynamo,1,2,L
+470,2011,San Jose Earthquakes,"Wednesday, Sep 21",Portland Timbers,1,1,D
+471,2011,San Jose Earthquakes,"Saturday, Sep 24",Colorado Rapids,1,1,D
+472,2011,San Jose Earthquakes,"Saturday, Oct 1",Sporting Kansas City,1,1,D
+473,2011,San Jose Earthquakes,"Saturday, Oct 8",New England Revolution,2,1,W
+474,2011,San Jose Earthquakes,"Saturday, Oct 15",Seattle Sounders FC,1,2,L
+475,2011,San Jose Earthquakes,"Saturday, Oct 22",FC Dallas,4,2,W
+476,2011,Seattle Sounders FC,"Tuesday, Mar 15",LA Galaxy,0,1,L
+477,2011,Seattle Sounders FC,"Saturday, Mar 19",New York Red Bulls,0,1,L
+478,2011,Seattle Sounders FC,"Friday, Mar 25",Houston Dynamo,1,1,D
+479,2011,Seattle Sounders FC,"Saturday, Apr 2",San Jose Earthquakes,2,2,D
+480,2011,Seattle Sounders FC,"Saturday, Apr 9",Chicago Fire,2,1,W
+481,2011,Seattle Sounders FC,"Saturday, Apr 16",Philadelphia Union,1,1,D
+482,2011,Seattle Sounders FC,"Friday, Apr 22",Colorado Rapids,1,0,W
+483,2011,Seattle Sounders FC,"Saturday, Apr 30",Toronto FC,3,0,W
+484,2011,Seattle Sounders FC,"Wednesday, May 4",D.C. United,1,2,L
+485,2011,Seattle Sounders FC,"Saturday, May 7",Columbus Crew,1,1,D
+486,2011,Seattle Sounders FC,"Sunday, May 15",Portland Timbers,1,1,D
+487,2011,Seattle Sounders FC,"Saturday, May 21",Sporting Kansas City,1,0,W
+488,2011,Seattle Sounders FC,"Wednesday, May 25",FC Dallas,0,1,L
+489,2011,Seattle Sounders FC,"Saturday, May 28",Real Salt Lake,2,1,W
+490,2011,Seattle Sounders FC,"Saturday, Jun 4",Chicago Fire,0,0,D
+491,2011,Seattle Sounders FC,"Saturday, Jun 11",Vancouver Whitecaps,2,2,D
+492,2011,Seattle Sounders FC,"Saturday, Jun 18",Toronto FC,1,0,W
+493,2011,Seattle Sounders FC,"Thursday, Jun 23",New York Red Bulls,4,2,W
+494,2011,Seattle Sounders FC,"Sunday, Jun 26",New England Revolution,2,1,W
+495,2011,Seattle Sounders FC,"Monday, Jul 4",LA Galaxy,0,0,D
+496,2011,Seattle Sounders FC,"Sunday, Jul 10",Portland Timbers,3,2,W
+497,2011,Seattle Sounders FC,"Saturday, Jul 16",Colorado Rapids,4,3,W
+498,2011,Seattle Sounders FC,"Saturday, Jul 30",Houston Dynamo,1,3,L
+499,2011,Seattle Sounders FC,"Saturday, Aug 6",Sporting Kansas City,2,1,W
+500,2011,Seattle Sounders FC,"Saturday, Aug 13",Chivas USA,0,0,D
+501,2011,Seattle Sounders FC,"Saturday, Aug 20",FC Dallas,1,0,W
+502,2011,Seattle Sounders FC,"Saturday, Aug 27",Columbus Crew,6,2,W
+503,2011,Seattle Sounders FC,"Saturday, Sep 10",Real Salt Lake,1,2,L
+504,2011,Seattle Sounders FC,"Saturday, Sep 17",D.C. United,3,0,W
+505,2011,Seattle Sounders FC,"Saturday, Sep 24",Vancouver Whitecaps,3,1,W
+506,2011,Seattle Sounders FC,"Saturday, Oct 1",New England Revolution,2,1,W
+507,2011,Seattle Sounders FC,"Saturday, Oct 8",Philadelphia Union,0,2,L
+508,2011,Seattle Sounders FC,"Saturday, Oct 15",San Jose Earthquakes,2,1,W
+509,2011,Seattle Sounders FC,"Saturday, Oct 22",Chivas USA,3,1,W
+510,2011,Sporting Kansas City,"Saturday, Mar 19",Chivas USA,3,2,W
+511,2011,Sporting Kansas City,"Saturday, Mar 26",Chicago Fire,2,3,L
+512,2011,Sporting Kansas City,"Saturday, Apr 2",Vancouver Whitecaps,3,3,D
+513,2011,Sporting Kansas City,"Saturday, Apr 16",Columbus Crew,0,1,L
+514,2011,Sporting Kansas City,"Saturday, Apr 23",New England Revolution,2,3,L
+515,2011,Sporting Kansas City,"Saturday, Apr 30",New York Red Bulls,0,1,L
+516,2011,Sporting Kansas City,"Saturday, May 14",LA Galaxy,1,4,L
+517,2011,Sporting Kansas City,"Saturday, May 21",Seattle Sounders FC,0,1,L
+518,2011,Sporting Kansas City,"Saturday, May 28",Colorado Rapids,1,1,D
+519,2011,Sporting Kansas City,"Saturday, Jun 4",Toronto FC,0,0,D
+520,2011,Sporting Kansas City,"Thursday, Jun 9",Chicago Fire,0,0,D
+521,2011,Sporting Kansas City,"Sunday, Jun 12",FC Dallas,4,1,W
+522,2011,Sporting Kansas City,"Friday, Jun 17",San Jose Earthquakes,1,0,W
+523,2011,Sporting Kansas City,"Wednesday, Jun 22",Philadelphia Union,0,0,D
+524,2011,Sporting Kansas City,"Saturday, Jun 25",Vancouver Whitecaps,2,1,W
+525,2011,Sporting Kansas City,"Sunday, Jul 3",Portland Timbers,2,1,W
+526,2011,Sporting Kansas City,"Wednesday, Jul 6",Colorado Rapids,1,1,D
+527,2011,Sporting Kansas City,"Saturday, Jul 9",Chivas USA,1,1,D
+528,2011,Sporting Kansas City,"Saturday, Jul 16",Houston Dynamo,1,1,D
+529,2011,Sporting Kansas City,"Saturday, Jul 23",Toronto FC,4,2,W
+530,2011,Sporting Kansas City,"Saturday, Jul 30",New England Revolution,1,1,D
+531,2011,Sporting Kansas City,"Wednesday, Aug 3",Real Salt Lake,2,0,W
+532,2011,Sporting Kansas City,"Saturday, Aug 6",Seattle Sounders FC,1,2,L
+533,2011,Sporting Kansas City,"Wednesday, Aug 17",Portland Timbers,3,1,W
+534,2011,Sporting Kansas City,"Sunday, Aug 21",D.C. United,1,0,W
+535,2011,Sporting Kansas City,"Saturday, Aug 27",FC Dallas,2,3,L
+536,2011,Sporting Kansas City,"Monday, Sep 5",LA Galaxy,2,2,D
+537,2011,Sporting Kansas City,"Saturday, Sep 10",Houston Dynamo,3,0,W
+538,2011,Sporting Kansas City,"Saturday, Sep 17",Real Salt Lake,0,1,L
+539,2011,Sporting Kansas City,"Friday, Sep 23",Philadelphia Union,1,1,D
+540,2011,Sporting Kansas City,"Wednesday, Sep 28",Columbus Crew,2,1,W
+541,2011,Sporting Kansas City,"Saturday, Oct 1",San Jose Earthquakes,1,1,D
+542,2011,Sporting Kansas City,"Saturday, Oct 15",New York Red Bulls,2,0,W
+543,2011,Sporting Kansas City,"Saturday, Oct 22",D.C. United,1,0,W
+544,2011,Toronto FC,"Saturday, Mar 19",Vancouver Whitecaps,2,4,L
+545,2011,Toronto FC,"Saturday, Mar 26",Portland Timbers,2,0,W
+546,2011,Toronto FC,"Saturday, Apr 2",Chivas USA,1,1,D
+547,2011,Toronto FC,"Saturday, Apr 9",San Jose Earthquakes,1,1,D
+548,2011,Toronto FC,"Wednesday, Apr 13",LA Galaxy,0,0,D
+549,2011,Toronto FC,"Saturday, Apr 16",D.C. United,0,3,L
+550,2011,Toronto FC,"Saturday, Apr 23",Columbus Crew,1,1,D
+551,2011,Toronto FC,"Saturday, Apr 30",Seattle Sounders FC,0,3,L
+552,2011,Toronto FC,"Saturday, May 7",Houston Dynamo,2,1,W
+553,2011,Toronto FC,"Wednesday, May 11",FC Dallas,0,1,L
+554,2011,Toronto FC,"Saturday, May 14",Chicago Fire,2,2,D
+555,2011,Toronto FC,"Sunday, May 22",Colorado Rapids,0,0,D
+556,2011,Toronto FC,"Saturday, May 28",Philadelphia Union,2,6,L
+557,2011,Toronto FC,"Saturday, Jun 4",Sporting Kansas City,0,0,D
+558,2011,Toronto FC,"Saturday, Jun 11",LA Galaxy,2,2,D
+559,2011,Toronto FC,"Wednesday, Jun 15",New England Revolution,0,0,D
+560,2011,Toronto FC,"Saturday, Jun 18",Seattle Sounders FC,0,1,L
+561,2011,Toronto FC,"Saturday, Jun 25",Real Salt Lake,1,3,L
+562,2011,Toronto FC,"Wednesday, Jun 29",Vancouver Whitecaps,1,0,W
+563,2011,Toronto FC,"Wednesday, Jul 6",New York Red Bulls,0,5,L
+564,2011,Toronto FC,"Saturday, Jul 9",Houston Dynamo,0,2,L
+565,2011,Toronto FC,"Wednesday, Jul 20",FC Dallas,0,1,L
+566,2011,Toronto FC,"Saturday, Jul 23",Sporting Kansas City,2,4,L
+567,2011,Toronto FC,"Sunday, Jul 31",Portland Timbers,2,2,D
+568,2011,Toronto FC,"Saturday, Aug 6",D.C. United,3,3,D
+569,2011,Toronto FC,"Saturday, Aug 13",Real Salt Lake,1,0,W
+570,2011,Toronto FC,"Sunday, Aug 21",Chicago Fire,0,2,L
+571,2011,Toronto FC,"Saturday, Aug 27",San Jose Earthquakes,1,1,D
+572,2011,Toronto FC,"Saturday, Sep 10",Columbus Crew,4,2,W
+573,2011,Toronto FC,"Saturday, Sep 17",Colorado Rapids,2,1,W
+574,2011,Toronto FC,"Saturday, Sep 24",Chivas USA,0,3,L
+575,2011,Toronto FC,"Saturday, Oct 1",New York Red Bulls,1,1,D
+576,2011,Toronto FC,"Saturday, Oct 15",Philadelphia Union,1,1,D
+577,2011,Toronto FC,"Saturday, Oct 22",New England Revolution,2,2,D
+578,2011,Vancouver Whitecaps,"Saturday, Mar 19",Toronto FC,4,2,W
+579,2011,Vancouver Whitecaps,"Saturday, Mar 26",Philadelphia Union,0,1,L
+580,2011,Vancouver Whitecaps,"Saturday, Apr 2",Sporting Kansas City,3,3,D
+581,2011,Vancouver Whitecaps,"Wednesday, Apr 6",New England Revolution,1,1,D
+582,2011,Vancouver Whitecaps,"Sunday, Apr 10",Houston Dynamo,1,3,L
+583,2011,Vancouver Whitecaps,"Saturday, Apr 16",Chivas USA,0,0,D
+584,2011,Vancouver Whitecaps,"Saturday, Apr 23",FC Dallas,1,2,L
+585,2011,Vancouver Whitecaps,"Saturday, Apr 30",Columbus Crew,1,2,L
+586,2011,Vancouver Whitecaps,"Saturday, May 7",Chicago Fire,0,0,D
+587,2011,Vancouver Whitecaps,"Wednesday, May 11",San Jose Earthquakes,1,1,D
+588,2011,Vancouver Whitecaps,"Saturday, May 14",New England Revolution,0,1,L
+589,2011,Vancouver Whitecaps,"Saturday, May 28",New York Red Bulls,1,1,D
+590,2011,Vancouver Whitecaps,"Wednesday, Jun 1",Chivas USA,1,1,D
+591,2011,Vancouver Whitecaps,"Saturday, Jun 4",Real Salt Lake,0,2,L
+592,2011,Vancouver Whitecaps,"Saturday, Jun 11",Seattle Sounders FC,2,2,D
+593,2011,Vancouver Whitecaps,"Saturday, Jun 18",Philadelphia Union,1,0,W
+594,2011,Vancouver Whitecaps,"Saturday, Jun 25",Sporting Kansas City,1,2,L
+595,2011,Vancouver Whitecaps,"Wednesday, Jun 29",Toronto FC,0,1,L
+596,2011,Vancouver Whitecaps,"Wednesday, Jul 6",Columbus Crew,0,1,L
+597,2011,Vancouver Whitecaps,"Saturday, Jul 9",Colorado Rapids,1,2,L
+598,2011,Vancouver Whitecaps,"Wednesday, Jul 20",San Jose Earthquakes,2,2,D
+599,2011,Vancouver Whitecaps,"Saturday, Jul 30",LA Galaxy,0,4,L
+600,2011,Vancouver Whitecaps,"Sunday, Aug 7",Chicago Fire,4,2,W
+601,2011,Vancouver Whitecaps,"Saturday, Aug 13",D.C. United,0,4,L
+602,2011,Vancouver Whitecaps,"Saturday, Aug 20",Portland Timbers,1,2,L
+603,2011,Vancouver Whitecaps,"Saturday, Aug 27",Houston Dynamo,1,0,W
+604,2011,Vancouver Whitecaps,"Saturday, Sep 10",New York Red Bulls,1,1,D
+605,2011,Vancouver Whitecaps,"Saturday, Sep 17",LA Galaxy,0,3,L
+606,2011,Vancouver Whitecaps,"Saturday, Sep 24",Seattle Sounders FC,1,3,L
+607,2011,Vancouver Whitecaps,"Sunday, Oct 2",Portland Timbers,0,1,L
+608,2011,Vancouver Whitecaps,"Thursday, Oct 6",Real Salt Lake,3,0,W
+609,2011,Vancouver Whitecaps,"Wednesday, Oct 12",D.C. United,2,1,W
+610,2011,Vancouver Whitecaps,"Saturday, Oct 15",FC Dallas,0,2,L
+611,2011,Vancouver Whitecaps,"Saturday, Oct 22",Colorado Rapids,1,2,L
+612,2012,Chicago Fire,"Saturday, Mar 17",Montreal Impact,1,1,D
+613,2012,Chicago Fire,"Saturday, Mar 24",Philadelphia Union,1,0,W
+614,2012,Chicago Fire,"Sunday, Apr 1",Colorado Rapids,0,2,L
+615,2012,Chicago Fire,"Sunday, Apr 15",Houston Dynamo,1,1,D
+616,2012,Chicago Fire,"Saturday, Apr 21",Toronto FC,3,2,W
+617,2012,Chicago Fire,"Saturday, Apr 28",Seattle Sounders FC,1,2,L
+618,2012,Chicago Fire,"Saturday, May 5",Chivas USA,2,1,W
+619,2012,Chicago Fire,"Wednesday, May 9",Real Salt Lake,0,0,D
+620,2012,Chicago Fire,"Saturday, May 12",Sporting Kansas City,2,1,W
+621,2012,Chicago Fire,"Sunday, May 20",Portland Timbers,1,2,L
+622,2012,Chicago Fire,"Wednesday, May 23",FC Dallas,2,1,W
+623,2012,Chicago Fire,"Saturday, May 26",Columbus Crew,1,2,L
+624,2012,Chicago Fire,"Saturday, Jun 2",New England Revolution,0,2,L
+625,2012,Chicago Fire,"Sunday, Jun 17",New York Red Bulls,3,1,W
+626,2012,Chicago Fire,"Saturday, Jun 23",Columbus Crew,2,1,W
+627,2012,Chicago Fire,"Friday, Jun 29",Sporting Kansas City,1,0,W
+628,2012,Chicago Fire,"Tuesday, Jul 3",Houston Dynamo,0,0,D
+629,2012,Chicago Fire,"Sunday, Jul 8",LA Galaxy,0,2,L
+630,2012,Chicago Fire,"Saturday, Jul 14",Vancouver Whitecaps,1,0,W
+631,2012,Chicago Fire,"Wednesday, Jul 18",New York Red Bulls,0,1,L
+632,2012,Chicago Fire,"Saturday, Jul 28",San Jose Earthquakes,1,1,D
+633,2012,Chicago Fire,"Saturday, Aug 4",Toronto FC,2,1,W
+634,2012,Chicago Fire,"Sunday, Aug 12",Philadelphia Union,3,1,W
+635,2012,Chicago Fire,"Saturday, Aug 18",New England Revolution,2,1,W
+636,2012,Chicago Fire,"Wednesday, Aug 22",D.C. United,2,4,L
+637,2012,Chicago Fire,"Sunday, Sep 2",Houston Dynamo,3,1,W
+638,2012,Chicago Fire,"Wednesday, Sep 12",Toronto FC,2,1,W
+639,2012,Chicago Fire,"Saturday, Sep 15",Montreal Impact,3,1,W
+640,2012,Chicago Fire,"Saturday, Sep 22",Columbus Crew,2,1,W
+641,2012,Chicago Fire,"Friday, Sep 28",Sporting Kansas City,0,2,L
+642,2012,Chicago Fire,"Wednesday, Oct 3",Philadelphia Union,1,3,L
+643,2012,Chicago Fire,"Saturday, Oct 6",New York Red Bulls,2,0,W
+644,2012,Chicago Fire,"Saturday, Oct 20",New England Revolution,0,1,L
+645,2012,Chicago Fire,"Saturday, Oct 27",D.C. United,1,1,D
+646,2012,Chivas USA,"Sunday, Mar 11",Houston Dynamo,0,1,L
+647,2012,Chivas USA,"Saturday, Mar 17",Vancouver Whitecaps,0,1,L
+648,2012,Chivas USA,"Saturday, Mar 24",Real Salt Lake,1,0,W
+649,2012,Chivas USA,"Sunday, Apr 1",Sporting Kansas City,0,1,L
+650,2012,Chivas USA,"Saturday, Apr 7",Portland Timbers,2,1,W
+651,2012,Chivas USA,"Saturday, Apr 14",Toronto FC,1,0,W
+652,2012,Chivas USA,"Saturday, Apr 21",Philadelphia Union,0,1,L
+653,2012,Chivas USA,"Saturday, Apr 28",Colorado Rapids,0,4,L
+654,2012,Chivas USA,"Saturday, May 5",Chicago Fire,1,2,L
+655,2012,Chivas USA,"Sunday, May 13",San Jose Earthquakes,1,1,D
+656,2012,Chivas USA,"Saturday, May 19",LA Galaxy,1,0,W
+657,2012,Chivas USA,"Wednesday, May 23",New York Red Bulls,1,1,D
+658,2012,Chivas USA,"Saturday, May 26",Seattle Sounders FC,1,1,D
+659,2012,Chivas USA,"Saturday, Jun 16",Real Salt Lake,0,3,L
+660,2012,Chivas USA,"Wednesday, Jun 20",Montreal Impact,2,1,W
+661,2012,Chivas USA,"Saturday, Jun 23",FC Dallas,0,0,D
+662,2012,Chivas USA,"Saturday, Jul 7",Vancouver Whitecaps,0,0,D
+663,2012,Chivas USA,"Wednesday, Jul 18",Portland Timbers,1,0,W
+664,2012,Chivas USA,"Saturday, Jul 21",LA Galaxy,1,3,L
+665,2012,Chivas USA,"Sunday, Jul 29",Portland Timbers,1,0,W
+666,2012,Chivas USA,"Monday, Aug 13",LA Galaxy,0,4,L
+667,2012,Chivas USA,"Saturday, Aug 18",Colorado Rapids,1,1,D
+668,2012,Chivas USA,"Saturday, Aug 25",Seattle Sounders FC,2,6,L
+669,2012,Chivas USA,"Wednesday, Aug 29",New England Revolution,3,3,D
+670,2012,Chivas USA,"Sunday, Sep 2",San Jose Earthquakes,0,4,L
+671,2012,Chivas USA,"Saturday, Sep 8",Seattle Sounders FC,1,2,L
+672,2012,Chivas USA,"Saturday, Sep 15",San Jose Earthquakes,0,2,L
+673,2012,Chivas USA,"Wednesday, Sep 19",Columbus Crew,0,1,L
+674,2012,Chivas USA,"Sunday, Sep 23",D.C. United,0,1,L
+675,2012,Chivas USA,"Saturday, Sep 29",Real Salt Lake,0,4,L
+676,2012,Chivas USA,"Wednesday, Oct 3",Vancouver Whitecaps,0,4,L
+677,2012,Chivas USA,"Sunday, Oct 7",FC Dallas,1,1,D
+678,2012,Chivas USA,"Saturday, Oct 20",Colorado Rapids,0,2,L
+679,2012,Chivas USA,"Sunday, Oct 28",FC Dallas,2,2,D
+680,2012,Colorado Rapids,"Saturday, Mar 10",Columbus Crew,2,0,W
+681,2012,Colorado Rapids,"Sunday, Mar 18",Philadelphia Union,2,1,W
+682,2012,Colorado Rapids,"Sunday, Mar 25",New York Red Bulls,1,4,L
+683,2012,Colorado Rapids,"Sunday, Apr 1",Chicago Fire,2,0,W
+684,2012,Colorado Rapids,"Saturday, Apr 7",Real Salt Lake,0,2,L
+685,2012,Colorado Rapids,"Saturday, Apr 14",Seattle Sounders FC,0,1,L
+686,2012,Colorado Rapids,"Saturday, Apr 21",LA Galaxy,1,2,L
+687,2012,Colorado Rapids,"Saturday, Apr 28",Chivas USA,4,0,W
+688,2012,Colorado Rapids,"Wednesday, May 2",New England Revolution,1,2,L
+689,2012,Colorado Rapids,"Sunday, May 6",FC Dallas,2,0,W
+690,2012,Colorado Rapids,"Wednesday, May 16",D.C. United,0,2,L
+691,2012,Colorado Rapids,"Saturday, May 19",Sporting Kansas City,2,2,D
+692,2012,Colorado Rapids,"Saturday, May 26",Montreal Impact,3,2,W
+693,2012,Colorado Rapids,"Saturday, Jun 16",Vancouver Whitecaps,0,1,L
+694,2012,Colorado Rapids,"Wednesday, Jun 20",San Jose Earthquakes,1,2,L
+695,2012,Colorado Rapids,"Saturday, Jun 30",Portland Timbers,3,0,W
+696,2012,Colorado Rapids,"Wednesday, Jul 4",Vancouver Whitecaps,0,1,L
+697,2012,Colorado Rapids,"Sunday, Jul 8",Seattle Sounders FC,1,2,L
+698,2012,Colorado Rapids,"Saturday, Jul 14",FC Dallas,1,2,L
+699,2012,Colorado Rapids,"Wednesday, Jul 18",Toronto FC,1,2,L
+700,2012,Colorado Rapids,"Saturday, Jul 21",Real Salt Lake,0,2,L
+701,2012,Colorado Rapids,"Saturday, Jul 28",Seattle Sounders FC,1,2,L
+702,2012,Colorado Rapids,"Saturday, Aug 4",Real Salt Lake,1,0,W
+703,2012,Colorado Rapids,"Saturday, Aug 11",FC Dallas,2,3,L
+704,2012,Colorado Rapids,"Saturday, Aug 18",Chivas USA,1,1,D
+705,2012,Colorado Rapids,"Saturday, Aug 25",San Jose Earthquakes,1,4,L
+706,2012,Colorado Rapids,"Friday, Aug 31",Portland Timbers,0,1,L
+707,2012,Colorado Rapids,"Wednesday, Sep 5",Portland Timbers,3,0,W
+708,2012,Colorado Rapids,"Saturday, Sep 15",LA Galaxy,0,2,L
+709,2012,Colorado Rapids,"Sunday, Sep 23",Vancouver Whitecaps,2,2,D
+710,2012,Colorado Rapids,"Sunday, Sep 30",LA Galaxy,1,1,D
+711,2012,Colorado Rapids,"Saturday, Oct 6",San Jose Earthquakes,1,4,L
+712,2012,Colorado Rapids,"Saturday, Oct 20",Chivas USA,2,0,W
+713,2012,Colorado Rapids,"Saturday, Oct 27",Houston Dynamo,2,0,W
+714,2012,Columbus Crew,"Saturday, Mar 10",Colorado Rapids,0,2,L
+715,2012,Columbus Crew,"Saturday, Mar 24",Montreal Impact,2,0,W
+716,2012,Columbus Crew,"Saturday, Mar 31",Toronto FC,1,0,W
+717,2012,Columbus Crew,"Saturday, Apr 7",New York Red Bulls,1,4,L
+718,2012,Columbus Crew,"Saturday, Apr 14",Philadelphia Union,0,1,L
+719,2012,Columbus Crew,"Saturday, Apr 21",Houston Dynamo,2,2,D
+720,2012,Columbus Crew,"Saturday, Apr 28",Vancouver Whitecaps,0,1,L
+721,2012,Columbus Crew,"Saturday, May 5",Portland Timbers,0,0,D
+722,2012,Columbus Crew,"Saturday, May 12",FC Dallas,2,1,W
+723,2012,Columbus Crew,"Saturday, May 19",San Jose Earthquakes,1,1,D
+724,2012,Columbus Crew,"Wednesday, May 23",Seattle Sounders FC,2,0,W
+725,2012,Columbus Crew,"Saturday, May 26",Chicago Fire,2,1,W
+726,2012,Columbus Crew,"Saturday, Jun 16",New England Revolution,0,0,D
+727,2012,Columbus Crew,"Saturday, Jun 23",Chicago Fire,1,2,L
+728,2012,Columbus Crew,"Saturday, Jun 30",Real Salt Lake,2,0,W
+729,2012,Columbus Crew,"Sunday, Jul 8",Montreal Impact,1,2,L
+730,2012,Columbus Crew,"Saturday, Jul 14",Sporting Kansas City,0,2,L
+731,2012,Columbus Crew,"Saturday, Jul 21",D.C. United,1,0,W
+732,2012,Columbus Crew,"Saturday, Jul 28",Sporting Kansas City,2,1,W
+733,2012,Columbus Crew,"Saturday, Aug 4",D.C. United,0,1,L
+734,2012,Columbus Crew,"Wednesday, Aug 15",LA Galaxy,1,1,D
+735,2012,Columbus Crew,"Sunday, Aug 19",Houston Dynamo,2,2,D
+736,2012,Columbus Crew,"Wednesday, Aug 22",Toronto FC,2,1,W
+737,2012,Columbus Crew,"Saturday, Aug 25",New England Revolution,4,3,W
+738,2012,Columbus Crew,"Wednesday, Aug 29",Philadelphia Union,2,1,W
+739,2012,Columbus Crew,"Saturday, Sep 1",Montreal Impact,2,1,W
+740,2012,Columbus Crew,"Wednesday, Sep 5",New England Revolution,0,2,L
+741,2012,Columbus Crew,"Saturday, Sep 15",New York Red Bulls,1,3,L
+742,2012,Columbus Crew,"Wednesday, Sep 19",Chivas USA,1,0,W
+743,2012,Columbus Crew,"Saturday, Sep 22",Chicago Fire,1,2,L
+744,2012,Columbus Crew,"Saturday, Sep 29",Philadelphia Union,3,2,W
+745,2012,Columbus Crew,"Sunday, Oct 7",Sporting Kansas City,1,1,D
+746,2012,Columbus Crew,"Saturday, Oct 20",D.C. United,2,3,L
+747,2012,Columbus Crew,"Sunday, Oct 28",Toronto FC,2,1,W
+748,2012,D.C. United,"Saturday, Mar 10",Sporting Kansas City,0,1,L
+749,2012,D.C. United,"Sunday, Mar 18",LA Galaxy,1,3,L
+750,2012,D.C. United,"Saturday, Mar 24",Vancouver Whitecaps,0,0,D
+751,2012,D.C. United,"Friday, Mar 30",FC Dallas,4,1,W
+752,2012,D.C. United,"Saturday, Apr 7",Seattle Sounders FC,0,0,D
+753,2012,D.C. United,"Saturday, Apr 14",New England Revolution,2,1,W
+754,2012,D.C. United,"Wednesday, Apr 18",Montreal Impact,1,1,D
+755,2012,D.C. United,"Sunday, Apr 22",New York Red Bulls,4,1,W
+756,2012,D.C. United,"Saturday, Apr 28",Houston Dynamo,3,2,W
+757,2012,D.C. United,"Wednesday, May 2",San Jose Earthquakes,3,5,L
+758,2012,D.C. United,"Saturday, May 5",Toronto FC,2,0,W
+759,2012,D.C. United,"Saturday, May 12",Houston Dynamo,0,1,L
+760,2012,D.C. United,"Wednesday, May 16",Colorado Rapids,2,0,W
+761,2012,D.C. United,"Saturday, May 19",Toronto FC,3,1,W
+762,2012,D.C. United,"Saturday, May 26",New England Revolution,3,2,W
+763,2012,D.C. United,"Saturday, Jun 16",Philadelphia Union,1,0,W
+764,2012,D.C. United,"Sunday, Jun 24",New York Red Bulls,2,3,L
+765,2012,D.C. United,"Saturday, Jun 30",Montreal Impact,3,0,W
+766,2012,D.C. United,"Sunday, Jul 15",Houston Dynamo,0,4,L
+767,2012,D.C. United,"Saturday, Jul 21",Columbus Crew,0,1,L
+768,2012,D.C. United,"Saturday, Aug 4",Columbus Crew,1,0,W
+769,2012,D.C. United,"Saturday, Aug 11",Sporting Kansas City,1,2,L
+770,2012,D.C. United,"Sunday, Aug 19",Philadelphia Union,1,1,D
+771,2012,D.C. United,"Wednesday, Aug 22",Chicago Fire,4,2,W
+772,2012,D.C. United,"Saturday, Aug 25",Montreal Impact,0,3,L
+773,2012,D.C. United,"Wednesday, Aug 29",New York Red Bulls,2,2,D
+774,2012,D.C. United,"Saturday, Sep 1",Real Salt Lake,0,1,L
+775,2012,D.C. United,"Saturday, Sep 15",New England Revolution,2,1,W
+776,2012,D.C. United,"Thursday, Sep 20",Philadelphia Union,1,0,W
+777,2012,D.C. United,"Sunday, Sep 23",Chivas USA,1,0,W
+778,2012,D.C. United,"Saturday, Sep 29",Portland Timbers,1,1,D
+779,2012,D.C. United,"Saturday, Oct 6",Toronto FC,1,0,W
+780,2012,D.C. United,"Saturday, Oct 20",Columbus Crew,3,2,W
+781,2012,D.C. United,"Saturday, Oct 27",Chicago Fire,1,1,D
+782,2012,FC Dallas,"Sunday, Mar 11",New York Red Bulls,2,1,W
+783,2012,FC Dallas,"Saturday, Mar 17",Portland Timbers,1,1,D
+784,2012,FC Dallas,"Sunday, Mar 25",Sporting Kansas City,1,2,L
+785,2012,FC Dallas,"Friday, Mar 30",D.C. United,1,4,L
+786,2012,FC Dallas,"Thursday, Apr 5",New England Revolution,1,0,W
+787,2012,FC Dallas,"Saturday, Apr 14",Montreal Impact,2,1,W
+788,2012,FC Dallas,"Saturday, Apr 21",Vancouver Whitecaps,0,1,L
+789,2012,FC Dallas,"Wednesday, Apr 25",Real Salt Lake,1,1,D
+790,2012,FC Dallas,"Saturday, Apr 28",LA Galaxy,1,1,D
+791,2012,FC Dallas,"Sunday, May 6",Colorado Rapids,0,2,L
+792,2012,FC Dallas,"Wednesday, May 9",Seattle Sounders FC,0,2,L
+793,2012,FC Dallas,"Saturday, May 12",Columbus Crew,1,2,L
+794,2012,FC Dallas,"Saturday, May 19",Philadelphia Union,1,1,D
+795,2012,FC Dallas,"Wednesday, May 23",Chicago Fire,1,2,L
+796,2012,FC Dallas,"Saturday, May 26",Real Salt Lake,2,3,L
+797,2012,FC Dallas,"Saturday, Jun 16",Houston Dynamo,1,2,L
+798,2012,FC Dallas,"Saturday, Jun 23",Chivas USA,0,0,D
+799,2012,FC Dallas,"Wednesday, Jul 4",Toronto FC,1,1,D
+800,2012,FC Dallas,"Saturday, Jul 7",San Jose Earthquakes,0,0,D
+801,2012,FC Dallas,"Saturday, Jul 14",Colorado Rapids,2,1,W
+802,2012,FC Dallas,"Thursday, Jul 19",San Jose Earthquakes,1,2,L
+803,2012,FC Dallas,"Saturday, Jul 21",Portland Timbers,5,0,W
+804,2012,FC Dallas,"Saturday, Jul 28",LA Galaxy,0,1,L
+805,2012,FC Dallas,"Sunday, Aug 5",Portland Timbers,1,1,D
+806,2012,FC Dallas,"Saturday, Aug 11",Colorado Rapids,3,2,W
+807,2012,FC Dallas,"Wednesday, Aug 15",Vancouver Whitecaps,2,0,W
+808,2012,FC Dallas,"Saturday, Aug 18",Real Salt Lake,2,1,W
+809,2012,FC Dallas,"Sunday, Aug 26",LA Galaxy,0,2,L
+810,2012,FC Dallas,"Sunday, Sep 2",Seattle Sounders FC,1,1,D
+811,2012,FC Dallas,"Saturday, Sep 15",Vancouver Whitecaps,1,0,W
+812,2012,FC Dallas,"Saturday, Sep 29",San Jose Earthquakes,3,3,D
+813,2012,FC Dallas,"Sunday, Oct 7",Chivas USA,1,1,D
+814,2012,FC Dallas,"Sunday, Oct 21",Seattle Sounders FC,1,3,L
+815,2012,FC Dallas,"Sunday, Oct 28",Chivas USA,2,2,D
+816,2012,Houston Dynamo,"Sunday, Mar 11",Chivas USA,1,0,W
+817,2012,Houston Dynamo,"Saturday, Mar 17",San Jose Earthquakes,1,0,W
+818,2012,Houston Dynamo,"Friday, Mar 23",Seattle Sounders FC,0,2,L
+819,2012,Houston Dynamo,"Sunday, Apr 15",Chicago Fire,1,1,D
+820,2012,Houston Dynamo,"Saturday, Apr 21",Columbus Crew,2,2,D
+821,2012,Houston Dynamo,"Saturday, Apr 28",D.C. United,2,3,L
+822,2012,Houston Dynamo,"Wednesday, May 9",New York Red Bulls,0,1,L
+823,2012,Houston Dynamo,"Saturday, May 12",D.C. United,1,0,W
+824,2012,Houston Dynamo,"Tuesday, May 15",Portland Timbers,0,0,D
+825,2012,Houston Dynamo,"Saturday, May 19",New England Revolution,2,2,D
+826,2012,Houston Dynamo,"Saturday, May 26",LA Galaxy,2,1,W
+827,2012,Houston Dynamo,"Sunday, Jun 10",Vancouver Whitecaps,1,3,L
+828,2012,Houston Dynamo,"Saturday, Jun 16",FC Dallas,2,1,W
+829,2012,Houston Dynamo,"Wednesday, Jun 20",Toronto FC,3,3,D
+830,2012,Houston Dynamo,"Saturday, Jun 23",Montreal Impact,2,4,L
+831,2012,Houston Dynamo,"Saturday, Jun 30",Philadelphia Union,2,1,W
+832,2012,Houston Dynamo,"Tuesday, Jul 3",Chicago Fire,0,0,D
+833,2012,Houston Dynamo,"Saturday, Jul 7",Sporting Kansas City,0,0,D
+834,2012,Houston Dynamo,"Sunday, Jul 15",D.C. United,4,0,W
+835,2012,Houston Dynamo,"Wednesday, Jul 18",Sporting Kansas City,2,1,W
+836,2012,Houston Dynamo,"Saturday, Jul 21",Montreal Impact,3,0,W
+837,2012,Houston Dynamo,"Saturday, Jul 28",Toronto FC,2,0,W
+838,2012,Houston Dynamo,"Friday, Aug 3",New York Red Bulls,2,0,W
+839,2012,Houston Dynamo,"Friday, Aug 10",New York Red Bulls,0,2,L
+840,2012,Houston Dynamo,"Sunday, Aug 19",Columbus Crew,2,2,D
+841,2012,Houston Dynamo,"Saturday, Aug 25",Toronto FC,1,1,D
+842,2012,Houston Dynamo,"Sunday, Sep 2",Chicago Fire,1,3,L
+843,2012,Houston Dynamo,"Thursday, Sep 6",Real Salt Lake,1,0,W
+844,2012,Houston Dynamo,"Friday, Sep 14",Sporting Kansas City,1,1,D
+845,2012,Houston Dynamo,"Sunday, Sep 23",Philadelphia Union,1,3,L
+846,2012,Houston Dynamo,"Saturday, Sep 29",New England Revolution,2,0,W
+847,2012,Houston Dynamo,"Saturday, Oct 6",Montreal Impact,1,1,D
+848,2012,Houston Dynamo,"Saturday, Oct 20",Philadelphia Union,3,1,W
+849,2012,Houston Dynamo,"Saturday, Oct 27",Colorado Rapids,0,2,L
+850,2012,LA Galaxy,"Saturday, Mar 10",Real Salt Lake,1,3,L
+851,2012,LA Galaxy,"Sunday, Mar 18",D.C. United,3,1,W
+852,2012,LA Galaxy,"Sunday, Apr 1",New England Revolution,1,3,L
+853,2012,LA Galaxy,"Saturday, Apr 7",Sporting Kansas City,0,1,L
+854,2012,LA Galaxy,"Saturday, Apr 14",Portland Timbers,3,1,W
+855,2012,LA Galaxy,"Saturday, Apr 21",Colorado Rapids,2,1,W
+856,2012,LA Galaxy,"Saturday, Apr 28",FC Dallas,1,1,D
+857,2012,LA Galaxy,"Wednesday, May 2",Seattle Sounders FC,0,2,L
+858,2012,LA Galaxy,"Saturday, May 5",New York Red Bulls,0,1,L
+859,2012,LA Galaxy,"Saturday, May 12",Montreal Impact,1,1,D
+860,2012,LA Galaxy,"Saturday, May 19",Chivas USA,0,1,L
+861,2012,LA Galaxy,"Wednesday, May 23",San Jose Earthquakes,2,3,L
+862,2012,LA Galaxy,"Saturday, May 26",Houston Dynamo,1,2,L
+863,2012,LA Galaxy,"Sunday, Jun 17",Portland Timbers,1,0,W
+864,2012,LA Galaxy,"Wednesday, Jun 20",Real Salt Lake,3,2,W
+865,2012,LA Galaxy,"Saturday, Jun 23",Vancouver Whitecaps,3,0,W
+866,2012,LA Galaxy,"Saturday, Jun 30",San Jose Earthquakes,3,4,L
+867,2012,LA Galaxy,"Wednesday, Jul 4",Philadelphia Union,1,2,L
+868,2012,LA Galaxy,"Sunday, Jul 8",Chicago Fire,2,0,W
+869,2012,LA Galaxy,"Sunday, Jul 15",Portland Timbers,5,3,W
+870,2012,LA Galaxy,"Wednesday, Jul 18",Vancouver Whitecaps,2,2,D
+871,2012,LA Galaxy,"Saturday, Jul 21",Chivas USA,3,1,W
+872,2012,LA Galaxy,"Saturday, Jul 28",FC Dallas,1,0,W
+873,2012,LA Galaxy,"Sunday, Aug 5",Seattle Sounders FC,0,4,L
+874,2012,LA Galaxy,"Monday, Aug 13",Chivas USA,4,0,W
+875,2012,LA Galaxy,"Wednesday, Aug 15",Columbus Crew,1,1,D
+876,2012,LA Galaxy,"Sunday, Aug 26",FC Dallas,2,0,W
+877,2012,LA Galaxy,"Saturday, Sep 1",Vancouver Whitecaps,2,0,W
+878,2012,LA Galaxy,"Saturday, Sep 15",Colorado Rapids,2,0,W
+879,2012,LA Galaxy,"Saturday, Sep 22",Toronto FC,4,2,W
+880,2012,LA Galaxy,"Sunday, Sep 30",Colorado Rapids,1,1,D
+881,2012,LA Galaxy,"Saturday, Oct 6",Real Salt Lake,1,2,L
+882,2012,LA Galaxy,"Sunday, Oct 21",San Jose Earthquakes,2,2,D
+883,2012,LA Galaxy,"Sunday, Oct 28",Seattle Sounders FC,1,0,W
+884,2012,Montreal Impact,"Saturday, Mar 10",Vancouver Whitecaps,0,2,L
+885,2012,Montreal Impact,"Saturday, Mar 17",Chicago Fire,1,1,D
+886,2012,Montreal Impact,"Saturday, Mar 24",Columbus Crew,0,2,L
+887,2012,Montreal Impact,"Saturday, Mar 31",New York Red Bulls,2,5,L
+888,2012,Montreal Impact,"Wednesday, Apr 4",Real Salt Lake,0,1,L
+889,2012,Montreal Impact,"Saturday, Apr 7",Toronto FC,2,1,W
+890,2012,Montreal Impact,"Saturday, Apr 14",FC Dallas,1,2,L
+891,2012,Montreal Impact,"Wednesday, Apr 18",D.C. United,1,1,D
+892,2012,Montreal Impact,"Saturday, Apr 28",Portland Timbers,2,0,W
+893,2012,Montreal Impact,"Saturday, May 5",Sporting Kansas City,2,0,W
+894,2012,Montreal Impact,"Saturday, May 12",LA Galaxy,1,1,D
+895,2012,Montreal Impact,"Saturday, May 19",New York Red Bulls,1,2,L
+896,2012,Montreal Impact,"Saturday, May 26",Colorado Rapids,2,3,L
+897,2012,Montreal Impact,"Saturday, Jun 16",Seattle Sounders FC,4,1,W
+898,2012,Montreal Impact,"Wednesday, Jun 20",Chivas USA,1,2,L
+899,2012,Montreal Impact,"Saturday, Jun 23",Houston Dynamo,4,2,W
+900,2012,Montreal Impact,"Wednesday, Jun 27",Toronto FC,0,3,L
+901,2012,Montreal Impact,"Saturday, Jun 30",D.C. United,0,3,L
+902,2012,Montreal Impact,"Wednesday, Jul 4",Sporting Kansas City,1,3,L
+903,2012,Montreal Impact,"Sunday, Jul 8",Columbus Crew,2,1,W
+904,2012,Montreal Impact,"Saturday, Jul 14",Philadelphia Union,1,2,L
+905,2012,Montreal Impact,"Wednesday, Jul 18",New England Revolution,2,1,W
+906,2012,Montreal Impact,"Saturday, Jul 21",Houston Dynamo,0,3,L
+907,2012,Montreal Impact,"Saturday, Jul 28",New York Red Bulls,3,1,W
+908,2012,Montreal Impact,"Saturday, Aug 4",Philadelphia Union,2,0,W
+909,2012,Montreal Impact,"Sunday, Aug 12",New England Revolution,1,0,W
+910,2012,Montreal Impact,"Saturday, Aug 18",San Jose Earthquakes,3,1,W
+911,2012,Montreal Impact,"Saturday, Aug 25",D.C. United,3,0,W
+912,2012,Montreal Impact,"Saturday, Sep 1",Columbus Crew,1,2,L
+913,2012,Montreal Impact,"Saturday, Sep 15",Chicago Fire,1,3,L
+914,2012,Montreal Impact,"Saturday, Sep 22",Sporting Kansas City,0,0,D
+915,2012,Montreal Impact,"Saturday, Oct 6",Houston Dynamo,1,1,D
+916,2012,Montreal Impact,"Saturday, Oct 20",Toronto FC,0,0,D
+917,2012,Montreal Impact,"Saturday, Oct 27",New England Revolution,0,1,L
+918,2012,New England Revolution,"Saturday, Mar 10",San Jose Earthquakes,0,1,L
+919,2012,New England Revolution,"Saturday, Mar 17",Sporting Kansas City,0,3,L
+920,2012,New England Revolution,"Saturday, Mar 24",Portland Timbers,1,0,W
+921,2012,New England Revolution,"Sunday, Apr 1",LA Galaxy,3,1,W
+922,2012,New England Revolution,"Thursday, Apr 5",FC Dallas,0,1,L
+923,2012,New England Revolution,"Saturday, Apr 14",D.C. United,1,2,L
+924,2012,New England Revolution,"Saturday, Apr 28",New York Red Bulls,0,1,L
+925,2012,New England Revolution,"Wednesday, May 2",Colorado Rapids,2,1,W
+926,2012,New England Revolution,"Saturday, May 5",Real Salt Lake,1,2,L
+927,2012,New England Revolution,"Saturday, May 12",Vancouver Whitecaps,4,1,W
+928,2012,New England Revolution,"Saturday, May 19",Houston Dynamo,2,2,D
+929,2012,New England Revolution,"Saturday, May 26",D.C. United,2,3,L
+930,2012,New England Revolution,"Saturday, Jun 2",Chicago Fire,2,0,W
+931,2012,New England Revolution,"Saturday, Jun 16",Columbus Crew,0,0,D
+932,2012,New England Revolution,"Saturday, Jun 23",Toronto FC,2,2,D
+933,2012,New England Revolution,"Saturday, Jun 30",Seattle Sounders FC,2,2,D
+934,2012,New England Revolution,"Sunday, Jul 8",New York Red Bulls,2,0,W
+935,2012,New England Revolution,"Saturday, Jul 14",Toronto FC,0,1,L
+936,2012,New England Revolution,"Wednesday, Jul 18",Montreal Impact,1,2,L
+937,2012,New England Revolution,"Saturday, Jul 21",Sporting Kansas City,0,0,D
+938,2012,New England Revolution,"Sunday, Jul 29",Philadelphia Union,1,2,L
+939,2012,New England Revolution,"Saturday, Aug 4",Sporting Kansas City,0,1,L
+940,2012,New England Revolution,"Sunday, Aug 12",Montreal Impact,0,1,L
+941,2012,New England Revolution,"Saturday, Aug 18",Chicago Fire,1,2,L
+942,2012,New England Revolution,"Saturday, Aug 25",Columbus Crew,3,4,L
+943,2012,New England Revolution,"Wednesday, Aug 29",Chivas USA,3,3,D
+944,2012,New England Revolution,"Saturday, Sep 1",Philadelphia Union,0,0,D
+945,2012,New England Revolution,"Wednesday, Sep 5",Columbus Crew,2,0,W
+946,2012,New England Revolution,"Saturday, Sep 15",D.C. United,1,2,L
+947,2012,New England Revolution,"Saturday, Sep 22",New York Red Bulls,1,1,D
+948,2012,New England Revolution,"Saturday, Sep 29",Houston Dynamo,0,2,L
+949,2012,New England Revolution,"Saturday, Oct 6",Philadelphia Union,0,1,L
+950,2012,New England Revolution,"Saturday, Oct 20",Chicago Fire,1,0,W
+951,2012,New England Revolution,"Saturday, Oct 27",Montreal Impact,1,0,W
+952,2012,New York Red Bulls,"Sunday, Mar 11",FC Dallas,1,2,L
+953,2012,New York Red Bulls,"Saturday, Mar 17",Real Salt Lake,0,2,L
+954,2012,New York Red Bulls,"Sunday, Mar 25",Colorado Rapids,4,1,W
+955,2012,New York Red Bulls,"Saturday, Mar 31",Montreal Impact,5,2,W
+956,2012,New York Red Bulls,"Saturday, Apr 7",Columbus Crew,4,1,W
+957,2012,New York Red Bulls,"Saturday, Apr 14",San Jose Earthquakes,2,2,D
+958,2012,New York Red Bulls,"Sunday, Apr 22",D.C. United,1,4,L
+959,2012,New York Red Bulls,"Saturday, Apr 28",New England Revolution,1,0,W
+960,2012,New York Red Bulls,"Saturday, May 5",LA Galaxy,1,0,W
+961,2012,New York Red Bulls,"Wednesday, May 9",Houston Dynamo,1,0,W
+962,2012,New York Red Bulls,"Sunday, May 13",Philadelphia Union,3,2,W
+963,2012,New York Red Bulls,"Saturday, May 19",Montreal Impact,2,1,W
+964,2012,New York Red Bulls,"Wednesday, May 23",Chivas USA,1,1,D
+965,2012,New York Red Bulls,"Sunday, Jun 17",Chicago Fire,1,3,L
+966,2012,New York Red Bulls,"Thursday, Jun 21",Vancouver Whitecaps,1,1,D
+967,2012,New York Red Bulls,"Sunday, Jun 24",D.C. United,3,2,W
+968,2012,New York Red Bulls,"Saturday, Jun 30",Toronto FC,1,1,D
+969,2012,New York Red Bulls,"Sunday, Jul 8",New England Revolution,0,2,L
+970,2012,New York Red Bulls,"Sunday, Jul 15",Seattle Sounders FC,2,2,D
+971,2012,New York Red Bulls,"Wednesday, Jul 18",Chicago Fire,1,0,W
+972,2012,New York Red Bulls,"Saturday, Jul 21",Philadelphia Union,2,0,W
+973,2012,New York Red Bulls,"Saturday, Jul 28",Montreal Impact,1,3,L
+974,2012,New York Red Bulls,"Friday, Aug 3",Houston Dynamo,0,2,L
+975,2012,New York Red Bulls,"Friday, Aug 10",Houston Dynamo,2,0,W
+976,2012,New York Red Bulls,"Sunday, Aug 19",Portland Timbers,3,2,W
+977,2012,New York Red Bulls,"Sunday, Aug 26",Sporting Kansas City,1,1,D
+978,2012,New York Red Bulls,"Wednesday, Aug 29",D.C. United,2,2,D
+979,2012,New York Red Bulls,"Saturday, Sep 15",Columbus Crew,3,1,W
+980,2012,New York Red Bulls,"Wednesday, Sep 19",Sporting Kansas City,0,2,L
+981,2012,New York Red Bulls,"Saturday, Sep 22",New England Revolution,1,1,D
+982,2012,New York Red Bulls,"Saturday, Sep 29",Toronto FC,4,1,W
+983,2012,New York Red Bulls,"Saturday, Oct 6",Chicago Fire,0,2,L
+984,2012,New York Red Bulls,"Saturday, Oct 20",Sporting Kansas City,0,0,D
+985,2012,New York Red Bulls,"Saturday, Oct 27",Philadelphia Union,3,0,W
+986,2012,Philadelphia Union,"Monday, Mar 12",Portland Timbers,1,3,L
+987,2012,Philadelphia Union,"Sunday, Mar 18",Colorado Rapids,1,2,L
+988,2012,Philadelphia Union,"Saturday, Mar 24",Chicago Fire,0,1,L
+989,2012,Philadelphia Union,"Saturday, Mar 31",Vancouver Whitecaps,0,0,D
+990,2012,Philadelphia Union,"Saturday, Apr 14",Columbus Crew,1,0,W
+991,2012,Philadelphia Union,"Saturday, Apr 21",Chivas USA,1,0,W
+992,2012,Philadelphia Union,"Saturday, Apr 28",San Jose Earthquakes,1,2,L
+993,2012,Philadelphia Union,"Saturday, May 5",Seattle Sounders FC,0,1,L
+994,2012,Philadelphia Union,"Sunday, May 13",New York Red Bulls,2,3,L
+995,2012,Philadelphia Union,"Saturday, May 19",FC Dallas,1,1,D
+996,2012,Philadelphia Union,"Saturday, May 26",Toronto FC,0,1,L
+997,2012,Philadelphia Union,"Saturday, Jun 16",D.C. United,0,1,L
+998,2012,Philadelphia Union,"Saturday, Jun 23",Sporting Kansas City,4,0,W
+999,2012,Philadelphia Union,"Saturday, Jun 30",Houston Dynamo,1,2,L
+1000,2012,Philadelphia Union,"Wednesday, Jul 4",LA Galaxy,2,1,W
+1001,2012,Philadelphia Union,"Sunday, Jul 8",Toronto FC,3,0,W
+1002,2012,Philadelphia Union,"Saturday, Jul 14",Montreal Impact,2,1,W
+1003,2012,Philadelphia Union,"Saturday, Jul 21",New York Red Bulls,0,2,L
+1004,2012,Philadelphia Union,"Sunday, Jul 29",New England Revolution,2,1,W
+1005,2012,Philadelphia Union,"Saturday, Aug 4",Montreal Impact,0,2,L
+1006,2012,Philadelphia Union,"Sunday, Aug 12",Chicago Fire,1,3,L
+1007,2012,Philadelphia Union,"Sunday, Aug 19",D.C. United,1,1,D
+1008,2012,Philadelphia Union,"Friday, Aug 24",Real Salt Lake,0,0,D
+1009,2012,Philadelphia Union,"Wednesday, Aug 29",Columbus Crew,1,2,L
+1010,2012,Philadelphia Union,"Saturday, Sep 1",New England Revolution,0,0,D
+1011,2012,Philadelphia Union,"Saturday, Sep 15",Toronto FC,1,1,D
+1012,2012,Philadelphia Union,"Thursday, Sep 20",D.C. United,0,1,L
+1013,2012,Philadelphia Union,"Sunday, Sep 23",Houston Dynamo,3,1,W
+1014,2012,Philadelphia Union,"Saturday, Sep 29",Columbus Crew,2,3,L
+1015,2012,Philadelphia Union,"Wednesday, Oct 3",Chicago Fire,3,1,W
+1016,2012,Philadelphia Union,"Saturday, Oct 6",New England Revolution,1,0,W
+1017,2012,Philadelphia Union,"Saturday, Oct 20",Houston Dynamo,1,3,L
+1018,2012,Philadelphia Union,"Wednesday, Oct 24",Sporting Kansas City,1,2,L
+1019,2012,Philadelphia Union,"Saturday, Oct 27",New York Red Bulls,0,3,L
+1020,2012,Portland Timbers,"Monday, Mar 12",Philadelphia Union,3,1,W
+1021,2012,Portland Timbers,"Saturday, Mar 17",FC Dallas,1,1,D
+1022,2012,Portland Timbers,"Saturday, Mar 24",New England Revolution,0,1,L
+1023,2012,Portland Timbers,"Saturday, Mar 31",Real Salt Lake,2,3,L
+1024,2012,Portland Timbers,"Saturday, Apr 7",Chivas USA,1,2,L
+1025,2012,Portland Timbers,"Saturday, Apr 14",LA Galaxy,1,3,L
+1026,2012,Portland Timbers,"Saturday, Apr 21",Sporting Kansas City,1,0,W
+1027,2012,Portland Timbers,"Saturday, Apr 28",Montreal Impact,0,2,L
+1028,2012,Portland Timbers,"Saturday, May 5",Columbus Crew,0,0,D
+1029,2012,Portland Timbers,"Tuesday, May 15",Houston Dynamo,0,0,D
+1030,2012,Portland Timbers,"Sunday, May 20",Chicago Fire,2,1,W
+1031,2012,Portland Timbers,"Saturday, May 26",Vancouver Whitecaps,1,1,D
+1032,2012,Portland Timbers,"Sunday, Jun 17",LA Galaxy,0,1,L
+1033,2012,Portland Timbers,"Sunday, Jun 24",Seattle Sounders FC,2,1,W
+1034,2012,Portland Timbers,"Saturday, Jun 30",Colorado Rapids,0,3,L
+1035,2012,Portland Timbers,"Tuesday, Jul 3",San Jose Earthquakes,2,1,W
+1036,2012,Portland Timbers,"Saturday, Jul 7",Real Salt Lake,0,3,L
+1037,2012,Portland Timbers,"Sunday, Jul 15",LA Galaxy,3,5,L
+1038,2012,Portland Timbers,"Wednesday, Jul 18",Chivas USA,0,1,L
+1039,2012,Portland Timbers,"Saturday, Jul 21",FC Dallas,0,5,L
+1040,2012,Portland Timbers,"Sunday, Jul 29",Chivas USA,0,1,L
+1041,2012,Portland Timbers,"Sunday, Aug 5",FC Dallas,1,1,D
+1042,2012,Portland Timbers,"Wednesday, Aug 15",Toronto FC,2,2,D
+1043,2012,Portland Timbers,"Sunday, Aug 19",New York Red Bulls,2,3,L
+1044,2012,Portland Timbers,"Saturday, Aug 25",Vancouver Whitecaps,2,1,W
+1045,2012,Portland Timbers,"Friday, Aug 31",Colorado Rapids,1,0,W
+1046,2012,Portland Timbers,"Wednesday, Sep 5",Colorado Rapids,0,3,L
+1047,2012,Portland Timbers,"Saturday, Sep 15",Seattle Sounders FC,1,1,D
+1048,2012,Portland Timbers,"Wednesday, Sep 19",San Jose Earthquakes,2,2,D
+1049,2012,Portland Timbers,"Saturday, Sep 22",Real Salt Lake,1,2,L
+1050,2012,Portland Timbers,"Saturday, Sep 29",D.C. United,1,1,D
+1051,2012,Portland Timbers,"Sunday, Oct 7",Seattle Sounders FC,0,3,L
+1052,2012,Portland Timbers,"Sunday, Oct 21",Vancouver Whitecaps,1,0,W
+1053,2012,Portland Timbers,"Saturday, Oct 27",San Jose Earthquakes,1,1,D
+1054,2012,Real Salt Lake,"Saturday, Mar 10",LA Galaxy,3,1,W
+1055,2012,Real Salt Lake,"Saturday, Mar 17",New York Red Bulls,2,0,W
+1056,2012,Real Salt Lake,"Saturday, Mar 24",Chivas USA,0,1,L
+1057,2012,Real Salt Lake,"Saturday, Mar 31",Portland Timbers,3,2,W
+1058,2012,Real Salt Lake,"Wednesday, Apr 4",Montreal Impact,1,0,W
+1059,2012,Real Salt Lake,"Saturday, Apr 7",Colorado Rapids,2,0,W
+1060,2012,Real Salt Lake,"Saturday, Apr 14",Sporting Kansas City,0,1,L
+1061,2012,Real Salt Lake,"Saturday, Apr 21",San Jose Earthquakes,1,3,L
+1062,2012,Real Salt Lake,"Wednesday, Apr 25",FC Dallas,1,1,D
+1063,2012,Real Salt Lake,"Saturday, Apr 28",Toronto FC,3,2,W
+1064,2012,Real Salt Lake,"Saturday, May 5",New England Revolution,2,1,W
+1065,2012,Real Salt Lake,"Wednesday, May 9",Chicago Fire,0,0,D
+1066,2012,Real Salt Lake,"Saturday, May 12",Seattle Sounders FC,1,0,W
+1067,2012,Real Salt Lake,"Saturday, May 26",FC Dallas,3,2,W
+1068,2012,Real Salt Lake,"Saturday, Jun 16",Chivas USA,3,0,W
+1069,2012,Real Salt Lake,"Wednesday, Jun 20",LA Galaxy,2,3,L
+1070,2012,Real Salt Lake,"Saturday, Jun 23",San Jose Earthquakes,1,2,L
+1071,2012,Real Salt Lake,"Saturday, Jun 30",Columbus Crew,0,2,L
+1072,2012,Real Salt Lake,"Wednesday, Jul 4",Seattle Sounders FC,0,0,D
+1073,2012,Real Salt Lake,"Saturday, Jul 7",Portland Timbers,3,0,W
+1074,2012,Real Salt Lake,"Saturday, Jul 14",San Jose Earthquakes,0,5,L
+1075,2012,Real Salt Lake,"Saturday, Jul 21",Colorado Rapids,2,0,W
+1076,2012,Real Salt Lake,"Friday, Jul 27",Vancouver Whitecaps,2,1,W
+1077,2012,Real Salt Lake,"Saturday, Aug 4",Colorado Rapids,0,1,L
+1078,2012,Real Salt Lake,"Saturday, Aug 11",Vancouver Whitecaps,1,2,L
+1079,2012,Real Salt Lake,"Saturday, Aug 18",FC Dallas,1,2,L
+1080,2012,Real Salt Lake,"Friday, Aug 24",Philadelphia Union,0,0,D
+1081,2012,Real Salt Lake,"Saturday, Sep 1",D.C. United,1,0,W
+1082,2012,Real Salt Lake,"Thursday, Sep 6",Houston Dynamo,0,1,L
+1083,2012,Real Salt Lake,"Saturday, Sep 22",Portland Timbers,2,1,W
+1084,2012,Real Salt Lake,"Saturday, Sep 29",Chivas USA,4,0,W
+1085,2012,Real Salt Lake,"Saturday, Oct 6",LA Galaxy,2,1,W
+1086,2012,Real Salt Lake,"Wednesday, Oct 17",Seattle Sounders FC,0,0,D
+1087,2012,Real Salt Lake,"Saturday, Oct 27",Vancouver Whitecaps,0,0,D
+1088,2012,San Jose Earthquakes,"Saturday, Mar 10",New England Revolution,1,0,W
+1089,2012,San Jose Earthquakes,"Saturday, Mar 17",Houston Dynamo,0,1,L
+1090,2012,San Jose Earthquakes,"Saturday, Mar 24",Toronto FC,3,0,W
+1091,2012,San Jose Earthquakes,"Saturday, Mar 31",Seattle Sounders FC,1,0,W
+1092,2012,San Jose Earthquakes,"Saturday, Apr 7",Vancouver Whitecaps,3,1,W
+1093,2012,San Jose Earthquakes,"Saturday, Apr 14",New York Red Bulls,2,2,D
+1094,2012,San Jose Earthquakes,"Saturday, Apr 21",Real Salt Lake,3,1,W
+1095,2012,San Jose Earthquakes,"Saturday, Apr 28",Philadelphia Union,2,1,W
+1096,2012,San Jose Earthquakes,"Wednesday, May 2",D.C. United,5,3,W
+1097,2012,San Jose Earthquakes,"Saturday, May 5",Vancouver Whitecaps,1,2,L
+1098,2012,San Jose Earthquakes,"Sunday, May 13",Chivas USA,1,1,D
+1099,2012,San Jose Earthquakes,"Saturday, May 19",Columbus Crew,1,1,D
+1100,2012,San Jose Earthquakes,"Wednesday, May 23",LA Galaxy,3,2,W
+1101,2012,San Jose Earthquakes,"Sunday, May 27",Sporting Kansas City,1,2,L
+1102,2012,San Jose Earthquakes,"Wednesday, Jun 20",Colorado Rapids,2,1,W
+1103,2012,San Jose Earthquakes,"Saturday, Jun 23",Real Salt Lake,2,1,W
+1104,2012,San Jose Earthquakes,"Saturday, Jun 30",LA Galaxy,4,3,W
+1105,2012,San Jose Earthquakes,"Tuesday, Jul 3",Portland Timbers,1,2,L
+1106,2012,San Jose Earthquakes,"Saturday, Jul 7",FC Dallas,0,0,D
+1107,2012,San Jose Earthquakes,"Saturday, Jul 14",Real Salt Lake,5,0,W
+1108,2012,San Jose Earthquakes,"Thursday, Jul 19",FC Dallas,2,1,W
+1109,2012,San Jose Earthquakes,"Sunday, Jul 22",Vancouver Whitecaps,1,2,L
+1110,2012,San Jose Earthquakes,"Saturday, Jul 28",Chicago Fire,1,1,D
+1111,2012,San Jose Earthquakes,"Saturday, Aug 11",Seattle Sounders FC,2,1,W
+1112,2012,San Jose Earthquakes,"Saturday, Aug 18",Montreal Impact,1,3,L
+1113,2012,San Jose Earthquakes,"Saturday, Aug 25",Colorado Rapids,4,1,W
+1114,2012,San Jose Earthquakes,"Sunday, Sep 2",Chivas USA,4,0,W
+1115,2012,San Jose Earthquakes,"Saturday, Sep 15",Chivas USA,2,0,W
+1116,2012,San Jose Earthquakes,"Wednesday, Sep 19",Portland Timbers,2,2,D
+1117,2012,San Jose Earthquakes,"Saturday, Sep 22",Seattle Sounders FC,2,1,W
+1118,2012,San Jose Earthquakes,"Saturday, Sep 29",FC Dallas,3,3,D
+1119,2012,San Jose Earthquakes,"Saturday, Oct 6",Colorado Rapids,4,1,W
+1120,2012,San Jose Earthquakes,"Sunday, Oct 21",LA Galaxy,2,2,D
+1121,2012,San Jose Earthquakes,"Saturday, Oct 27",Portland Timbers,1,1,D
+1122,2012,Seattle Sounders FC,"Saturday, Mar 17",Toronto FC,3,1,W
+1123,2012,Seattle Sounders FC,"Friday, Mar 23",Houston Dynamo,2,0,W
+1124,2012,Seattle Sounders FC,"Saturday, Mar 31",San Jose Earthquakes,0,1,L
+1125,2012,Seattle Sounders FC,"Saturday, Apr 7",D.C. United,0,0,D
+1126,2012,Seattle Sounders FC,"Saturday, Apr 14",Colorado Rapids,1,0,W
+1127,2012,Seattle Sounders FC,"Saturday, Apr 28",Chicago Fire,2,1,W
+1128,2012,Seattle Sounders FC,"Wednesday, May 2",LA Galaxy,2,0,W
+1129,2012,Seattle Sounders FC,"Saturday, May 5",Philadelphia Union,1,0,W
+1130,2012,Seattle Sounders FC,"Wednesday, May 9",FC Dallas,2,0,W
+1131,2012,Seattle Sounders FC,"Saturday, May 12",Real Salt Lake,0,1,L
+1132,2012,Seattle Sounders FC,"Saturday, May 19",Vancouver Whitecaps,2,2,D
+1133,2012,Seattle Sounders FC,"Wednesday, May 23",Columbus Crew,0,2,L
+1134,2012,Seattle Sounders FC,"Saturday, May 26",Chivas USA,1,1,D
+1135,2012,Seattle Sounders FC,"Saturday, Jun 16",Montreal Impact,1,4,L
+1136,2012,Seattle Sounders FC,"Wednesday, Jun 20",Sporting Kansas City,1,1,D
+1137,2012,Seattle Sounders FC,"Sunday, Jun 24",Portland Timbers,1,2,L
+1138,2012,Seattle Sounders FC,"Saturday, Jun 30",New England Revolution,2,2,D
+1139,2012,Seattle Sounders FC,"Wednesday, Jul 4",Real Salt Lake,0,0,D
+1140,2012,Seattle Sounders FC,"Sunday, Jul 8",Colorado Rapids,2,1,W
+1141,2012,Seattle Sounders FC,"Sunday, Jul 15",New York Red Bulls,2,2,D
+1142,2012,Seattle Sounders FC,"Saturday, Jul 28",Colorado Rapids,2,1,W
+1143,2012,Seattle Sounders FC,"Sunday, Aug 5",LA Galaxy,4,0,W
+1144,2012,Seattle Sounders FC,"Saturday, Aug 11",San Jose Earthquakes,1,2,L
+1145,2012,Seattle Sounders FC,"Saturday, Aug 18",Vancouver Whitecaps,2,0,W
+1146,2012,Seattle Sounders FC,"Saturday, Aug 25",Chivas USA,6,2,W
+1147,2012,Seattle Sounders FC,"Sunday, Sep 2",FC Dallas,1,1,D
+1148,2012,Seattle Sounders FC,"Saturday, Sep 8",Chivas USA,2,1,W
+1149,2012,Seattle Sounders FC,"Saturday, Sep 15",Portland Timbers,1,1,D
+1150,2012,Seattle Sounders FC,"Saturday, Sep 22",San Jose Earthquakes,1,2,L
+1151,2012,Seattle Sounders FC,"Saturday, Sep 29",Vancouver Whitecaps,0,0,D
+1152,2012,Seattle Sounders FC,"Sunday, Oct 7",Portland Timbers,3,0,W
+1153,2012,Seattle Sounders FC,"Wednesday, Oct 17",Real Salt Lake,0,0,D
+1154,2012,Seattle Sounders FC,"Sunday, Oct 21",FC Dallas,3,1,W
+1155,2012,Seattle Sounders FC,"Sunday, Oct 28",LA Galaxy,0,1,L
+1156,2012,Sporting Kansas City,"Saturday, Mar 10",D.C. United,1,0,W
+1157,2012,Sporting Kansas City,"Saturday, Mar 17",New England Revolution,3,0,W
+1158,2012,Sporting Kansas City,"Sunday, Mar 25",FC Dallas,2,1,W
+1159,2012,Sporting Kansas City,"Sunday, Apr 1",Chivas USA,1,0,W
+1160,2012,Sporting Kansas City,"Saturday, Apr 7",LA Galaxy,1,0,W
+1161,2012,Sporting Kansas City,"Saturday, Apr 14",Real Salt Lake,1,0,W
+1162,2012,Sporting Kansas City,"Wednesday, Apr 18",Vancouver Whitecaps,3,1,W
+1163,2012,Sporting Kansas City,"Saturday, Apr 21",Portland Timbers,0,1,L
+1164,2012,Sporting Kansas City,"Saturday, May 5",Montreal Impact,0,2,L
+1165,2012,Sporting Kansas City,"Saturday, May 12",Chicago Fire,1,2,L
+1166,2012,Sporting Kansas City,"Saturday, May 19",Colorado Rapids,2,2,D
+1167,2012,Sporting Kansas City,"Sunday, May 27",San Jose Earthquakes,2,1,W
+1168,2012,Sporting Kansas City,"Saturday, Jun 16",Toronto FC,2,0,W
+1169,2012,Sporting Kansas City,"Wednesday, Jun 20",Seattle Sounders FC,1,1,D
+1170,2012,Sporting Kansas City,"Saturday, Jun 23",Philadelphia Union,0,4,L
+1171,2012,Sporting Kansas City,"Friday, Jun 29",Chicago Fire,0,1,L
+1172,2012,Sporting Kansas City,"Wednesday, Jul 4",Montreal Impact,3,1,W
+1173,2012,Sporting Kansas City,"Saturday, Jul 7",Houston Dynamo,0,0,D
+1174,2012,Sporting Kansas City,"Saturday, Jul 14",Columbus Crew,2,0,W
+1175,2012,Sporting Kansas City,"Wednesday, Jul 18",Houston Dynamo,1,2,L
+1176,2012,Sporting Kansas City,"Saturday, Jul 21",New England Revolution,0,0,D
+1177,2012,Sporting Kansas City,"Saturday, Jul 28",Columbus Crew,1,2,L
+1178,2012,Sporting Kansas City,"Saturday, Aug 4",New England Revolution,1,0,W
+1179,2012,Sporting Kansas City,"Saturday, Aug 11",D.C. United,2,1,W
+1180,2012,Sporting Kansas City,"Saturday, Aug 18",Toronto FC,1,0,W
+1181,2012,Sporting Kansas City,"Sunday, Aug 26",New York Red Bulls,1,1,D
+1182,2012,Sporting Kansas City,"Saturday, Sep 1",Toronto FC,2,1,W
+1183,2012,Sporting Kansas City,"Friday, Sep 14",Houston Dynamo,1,1,D
+1184,2012,Sporting Kansas City,"Wednesday, Sep 19",New York Red Bulls,2,0,W
+1185,2012,Sporting Kansas City,"Saturday, Sep 22",Montreal Impact,0,0,D
+1186,2012,Sporting Kansas City,"Friday, Sep 28",Chicago Fire,2,0,W
+1187,2012,Sporting Kansas City,"Sunday, Oct 7",Columbus Crew,1,1,D
+1188,2012,Sporting Kansas City,"Saturday, Oct 20",New York Red Bulls,0,0,D
+1189,2012,Sporting Kansas City,"Wednesday, Oct 24",Philadelphia Union,2,1,W
+1190,2012,Toronto FC,"Saturday, Mar 17",Seattle Sounders FC,1,3,L
+1191,2012,Toronto FC,"Saturday, Mar 24",San Jose Earthquakes,0,3,L
+1192,2012,Toronto FC,"Saturday, Mar 31",Columbus Crew,0,1,L
+1193,2012,Toronto FC,"Saturday, Apr 7",Montreal Impact,1,2,L
+1194,2012,Toronto FC,"Saturday, Apr 14",Chivas USA,0,1,L
+1195,2012,Toronto FC,"Saturday, Apr 21",Chicago Fire,2,3,L
+1196,2012,Toronto FC,"Saturday, Apr 28",Real Salt Lake,2,3,L
+1197,2012,Toronto FC,"Saturday, May 5",D.C. United,0,2,L
+1198,2012,Toronto FC,"Saturday, May 19",D.C. United,1,3,L
+1199,2012,Toronto FC,"Saturday, May 26",Philadelphia Union,1,0,W
+1200,2012,Toronto FC,"Saturday, Jun 16",Sporting Kansas City,0,2,L
+1201,2012,Toronto FC,"Wednesday, Jun 20",Houston Dynamo,3,3,D
+1202,2012,Toronto FC,"Saturday, Jun 23",New England Revolution,2,2,D
+1203,2012,Toronto FC,"Wednesday, Jun 27",Montreal Impact,3,0,W
+1204,2012,Toronto FC,"Saturday, Jun 30",New York Red Bulls,1,1,D
+1205,2012,Toronto FC,"Wednesday, Jul 4",FC Dallas,1,1,D
+1206,2012,Toronto FC,"Sunday, Jul 8",Philadelphia Union,0,3,L
+1207,2012,Toronto FC,"Wednesday, Jul 11",Vancouver Whitecaps,3,2,W
+1208,2012,Toronto FC,"Saturday, Jul 14",New England Revolution,1,0,W
+1209,2012,Toronto FC,"Wednesday, Jul 18",Colorado Rapids,2,1,W
+1210,2012,Toronto FC,"Saturday, Jul 28",Houston Dynamo,0,2,L
+1211,2012,Toronto FC,"Saturday, Aug 4",Chicago Fire,1,2,L
+1212,2012,Toronto FC,"Wednesday, Aug 15",Portland Timbers,2,2,D
+1213,2012,Toronto FC,"Saturday, Aug 18",Sporting Kansas City,0,1,L
+1214,2012,Toronto FC,"Wednesday, Aug 22",Columbus Crew,1,2,L
+1215,2012,Toronto FC,"Saturday, Aug 25",Houston Dynamo,1,1,D
+1216,2012,Toronto FC,"Saturday, Sep 1",Sporting Kansas City,1,2,L
+1217,2012,Toronto FC,"Wednesday, Sep 12",Chicago Fire,1,2,L
+1218,2012,Toronto FC,"Saturday, Sep 15",Philadelphia Union,1,1,D
+1219,2012,Toronto FC,"Saturday, Sep 22",LA Galaxy,2,4,L
+1220,2012,Toronto FC,"Saturday, Sep 29",New York Red Bulls,1,4,L
+1221,2012,Toronto FC,"Saturday, Oct 6",D.C. United,0,1,L
+1222,2012,Toronto FC,"Saturday, Oct 20",Montreal Impact,0,0,D
+1223,2012,Toronto FC,"Sunday, Oct 28",Columbus Crew,1,2,L
+1224,2012,Vancouver Whitecaps,"Saturday, Mar 10",Montreal Impact,2,0,W
+1225,2012,Vancouver Whitecaps,"Saturday, Mar 17",Chivas USA,1,0,W
+1226,2012,Vancouver Whitecaps,"Saturday, Mar 24",D.C. United,0,0,D
+1227,2012,Vancouver Whitecaps,"Saturday, Mar 31",Philadelphia Union,0,0,D
+1228,2012,Vancouver Whitecaps,"Saturday, Apr 7",San Jose Earthquakes,1,3,L
+1229,2012,Vancouver Whitecaps,"Wednesday, Apr 18",Sporting Kansas City,1,3,L
+1230,2012,Vancouver Whitecaps,"Saturday, Apr 21",FC Dallas,1,0,W
+1231,2012,Vancouver Whitecaps,"Saturday, Apr 28",Columbus Crew,1,0,W
+1232,2012,Vancouver Whitecaps,"Saturday, May 5",San Jose Earthquakes,2,1,W
+1233,2012,Vancouver Whitecaps,"Saturday, May 12",New England Revolution,1,4,L
+1234,2012,Vancouver Whitecaps,"Saturday, May 19",Seattle Sounders FC,2,2,D
+1235,2012,Vancouver Whitecaps,"Saturday, May 26",Portland Timbers,1,1,D
+1236,2012,Vancouver Whitecaps,"Sunday, Jun 10",Houston Dynamo,3,1,W
+1237,2012,Vancouver Whitecaps,"Saturday, Jun 16",Colorado Rapids,1,0,W
+1238,2012,Vancouver Whitecaps,"Thursday, Jun 21",New York Red Bulls,1,1,D
+1239,2012,Vancouver Whitecaps,"Saturday, Jun 23",LA Galaxy,0,3,L
+1240,2012,Vancouver Whitecaps,"Wednesday, Jul 4",Colorado Rapids,1,0,W
+1241,2012,Vancouver Whitecaps,"Saturday, Jul 7",Chivas USA,0,0,D
+1242,2012,Vancouver Whitecaps,"Wednesday, Jul 11",Toronto FC,2,3,L
+1243,2012,Vancouver Whitecaps,"Saturday, Jul 14",Chicago Fire,0,1,L
+1244,2012,Vancouver Whitecaps,"Wednesday, Jul 18",LA Galaxy,2,2,D
+1245,2012,Vancouver Whitecaps,"Sunday, Jul 22",San Jose Earthquakes,2,1,W
+1246,2012,Vancouver Whitecaps,"Friday, Jul 27",Real Salt Lake,1,2,L
+1247,2012,Vancouver Whitecaps,"Saturday, Aug 11",Real Salt Lake,2,1,W
+1248,2012,Vancouver Whitecaps,"Wednesday, Aug 15",FC Dallas,0,2,L
+1249,2012,Vancouver Whitecaps,"Saturday, Aug 18",Seattle Sounders FC,0,2,L
+1250,2012,Vancouver Whitecaps,"Saturday, Aug 25",Portland Timbers,1,2,L
+1251,2012,Vancouver Whitecaps,"Saturday, Sep 1",LA Galaxy,0,2,L
+1252,2012,Vancouver Whitecaps,"Saturday, Sep 15",FC Dallas,0,1,L
+1253,2012,Vancouver Whitecaps,"Sunday, Sep 23",Colorado Rapids,2,2,D
+1254,2012,Vancouver Whitecaps,"Saturday, Sep 29",Seattle Sounders FC,0,0,D
+1255,2012,Vancouver Whitecaps,"Wednesday, Oct 3",Chivas USA,4,0,W
+1256,2012,Vancouver Whitecaps,"Sunday, Oct 21",Portland Timbers,0,1,L
+1257,2012,Vancouver Whitecaps,"Saturday, Oct 27",Real Salt Lake,0,0,D
+1258,2013,Chicago Fire,"Sunday, Mar 3",LA Galaxy,0,4,L
+1259,2013,Chicago Fire,"Saturday, Mar 9",New England Revolution,0,1,L
+1260,2013,Chicago Fire,"Saturday, Mar 16",Sporting Kansas City,0,0,D
+1261,2013,Chicago Fire,"Sunday, Mar 24",Chivas USA,1,4,L
+1262,2013,Chicago Fire,"Sunday, Apr 7",New York Red Bulls,3,1,W
+1263,2013,Chicago Fire,"Sunday, Apr 14",Houston Dynamo,1,2,L
+1264,2013,Chicago Fire,"Saturday, Apr 20",Columbus Crew,1,0,W
+1265,2013,Chicago Fire,"Saturday, Apr 27",Montreal Impact,0,2,L
+1266,2013,Chicago Fire,"Saturday, May 11",Philadelphia Union,0,1,L
+1267,2013,Chicago Fire,"Saturday, May 18",Philadelphia Union,0,1,L
+1268,2013,Chicago Fire,"Saturday, May 25",Real Salt Lake,1,1,D
+1269,2013,Chicago Fire,"Sunday, Jun 2",D.C. United,2,0,W
+1270,2013,Chicago Fire,"Saturday, Jun 8",Portland Timbers,2,2,D
+1271,2013,Chicago Fire,"Wednesday, Jun 19",Colorado Rapids,2,1,W
+1272,2013,Chicago Fire,"Saturday, Jun 22",Columbus Crew,2,1,W
+1273,2013,Chicago Fire,"Wednesday, Jul 3",San Jose Earthquakes,3,2,W
+1274,2013,Chicago Fire,"Sunday, Jul 7",Sporting Kansas City,1,2,L
+1275,2013,Chicago Fire,"Sunday, Jul 14",Vancouver Whitecaps,1,3,L
+1276,2013,Chicago Fire,"Saturday, Jul 20",D.C. United,4,1,W
+1277,2013,Chicago Fire,"Saturday, Jul 27",Houston Dynamo,1,1,D
+1278,2013,Chicago Fire,"Saturday, Aug 3",Philadelphia Union,2,1,W
+1279,2013,Chicago Fire,"Saturday, Aug 10",Montreal Impact,2,1,W
+1280,2013,Chicago Fire,"Saturday, Aug 17",New England Revolution,0,2,L
+1281,2013,Chicago Fire,"Friday, Aug 23",Sporting Kansas City,1,0,W
+1282,2013,Chicago Fire,"Sunday, Sep 1",Houston Dynamo,1,1,D
+1283,2013,Chicago Fire,"Saturday, Sep 7",Seattle Sounders FC,1,2,L
+1284,2013,Chicago Fire,"Wednesday, Sep 11",Toronto FC,1,1,D
+1285,2013,Chicago Fire,"Saturday, Sep 14",New England Revolution,3,2,W
+1286,2013,Chicago Fire,"Saturday, Sep 21",Columbus Crew,0,3,L
+1287,2013,Chicago Fire,"Saturday, Sep 28",Montreal Impact,2,2,D
+1288,2013,Chicago Fire,"Friday, Oct 4",D.C. United,3,0,W
+1289,2013,Chicago Fire,"Saturday, Oct 12",FC Dallas,3,2,W
+1290,2013,Chicago Fire,"Saturday, Oct 19",Toronto FC,1,0,W
+1291,2013,Chicago Fire,"Sunday, Oct 27",New York Red Bulls,2,5,L
+1292,2013,Chivas USA,"Saturday, Mar 2",Columbus Crew,0,3,L
+1293,2013,Chivas USA,"Sunday, Mar 10",FC Dallas,3,1,W
+1294,2013,Chivas USA,"Sunday, Mar 17",LA Galaxy,1,1,D
+1295,2013,Chivas USA,"Sunday, Mar 24",Chicago Fire,4,1,W
+1296,2013,Chivas USA,"Saturday, Mar 30",Vancouver Whitecaps,2,1,W
+1297,2013,Chivas USA,"Saturday, Apr 13",Colorado Rapids,0,1,L
+1298,2013,Chivas USA,"Saturday, Apr 20",Real Salt Lake,0,1,L
+1299,2013,Chivas USA,"Saturday, Apr 27",San Jose Earthquakes,2,2,D
+1300,2013,Chivas USA,"Sunday, May 5",Sporting Kansas City,0,4,L
+1301,2013,Chivas USA,"Sunday, May 12",Portland Timbers,0,3,L
+1302,2013,Chivas USA,"Sunday, May 19",Real Salt Lake,1,4,L
+1303,2013,Chivas USA,"Saturday, May 25",Colorado Rapids,0,2,L
+1304,2013,Chivas USA,"Saturday, Jun 1",Seattle Sounders FC,0,2,L
+1305,2013,Chivas USA,"Wednesday, Jun 19",Vancouver Whitecaps,1,3,L
+1306,2013,Chivas USA,"Monday, Jun 24",LA Galaxy,0,1,L
+1307,2013,Chivas USA,"Saturday, Jun 29",New England Revolution,1,1,D
+1308,2013,Chivas USA,"Thursday, Jul 4",FC Dallas,0,0,D
+1309,2013,Chivas USA,"Sunday, Jul 7",Montreal Impact,1,1,D
+1310,2013,Chivas USA,"Friday, Jul 12",Philadelphia Union,1,3,L
+1311,2013,Chivas USA,"Wednesday, Jul 17",Toronto FC,1,0,W
+1312,2013,Chivas USA,"Monday, Jul 29",Seattle Sounders FC,1,2,L
+1313,2013,Chivas USA,"Saturday, Aug 3",San Jose Earthquakes,0,2,L
+1314,2013,Chivas USA,"Monday, Aug 12",Colorado Rapids,1,1,D
+1315,2013,Chivas USA,"Wednesday, Aug 21",FC Dallas,1,3,L
+1316,2013,Chivas USA,"Sunday, Aug 25",New York Red Bulls,3,2,W
+1317,2013,Chivas USA,"Sunday, Sep 1",Vancouver Whitecaps,2,2,D
+1318,2013,Chivas USA,"Wednesday, Sep 4",Seattle Sounders FC,0,1,L
+1319,2013,Chivas USA,"Sunday, Sep 8",D.C. United,1,0,W
+1320,2013,Chivas USA,"Saturday, Sep 14",Portland Timbers,1,1,D
+1321,2013,Chivas USA,"Saturday, Sep 21",Houston Dynamo,1,5,L
+1322,2013,Chivas USA,"Monday, Sep 30",San Jose Earthquakes,0,1,L
+1323,2013,Chivas USA,"Sunday, Oct 6",LA Galaxy,0,5,L
+1324,2013,Chivas USA,"Wednesday, Oct 23",Real Salt Lake,1,2,L
+1325,2013,Chivas USA,"Saturday, Oct 26",Portland Timbers,0,5,L
+1326,2013,Colorado Rapids,"Saturday, Mar 2",FC Dallas,0,1,L
+1327,2013,Colorado Rapids,"Sunday, Mar 10",Philadelphia Union,1,2,L
+1328,2013,Colorado Rapids,"Saturday, Mar 16",Real Salt Lake,1,1,D
+1329,2013,Colorado Rapids,"Saturday, Mar 23",LA Galaxy,0,1,L
+1330,2013,Colorado Rapids,"Saturday, Mar 30",Portland Timbers,2,2,D
+1331,2013,Colorado Rapids,"Saturday, Apr 6",Real Salt Lake,1,0,W
+1332,2013,Colorado Rapids,"Saturday, Apr 13",Chivas USA,1,0,W
+1333,2013,Colorado Rapids,"Saturday, Apr 20",Seattle Sounders FC,0,1,L
+1334,2013,Colorado Rapids,"Sunday, Apr 28",Houston Dynamo,1,1,D
+1335,2013,Colorado Rapids,"Saturday, May 4",Toronto FC,1,0,W
+1336,2013,Colorado Rapids,"Saturday, May 11",Columbus Crew,2,0,W
+1337,2013,Colorado Rapids,"Saturday, May 18",San Jose Earthquakes,1,1,D
+1338,2013,Colorado Rapids,"Saturday, May 25",Chivas USA,2,0,W
+1339,2013,Colorado Rapids,"Saturday, Jun 1",FC Dallas,2,2,D
+1340,2013,Colorado Rapids,"Saturday, Jun 15",San Jose Earthquakes,1,2,L
+1341,2013,Colorado Rapids,"Wednesday, Jun 19",Chicago Fire,1,2,L
+1342,2013,Colorado Rapids,"Sunday, Jun 23",Portland Timbers,0,3,L
+1343,2013,Colorado Rapids,"Saturday, Jun 29",Montreal Impact,4,3,W
+1344,2013,Colorado Rapids,"Thursday, Jul 4",New York Red Bulls,2,0,W
+1345,2013,Colorado Rapids,"Sunday, Jul 7",D.C. United,0,0,D
+1346,2013,Colorado Rapids,"Wednesday, Jul 17",New England Revolution,2,1,W
+1347,2013,Colorado Rapids,"Saturday, Jul 20",Seattle Sounders FC,1,1,D
+1348,2013,Colorado Rapids,"Saturday, Jul 27",LA Galaxy,2,0,W
+1349,2013,Colorado Rapids,"Saturday, Aug 3",Real Salt Lake,2,2,D
+1350,2013,Colorado Rapids,"Monday, Aug 12",Chivas USA,1,1,D
+1351,2013,Colorado Rapids,"Saturday, Aug 17",Vancouver Whitecaps,2,0,W
+1352,2013,Colorado Rapids,"Saturday, Aug 31",Sporting Kansas City,1,2,L
+1353,2013,Colorado Rapids,"Saturday, Sep 7",LA Galaxy,1,0,W
+1354,2013,Colorado Rapids,"Saturday, Sep 14",FC Dallas,2,1,W
+1355,2013,Colorado Rapids,"Friday, Sep 20",Portland Timbers,0,1,L
+1356,2013,Colorado Rapids,"Saturday, Oct 5",Seattle Sounders FC,5,1,W
+1357,2013,Colorado Rapids,"Wednesday, Oct 9",San Jose Earthquakes,0,1,L
+1358,2013,Colorado Rapids,"Saturday, Oct 19",Vancouver Whitecaps,3,2,W
+1359,2013,Colorado Rapids,"Sunday, Oct 27",Vancouver Whitecaps,0,3,L
+1360,2013,Columbus Crew,"Saturday, Mar 2",Chivas USA,3,0,W
+1361,2013,Columbus Crew,"Saturday, Mar 9",Vancouver Whitecaps,1,2,L
+1362,2013,Columbus Crew,"Saturday, Mar 16",San Jose Earthquakes,1,1,D
+1363,2013,Columbus Crew,"Saturday, Mar 23",D.C. United,2,1,W
+1364,2013,Columbus Crew,"Saturday, Apr 6",Philadelphia Union,1,1,D
+1365,2013,Columbus Crew,"Sunday, Apr 14",Montreal Impact,1,1,D
+1366,2013,Columbus Crew,"Saturday, Apr 20",Chicago Fire,0,1,L
+1367,2013,Columbus Crew,"Saturday, Apr 27",D.C. United,3,0,W
+1368,2013,Columbus Crew,"Saturday, May 4",New York Red Bulls,0,1,L
+1369,2013,Columbus Crew,"Saturday, May 11",Colorado Rapids,0,2,L
+1370,2013,Columbus Crew,"Saturday, May 18",Toronto FC,1,0,W
+1371,2013,Columbus Crew,"Sunday, May 26",New York Red Bulls,2,2,D
+1372,2013,Columbus Crew,"Saturday, Jun 1",Houston Dynamo,1,1,D
+1373,2013,Columbus Crew,"Wednesday, Jun 5",Philadelphia Union,0,3,L
+1374,2013,Columbus Crew,"Saturday, Jun 15",Montreal Impact,2,0,W
+1375,2013,Columbus Crew,"Saturday, Jun 22",Chicago Fire,1,2,L
+1376,2013,Columbus Crew,"Saturday, Jun 29",Sporting Kansas City,2,3,L
+1377,2013,Columbus Crew,"Thursday, Jul 4",LA Galaxy,1,2,L
+1378,2013,Columbus Crew,"Sunday, Jul 7",Portland Timbers,1,0,W
+1379,2013,Columbus Crew,"Saturday, Jul 20",New England Revolution,0,2,L
+1380,2013,Columbus Crew,"Saturday, Jul 27",Toronto FC,1,2,L
+1381,2013,Columbus Crew,"Saturday, Aug 3",Houston Dynamo,1,3,L
+1382,2013,Columbus Crew,"Saturday, Aug 10",New York Red Bulls,2,0,W
+1383,2013,Columbus Crew,"Saturday, Aug 17",Toronto FC,2,0,W
+1384,2013,Columbus Crew,"Saturday, Aug 24",Real Salt Lake,0,4,L
+1385,2013,Columbus Crew,"Saturday, Aug 31",Seattle Sounders FC,0,1,L
+1386,2013,Columbus Crew,"Wednesday, Sep 4",Houston Dynamo,2,0,W
+1387,2013,Columbus Crew,"Saturday, Sep 7",Sporting Kansas City,0,3,L
+1388,2013,Columbus Crew,"Saturday, Sep 14",Montreal Impact,2,1,W
+1389,2013,Columbus Crew,"Saturday, Sep 21",Chicago Fire,3,0,W
+1390,2013,Columbus Crew,"Sunday, Sep 29",FC Dallas,4,2,W
+1391,2013,Columbus Crew,"Saturday, Oct 5",Sporting Kansas City,0,1,L
+1392,2013,Columbus Crew,"Saturday, Oct 19",New England Revolution,2,3,L
+1393,2013,Columbus Crew,"Sunday, Oct 27",New England Revolution,0,1,L
+1394,2013,D.C. United,"Saturday, Mar 2",Houston Dynamo,0,2,L
+1395,2013,D.C. United,"Saturday, Mar 9",Real Salt Lake,1,0,W
+1396,2013,D.C. United,"Saturday, Mar 16",New York Red Bulls,0,0,D
+1397,2013,D.C. United,"Saturday, Mar 23",Columbus Crew,1,2,L
+1398,2013,D.C. United,"Friday, Apr 5",Sporting Kansas City,0,1,L
+1399,2013,D.C. United,"Saturday, Apr 13",New York Red Bulls,0,2,L
+1400,2013,D.C. United,"Sunday, Apr 21",Philadelphia Union,2,3,L
+1401,2013,D.C. United,"Saturday, Apr 27",Columbus Crew,0,3,L
+1402,2013,D.C. United,"Wednesday, May 8",Houston Dynamo,0,4,L
+1403,2013,D.C. United,"Saturday, May 11",FC Dallas,1,2,L
+1404,2013,D.C. United,"Sunday, May 19",Sporting Kansas City,1,1,D
+1405,2013,D.C. United,"Saturday, May 25",Portland Timbers,0,2,L
+1406,2013,D.C. United,"Sunday, Jun 2",Chicago Fire,0,2,L
+1407,2013,D.C. United,"Saturday, Jun 8",New England Revolution,0,0,D
+1408,2013,D.C. United,"Saturday, Jun 15",Toronto FC,1,2,L
+1409,2013,D.C. United,"Saturday, Jun 22",San Jose Earthquakes,1,0,W
+1410,2013,D.C. United,"Saturday, Jun 29",Vancouver Whitecaps,0,1,L
+1411,2013,D.C. United,"Wednesday, Jul 3",Seattle Sounders FC,0,2,L
+1412,2013,D.C. United,"Sunday, Jul 7",Colorado Rapids,0,0,D
+1413,2013,D.C. United,"Saturday, Jul 20",Chicago Fire,1,4,L
+1414,2013,D.C. United,"Saturday, Jul 27",New England Revolution,1,2,L
+1415,2013,D.C. United,"Saturday, Aug 3",Montreal Impact,3,1,W
+1416,2013,D.C. United,"Saturday, Aug 10",Philadelphia Union,0,2,L
+1417,2013,D.C. United,"Saturday, Aug 17",Montreal Impact,1,2,L
+1418,2013,D.C. United,"Saturday, Aug 24",Toronto FC,1,1,D
+1419,2013,D.C. United,"Saturday, Aug 31",New York Red Bulls,1,2,L
+1420,2013,D.C. United,"Sunday, Sep 8",Chivas USA,0,1,L
+1421,2013,D.C. United,"Saturday, Sep 14",LA Galaxy,2,2,D
+1422,2013,D.C. United,"Saturday, Sep 21",New England Revolution,1,2,L
+1423,2013,D.C. United,"Saturday, Sep 28",Toronto FC,1,4,L
+1424,2013,D.C. United,"Friday, Oct 4",Chicago Fire,0,3,L
+1425,2013,D.C. United,"Saturday, Oct 12",Philadelphia Union,1,1,D
+1426,2013,D.C. United,"Friday, Oct 18",Sporting Kansas City,0,1,L
+1427,2013,D.C. United,"Sunday, Oct 27",Houston Dynamo,1,2,L
+1428,2013,FC Dallas,"Saturday, Mar 2",Colorado Rapids,1,0,W
+1429,2013,FC Dallas,"Sunday, Mar 10",Chivas USA,1,3,L
+1430,2013,FC Dallas,"Sunday, Mar 17",Houston Dynamo,3,2,W
+1431,2013,FC Dallas,"Saturday, Mar 23",Real Salt Lake,2,0,W
+1432,2013,FC Dallas,"Saturday, Mar 30",New England Revolution,1,0,W
+1433,2013,FC Dallas,"Saturday, Apr 6",Toronto FC,2,2,D
+1434,2013,FC Dallas,"Saturday, Apr 13",LA Galaxy,1,0,W
+1435,2013,FC Dallas,"Saturday, Apr 20",Vancouver Whitecaps,2,0,W
+1436,2013,FC Dallas,"Saturday, Apr 27",Vancouver Whitecaps,2,2,D
+1437,2013,FC Dallas,"Wednesday, May 8",Portland Timbers,1,1,D
+1438,2013,FC Dallas,"Saturday, May 11",D.C. United,2,1,W
+1439,2013,FC Dallas,"Saturday, May 18",Seattle Sounders FC,2,4,L
+1440,2013,FC Dallas,"Saturday, May 25",San Jose Earthquakes,1,0,W
+1441,2013,FC Dallas,"Saturday, Jun 1",Colorado Rapids,2,2,D
+1442,2013,FC Dallas,"Saturday, Jun 15",Portland Timbers,0,1,L
+1443,2013,FC Dallas,"Saturday, Jun 22",Sporting Kansas City,2,2,D
+1444,2013,FC Dallas,"Saturday, Jun 29",Philadelphia Union,2,2,D
+1445,2013,FC Dallas,"Thursday, Jul 4",Chivas USA,0,0,D
+1446,2013,FC Dallas,"Sunday, Jul 7",LA Galaxy,0,2,L
+1447,2013,FC Dallas,"Saturday, Jul 13",Real Salt Lake,0,3,L
+1448,2013,FC Dallas,"Saturday, Jul 20",Montreal Impact,0,0,D
+1449,2013,FC Dallas,"Saturday, Aug 3",Seattle Sounders FC,0,3,L
+1450,2013,FC Dallas,"Sunday, Aug 11",LA Galaxy,3,3,D
+1451,2013,FC Dallas,"Sunday, Aug 18",Portland Timbers,1,2,L
+1452,2013,FC Dallas,"Wednesday, Aug 21",Chivas USA,3,1,W
+1453,2013,FC Dallas,"Saturday, Aug 24",San Jose Earthquakes,2,2,D
+1454,2013,FC Dallas,"Saturday, Sep 7",Vancouver Whitecaps,3,1,W
+1455,2013,FC Dallas,"Saturday, Sep 14",Colorado Rapids,1,2,L
+1456,2013,FC Dallas,"Sunday, Sep 22",New York Red Bulls,0,1,L
+1457,2013,FC Dallas,"Sunday, Sep 29",Columbus Crew,2,4,L
+1458,2013,FC Dallas,"Saturday, Oct 5",Real Salt Lake,1,1,D
+1459,2013,FC Dallas,"Saturday, Oct 12",Chicago Fire,2,3,L
+1460,2013,FC Dallas,"Saturday, Oct 19",Seattle Sounders FC,2,0,W
+1461,2013,FC Dallas,"Saturday, Oct 26",San Jose Earthquakes,1,2,L
+1462,2013,Houston Dynamo,"Saturday, Mar 2",D.C. United,2,0,W
+1463,2013,Houston Dynamo,"Sunday, Mar 17",FC Dallas,2,3,L
+1464,2013,Houston Dynamo,"Saturday, Mar 23",Vancouver Whitecaps,2,1,W
+1465,2013,Houston Dynamo,"Saturday, Mar 30",San Jose Earthquakes,2,0,W
+1466,2013,Houston Dynamo,"Saturday, Apr 6",Portland Timbers,0,2,L
+1467,2013,Houston Dynamo,"Sunday, Apr 14",Chicago Fire,2,1,W
+1468,2013,Houston Dynamo,"Saturday, Apr 20",Toronto FC,1,1,D
+1469,2013,Houston Dynamo,"Sunday, Apr 28",Colorado Rapids,1,1,D
+1470,2013,Houston Dynamo,"Monday, May 6",LA Galaxy,1,0,W
+1471,2013,Houston Dynamo,"Wednesday, May 8",D.C. United,4,0,W
+1472,2013,Houston Dynamo,"Sunday, May 12",Sporting Kansas City,0,1,L
+1473,2013,Houston Dynamo,"Saturday, May 18",New England Revolution,0,2,L
+1474,2013,Houston Dynamo,"Sunday, May 26",Sporting Kansas City,1,1,D
+1475,2013,Houston Dynamo,"Saturday, Jun 1",Columbus Crew,1,1,D
+1476,2013,Houston Dynamo,"Wednesday, Jun 19",Montreal Impact,0,2,L
+1477,2013,Houston Dynamo,"Saturday, Jun 22",Toronto FC,0,0,D
+1478,2013,Houston Dynamo,"Sunday, Jun 30",New York Red Bulls,0,2,L
+1479,2013,Houston Dynamo,"Saturday, Jul 6",Philadelphia Union,1,0,W
+1480,2013,Houston Dynamo,"Saturday, Jul 13",New England Revolution,2,1,W
+1481,2013,Houston Dynamo,"Saturday, Jul 27",Chicago Fire,1,1,D
+1482,2013,Houston Dynamo,"Saturday, Aug 3",Columbus Crew,3,1,W
+1483,2013,Houston Dynamo,"Saturday, Aug 10",Real Salt Lake,0,1,L
+1484,2013,Houston Dynamo,"Saturday, Aug 17",Seattle Sounders FC,3,1,W
+1485,2013,Houston Dynamo,"Saturday, Aug 24",Montreal Impact,0,5,L
+1486,2013,Houston Dynamo,"Sunday, Sep 1",Chicago Fire,1,1,D
+1487,2013,Houston Dynamo,"Wednesday, Sep 4",Columbus Crew,0,2,L
+1488,2013,Houston Dynamo,"Sunday, Sep 8",New York Red Bulls,1,4,L
+1489,2013,Houston Dynamo,"Saturday, Sep 14",Philadelphia Union,1,0,W
+1490,2013,Houston Dynamo,"Saturday, Sep 21",Chivas USA,5,1,W
+1491,2013,Houston Dynamo,"Saturday, Sep 28",New England Revolution,1,1,D
+1492,2013,Houston Dynamo,"Friday, Oct 4",Montreal Impact,1,0,W
+1493,2013,Houston Dynamo,"Wednesday, Oct 9",Sporting Kansas City,0,0,D
+1494,2013,Houston Dynamo,"Sunday, Oct 20",New York Red Bulls,0,3,L
+1495,2013,Houston Dynamo,"Sunday, Oct 27",D.C. United,2,1,W
+1496,2013,LA Galaxy,"Sunday, Mar 3",Chicago Fire,4,0,W
+1497,2013,LA Galaxy,"Sunday, Mar 17",Chivas USA,1,1,D
+1498,2013,LA Galaxy,"Saturday, Mar 23",Colorado Rapids,1,0,W
+1499,2013,LA Galaxy,"Saturday, Mar 30",Toronto FC,2,2,D
+1500,2013,LA Galaxy,"Saturday, Apr 13",FC Dallas,0,1,L
+1501,2013,LA Galaxy,"Saturday, Apr 20",Sporting Kansas City,2,0,W
+1502,2013,LA Galaxy,"Saturday, Apr 27",Real Salt Lake,2,0,W
+1503,2013,LA Galaxy,"Monday, May 6",Houston Dynamo,0,1,L
+1504,2013,LA Galaxy,"Saturday, May 11",Vancouver Whitecaps,1,3,L
+1505,2013,LA Galaxy,"Wednesday, May 15",Philadelphia Union,4,1,W
+1506,2013,LA Galaxy,"Sunday, May 19",New York Red Bulls,0,1,L
+1507,2013,LA Galaxy,"Monday, May 27",Seattle Sounders FC,4,0,W
+1508,2013,LA Galaxy,"Sunday, Jun 2",New England Revolution,0,5,L
+1509,2013,LA Galaxy,"Saturday, Jun 8",Real Salt Lake,1,3,L
+1510,2013,LA Galaxy,"Wednesday, Jun 19",Portland Timbers,0,0,D
+1511,2013,LA Galaxy,"Monday, Jun 24",Chivas USA,1,0,W
+1512,2013,LA Galaxy,"Saturday, Jun 29",San Jose Earthquakes,2,3,L
+1513,2013,LA Galaxy,"Thursday, Jul 4",Columbus Crew,2,1,W
+1514,2013,LA Galaxy,"Sunday, Jul 7",FC Dallas,2,0,W
+1515,2013,LA Galaxy,"Sunday, Jul 14",Portland Timbers,1,2,L
+1516,2013,LA Galaxy,"Saturday, Jul 20",Vancouver Whitecaps,2,1,W
+1517,2013,LA Galaxy,"Saturday, Jul 27",Colorado Rapids,0,2,L
+1518,2013,LA Galaxy,"Sunday, Aug 11",FC Dallas,3,3,D
+1519,2013,LA Galaxy,"Saturday, Aug 17",Real Salt Lake,4,2,W
+1520,2013,LA Galaxy,"Saturday, Aug 24",Vancouver Whitecaps,1,0,W
+1521,2013,LA Galaxy,"Saturday, Aug 31",San Jose Earthquakes,3,0,W
+1522,2013,LA Galaxy,"Saturday, Sep 7",Colorado Rapids,0,1,L
+1523,2013,LA Galaxy,"Saturday, Sep 14",D.C. United,2,2,D
+1524,2013,LA Galaxy,"Saturday, Sep 21",Seattle Sounders FC,1,1,D
+1525,2013,LA Galaxy,"Sunday, Sep 29",Portland Timbers,0,1,L
+1526,2013,LA Galaxy,"Sunday, Oct 6",Chivas USA,5,0,W
+1527,2013,LA Galaxy,"Wednesday, Oct 16",Montreal Impact,1,0,W
+1528,2013,LA Galaxy,"Sunday, Oct 20",San Jose Earthquakes,0,0,D
+1529,2013,LA Galaxy,"Sunday, Oct 27",Seattle Sounders FC,1,1,D
+1530,2013,Montreal Impact,"Saturday, Mar 2",Seattle Sounders FC,1,0,W
+1531,2013,Montreal Impact,"Saturday, Mar 9",Portland Timbers,2,1,W
+1532,2013,Montreal Impact,"Saturday, Mar 16",Toronto FC,2,1,W
+1533,2013,Montreal Impact,"Saturday, Mar 23",New York Red Bulls,1,0,W
+1534,2013,Montreal Impact,"Saturday, Mar 30",Sporting Kansas City,0,2,L
+1535,2013,Montreal Impact,"Sunday, Apr 14",Columbus Crew,1,1,D
+1536,2013,Montreal Impact,"Saturday, Apr 27",Chicago Fire,2,0,W
+1537,2013,Montreal Impact,"Saturday, May 4",San Jose Earthquakes,2,2,D
+1538,2013,Montreal Impact,"Wednesday, May 8",New York Red Bulls,1,2,L
+1539,2013,Montreal Impact,"Saturday, May 11",Real Salt Lake,3,2,W
+1540,2013,Montreal Impact,"Saturday, May 25",Philadelphia Union,5,3,W
+1541,2013,Montreal Impact,"Saturday, Jun 1",Sporting Kansas City,2,1,W
+1542,2013,Montreal Impact,"Saturday, Jun 15",Columbus Crew,0,2,L
+1543,2013,Montreal Impact,"Wednesday, Jun 19",Houston Dynamo,2,0,W
+1544,2013,Montreal Impact,"Saturday, Jun 29",Colorado Rapids,3,4,L
+1545,2013,Montreal Impact,"Wednesday, Jul 3",Toronto FC,3,3,D
+1546,2013,Montreal Impact,"Sunday, Jul 7",Chivas USA,1,1,D
+1547,2013,Montreal Impact,"Saturday, Jul 13",New York Red Bulls,0,4,L
+1548,2013,Montreal Impact,"Saturday, Jul 20",FC Dallas,0,0,D
+1549,2013,Montreal Impact,"Saturday, Jul 27",Sporting Kansas City,1,0,W
+1550,2013,Montreal Impact,"Saturday, Aug 3",D.C. United,1,3,L
+1551,2013,Montreal Impact,"Saturday, Aug 10",Chicago Fire,1,2,L
+1552,2013,Montreal Impact,"Saturday, Aug 17",D.C. United,2,1,W
+1553,2013,Montreal Impact,"Saturday, Aug 24",Houston Dynamo,5,0,W
+1554,2013,Montreal Impact,"Saturday, Aug 31",Philadelphia Union,0,0,D
+1555,2013,Montreal Impact,"Sunday, Sep 8",New England Revolution,4,2,W
+1556,2013,Montreal Impact,"Saturday, Sep 14",Columbus Crew,1,2,L
+1557,2013,Montreal Impact,"Saturday, Sep 21",Vancouver Whitecaps,0,3,L
+1558,2013,Montreal Impact,"Saturday, Sep 28",Chicago Fire,2,2,D
+1559,2013,Montreal Impact,"Friday, Oct 4",Houston Dynamo,0,1,L
+1560,2013,Montreal Impact,"Saturday, Oct 12",New England Revolution,0,1,L
+1561,2013,Montreal Impact,"Wednesday, Oct 16",LA Galaxy,0,1,L
+1562,2013,Montreal Impact,"Saturday, Oct 19",Philadelphia Union,2,1,W
+1563,2013,Montreal Impact,"Saturday, Oct 26",Toronto FC,0,1,L
+1564,2013,New England Revolution,"Saturday, Mar 9",Chicago Fire,1,0,W
+1565,2013,New England Revolution,"Saturday, Mar 16",Philadelphia Union,0,1,L
+1566,2013,New England Revolution,"Saturday, Mar 23",Sporting Kansas City,0,0,D
+1567,2013,New England Revolution,"Saturday, Mar 30",FC Dallas,0,1,L
+1568,2013,New England Revolution,"Saturday, Apr 13",Seattle Sounders FC,0,0,D
+1569,2013,New England Revolution,"Saturday, Apr 20",New York Red Bulls,1,4,L
+1570,2013,New England Revolution,"Saturday, Apr 27",Philadelphia Union,2,0,W
+1571,2013,New England Revolution,"Thursday, May 2",Portland Timbers,0,0,D
+1572,2013,New England Revolution,"Wednesday, May 8",Real Salt Lake,1,2,L
+1573,2013,New England Revolution,"Saturday, May 11",New York Red Bulls,1,1,D
+1574,2013,New England Revolution,"Saturday, May 18",Houston Dynamo,2,0,W
+1575,2013,New England Revolution,"Saturday, May 25",Toronto FC,2,0,W
+1576,2013,New England Revolution,"Sunday, Jun 2",LA Galaxy,5,0,W
+1577,2013,New England Revolution,"Saturday, Jun 8",D.C. United,0,0,D
+1578,2013,New England Revolution,"Saturday, Jun 15",Vancouver Whitecaps,3,4,L
+1579,2013,New England Revolution,"Saturday, Jun 29",Chivas USA,1,1,D
+1580,2013,New England Revolution,"Saturday, Jul 6",San Jose Earthquakes,2,0,W
+1581,2013,New England Revolution,"Saturday, Jul 13",Houston Dynamo,1,2,L
+1582,2013,New England Revolution,"Wednesday, Jul 17",Colorado Rapids,1,2,L
+1583,2013,New England Revolution,"Saturday, Jul 20",Columbus Crew,2,0,W
+1584,2013,New England Revolution,"Saturday, Jul 27",D.C. United,2,1,W
+1585,2013,New England Revolution,"Sunday, Aug 4",Toronto FC,0,1,L
+1586,2013,New England Revolution,"Saturday, Aug 10",Sporting Kansas City,0,3,L
+1587,2013,New England Revolution,"Saturday, Aug 17",Chicago Fire,2,0,W
+1588,2013,New England Revolution,"Sunday, Aug 25",Philadelphia Union,5,1,W
+1589,2013,New England Revolution,"Friday, Aug 30",Toronto FC,1,1,D
+1590,2013,New England Revolution,"Sunday, Sep 8",Montreal Impact,2,4,L
+1591,2013,New England Revolution,"Saturday, Sep 14",Chicago Fire,2,3,L
+1592,2013,New England Revolution,"Saturday, Sep 21",D.C. United,2,1,W
+1593,2013,New England Revolution,"Saturday, Sep 28",Houston Dynamo,1,1,D
+1594,2013,New England Revolution,"Saturday, Oct 5",New York Red Bulls,2,2,D
+1595,2013,New England Revolution,"Saturday, Oct 12",Montreal Impact,1,0,W
+1596,2013,New England Revolution,"Saturday, Oct 19",Columbus Crew,3,2,W
+1597,2013,New England Revolution,"Sunday, Oct 27",Columbus Crew,1,0,W
+1598,2013,New York Red Bulls,"Sunday, Mar 3",Portland Timbers,3,3,D
+1599,2013,New York Red Bulls,"Sunday, Mar 10",San Jose Earthquakes,1,2,L
+1600,2013,New York Red Bulls,"Saturday, Mar 16",D.C. United,0,0,D
+1601,2013,New York Red Bulls,"Saturday, Mar 23",Montreal Impact,0,1,L
+1602,2013,New York Red Bulls,"Saturday, Mar 30",Philadelphia Union,2,1,W
+1603,2013,New York Red Bulls,"Sunday, Apr 7",Chicago Fire,1,3,L
+1604,2013,New York Red Bulls,"Saturday, Apr 13",D.C. United,2,0,W
+1605,2013,New York Red Bulls,"Wednesday, Apr 17",Sporting Kansas City,0,1,L
+1606,2013,New York Red Bulls,"Saturday, Apr 20",New England Revolution,4,1,W
+1607,2013,New York Red Bulls,"Saturday, Apr 27",Toronto FC,2,1,W
+1608,2013,New York Red Bulls,"Saturday, May 4",Columbus Crew,1,0,W
+1609,2013,New York Red Bulls,"Wednesday, May 8",Montreal Impact,2,1,W
+1610,2013,New York Red Bulls,"Saturday, May 11",New England Revolution,1,1,D
+1611,2013,New York Red Bulls,"Sunday, May 19",LA Galaxy,1,0,W
+1612,2013,New York Red Bulls,"Sunday, May 26",Columbus Crew,2,2,D
+1613,2013,New York Red Bulls,"Saturday, Jun 1",Vancouver Whitecaps,1,2,L
+1614,2013,New York Red Bulls,"Sunday, Jun 23",Philadelphia Union,0,3,L
+1615,2013,New York Red Bulls,"Sunday, Jun 30",Houston Dynamo,2,0,W
+1616,2013,New York Red Bulls,"Thursday, Jul 4",Colorado Rapids,0,2,L
+1617,2013,New York Red Bulls,"Saturday, Jul 13",Montreal Impact,4,0,W
+1618,2013,New York Red Bulls,"Saturday, Jul 20",Toronto FC,0,0,D
+1619,2013,New York Red Bulls,"Saturday, Jul 27",Real Salt Lake,4,3,W
+1620,2013,New York Red Bulls,"Saturday, Aug 3",Sporting Kansas City,3,2,W
+1621,2013,New York Red Bulls,"Saturday, Aug 10",Columbus Crew,0,2,L
+1622,2013,New York Red Bulls,"Saturday, Aug 17",Philadelphia Union,0,0,D
+1623,2013,New York Red Bulls,"Sunday, Aug 25",Chivas USA,2,3,L
+1624,2013,New York Red Bulls,"Saturday, Aug 31",D.C. United,2,1,W
+1625,2013,New York Red Bulls,"Sunday, Sep 8",Houston Dynamo,4,1,W
+1626,2013,New York Red Bulls,"Saturday, Sep 14",Toronto FC,2,0,W
+1627,2013,New York Red Bulls,"Sunday, Sep 22",FC Dallas,1,0,W
+1628,2013,New York Red Bulls,"Sunday, Sep 29",Seattle Sounders FC,1,1,D
+1629,2013,New York Red Bulls,"Saturday, Oct 5",New England Revolution,2,2,D
+1630,2013,New York Red Bulls,"Sunday, Oct 20",Houston Dynamo,3,0,W
+1631,2013,New York Red Bulls,"Sunday, Oct 27",Chicago Fire,5,2,W
+1632,2013,Philadelphia Union,"Saturday, Mar 2",Sporting Kansas City,1,3,L
+1633,2013,Philadelphia Union,"Sunday, Mar 10",Colorado Rapids,2,1,W
+1634,2013,Philadelphia Union,"Saturday, Mar 16",New England Revolution,1,0,W
+1635,2013,Philadelphia Union,"Saturday, Mar 30",New York Red Bulls,1,2,L
+1636,2013,Philadelphia Union,"Saturday, Apr 6",Columbus Crew,1,1,D
+1637,2013,Philadelphia Union,"Saturday, Apr 13",Toronto FC,1,1,D
+1638,2013,Philadelphia Union,"Sunday, Apr 21",D.C. United,3,2,W
+1639,2013,Philadelphia Union,"Saturday, Apr 27",New England Revolution,0,2,L
+1640,2013,Philadelphia Union,"Saturday, May 4",Seattle Sounders FC,2,2,D
+1641,2013,Philadelphia Union,"Saturday, May 11",Chicago Fire,1,0,W
+1642,2013,Philadelphia Union,"Wednesday, May 15",LA Galaxy,1,4,L
+1643,2013,Philadelphia Union,"Saturday, May 18",Chicago Fire,1,0,W
+1644,2013,Philadelphia Union,"Saturday, May 25",Montreal Impact,3,5,L
+1645,2013,Philadelphia Union,"Saturday, Jun 1",Toronto FC,1,1,D
+1646,2013,Philadelphia Union,"Wednesday, Jun 5",Columbus Crew,3,0,W
+1647,2013,Philadelphia Union,"Sunday, Jun 23",New York Red Bulls,3,0,W
+1648,2013,Philadelphia Union,"Saturday, Jun 29",FC Dallas,2,2,D
+1649,2013,Philadelphia Union,"Wednesday, Jul 3",Real Salt Lake,2,2,D
+1650,2013,Philadelphia Union,"Saturday, Jul 6",Houston Dynamo,0,1,L
+1651,2013,Philadelphia Union,"Friday, Jul 12",Chivas USA,3,1,W
+1652,2013,Philadelphia Union,"Saturday, Jul 20",Portland Timbers,0,0,D
+1653,2013,Philadelphia Union,"Saturday, Jul 27",Vancouver Whitecaps,1,0,W
+1654,2013,Philadelphia Union,"Saturday, Aug 3",Chicago Fire,1,2,L
+1655,2013,Philadelphia Union,"Saturday, Aug 10",D.C. United,2,0,W
+1656,2013,Philadelphia Union,"Saturday, Aug 17",New York Red Bulls,0,0,D
+1657,2013,Philadelphia Union,"Sunday, Aug 25",New England Revolution,1,5,L
+1658,2013,Philadelphia Union,"Saturday, Aug 31",Montreal Impact,0,0,D
+1659,2013,Philadelphia Union,"Monday, Sep 9",San Jose Earthquakes,0,1,L
+1660,2013,Philadelphia Union,"Saturday, Sep 14",Houston Dynamo,0,1,L
+1661,2013,Philadelphia Union,"Friday, Sep 27",Sporting Kansas City,1,0,W
+1662,2013,Philadelphia Union,"Saturday, Oct 5",Toronto FC,1,0,W
+1663,2013,Philadelphia Union,"Saturday, Oct 12",D.C. United,1,1,D
+1664,2013,Philadelphia Union,"Saturday, Oct 19",Montreal Impact,1,2,L
+1665,2013,Philadelphia Union,"Saturday, Oct 26",Sporting Kansas City,1,2,L
+1666,2013,Portland Timbers,"Sunday, Mar 3",New York Red Bulls,3,3,D
+1667,2013,Portland Timbers,"Saturday, Mar 9",Montreal Impact,1,2,L
+1668,2013,Portland Timbers,"Saturday, Mar 16",Seattle Sounders FC,1,1,D
+1669,2013,Portland Timbers,"Saturday, Mar 30",Colorado Rapids,2,2,D
+1670,2013,Portland Timbers,"Saturday, Apr 6",Houston Dynamo,2,0,W
+1671,2013,Portland Timbers,"Sunday, Apr 14",San Jose Earthquakes,1,0,W
+1672,2013,Portland Timbers,"Monday, Apr 22",San Jose Earthquakes,1,1,D
+1673,2013,Portland Timbers,"Saturday, Apr 27",Sporting Kansas City,3,2,W
+1674,2013,Portland Timbers,"Thursday, May 2",New England Revolution,0,0,D
+1675,2013,Portland Timbers,"Wednesday, May 8",FC Dallas,1,1,D
+1676,2013,Portland Timbers,"Sunday, May 12",Chivas USA,3,0,W
+1677,2013,Portland Timbers,"Saturday, May 18",Vancouver Whitecaps,2,2,D
+1678,2013,Portland Timbers,"Saturday, May 25",D.C. United,2,0,W
+1679,2013,Portland Timbers,"Saturday, Jun 8",Chicago Fire,2,2,D
+1680,2013,Portland Timbers,"Saturday, Jun 15",FC Dallas,1,0,W
+1681,2013,Portland Timbers,"Wednesday, Jun 19",LA Galaxy,0,0,D
+1682,2013,Portland Timbers,"Sunday, Jun 23",Colorado Rapids,3,0,W
+1683,2013,Portland Timbers,"Sunday, Jul 7",Columbus Crew,0,1,L
+1684,2013,Portland Timbers,"Sunday, Jul 14",LA Galaxy,2,1,W
+1685,2013,Portland Timbers,"Saturday, Jul 20",Philadelphia Union,0,0,D
+1686,2013,Portland Timbers,"Saturday, Jul 27",San Jose Earthquakes,1,2,L
+1687,2013,Portland Timbers,"Sunday, Aug 4",Vancouver Whitecaps,1,1,D
+1688,2013,Portland Timbers,"Sunday, Aug 18",FC Dallas,2,1,W
+1689,2013,Portland Timbers,"Thursday, Aug 22",Real Salt Lake,3,3,D
+1690,2013,Portland Timbers,"Sunday, Aug 25",Seattle Sounders FC,0,1,L
+1691,2013,Portland Timbers,"Friday, Aug 30",Real Salt Lake,2,4,L
+1692,2013,Portland Timbers,"Sunday, Sep 8",Toronto FC,4,0,W
+1693,2013,Portland Timbers,"Saturday, Sep 14",Chivas USA,1,1,D
+1694,2013,Portland Timbers,"Friday, Sep 20",Colorado Rapids,1,0,W
+1695,2013,Portland Timbers,"Sunday, Sep 29",LA Galaxy,1,0,W
+1696,2013,Portland Timbers,"Sunday, Oct 6",Vancouver Whitecaps,2,2,D
+1697,2013,Portland Timbers,"Sunday, Oct 13",Seattle Sounders FC,1,0,W
+1698,2013,Portland Timbers,"Saturday, Oct 19",Real Salt Lake,0,0,D
+1699,2013,Portland Timbers,"Saturday, Oct 26",Chivas USA,5,0,W
+1700,2013,Real Salt Lake,"Sunday, Mar 3",San Jose Earthquakes,2,0,W
+1701,2013,Real Salt Lake,"Saturday, Mar 9",D.C. United,0,1,L
+1702,2013,Real Salt Lake,"Saturday, Mar 16",Colorado Rapids,1,1,D
+1703,2013,Real Salt Lake,"Saturday, Mar 23",FC Dallas,0,2,L
+1704,2013,Real Salt Lake,"Saturday, Mar 30",Seattle Sounders FC,2,1,W
+1705,2013,Real Salt Lake,"Saturday, Apr 6",Colorado Rapids,0,1,L
+1706,2013,Real Salt Lake,"Saturday, Apr 13",Vancouver Whitecaps,1,1,D
+1707,2013,Real Salt Lake,"Saturday, Apr 20",Chivas USA,1,0,W
+1708,2013,Real Salt Lake,"Saturday, Apr 27",LA Galaxy,0,2,L
+1709,2013,Real Salt Lake,"Saturday, May 4",Vancouver Whitecaps,2,0,W
+1710,2013,Real Salt Lake,"Wednesday, May 8",New England Revolution,2,1,W
+1711,2013,Real Salt Lake,"Saturday, May 11",Montreal Impact,2,3,L
+1712,2013,Real Salt Lake,"Sunday, May 19",Chivas USA,4,1,W
+1713,2013,Real Salt Lake,"Saturday, May 25",Chicago Fire,1,1,D
+1714,2013,Real Salt Lake,"Saturday, Jun 1",San Jose Earthquakes,3,0,W
+1715,2013,Real Salt Lake,"Saturday, Jun 8",LA Galaxy,3,1,W
+1716,2013,Real Salt Lake,"Saturday, Jun 22",Seattle Sounders FC,2,0,W
+1717,2013,Real Salt Lake,"Saturday, Jun 29",Toronto FC,1,0,W
+1718,2013,Real Salt Lake,"Wednesday, Jul 3",Philadelphia Union,2,2,D
+1719,2013,Real Salt Lake,"Saturday, Jul 13",FC Dallas,3,0,W
+1720,2013,Real Salt Lake,"Saturday, Jul 20",Sporting Kansas City,1,2,L
+1721,2013,Real Salt Lake,"Saturday, Jul 27",New York Red Bulls,3,4,L
+1722,2013,Real Salt Lake,"Saturday, Aug 3",Colorado Rapids,2,2,D
+1723,2013,Real Salt Lake,"Saturday, Aug 10",Houston Dynamo,1,0,W
+1724,2013,Real Salt Lake,"Saturday, Aug 17",LA Galaxy,2,4,L
+1725,2013,Real Salt Lake,"Thursday, Aug 22",Portland Timbers,3,3,D
+1726,2013,Real Salt Lake,"Saturday, Aug 24",Columbus Crew,4,0,W
+1727,2013,Real Salt Lake,"Friday, Aug 30",Portland Timbers,4,2,W
+1728,2013,Real Salt Lake,"Friday, Sep 13",Seattle Sounders FC,0,2,L
+1729,2013,Real Salt Lake,"Saturday, Sep 21",San Jose Earthquakes,1,2,L
+1730,2013,Real Salt Lake,"Saturday, Sep 28",Vancouver Whitecaps,1,0,W
+1731,2013,Real Salt Lake,"Saturday, Oct 5",FC Dallas,1,1,D
+1732,2013,Real Salt Lake,"Saturday, Oct 19",Portland Timbers,0,0,D
+1733,2013,Real Salt Lake,"Wednesday, Oct 23",Chivas USA,2,1,W
+1734,2013,San Jose Earthquakes,"Sunday, Mar 3",Real Salt Lake,0,2,L
+1735,2013,San Jose Earthquakes,"Sunday, Mar 10",New York Red Bulls,2,1,W
+1736,2013,San Jose Earthquakes,"Saturday, Mar 16",Columbus Crew,1,1,D
+1737,2013,San Jose Earthquakes,"Saturday, Mar 23",Seattle Sounders FC,1,0,W
+1738,2013,San Jose Earthquakes,"Saturday, Mar 30",Houston Dynamo,0,2,L
+1739,2013,San Jose Earthquakes,"Saturday, Apr 6",Vancouver Whitecaps,1,1,D
+1740,2013,San Jose Earthquakes,"Sunday, Apr 14",Portland Timbers,0,1,L
+1741,2013,San Jose Earthquakes,"Monday, Apr 22",Portland Timbers,1,1,D
+1742,2013,San Jose Earthquakes,"Saturday, Apr 27",Chivas USA,2,2,D
+1743,2013,San Jose Earthquakes,"Saturday, May 4",Montreal Impact,2,2,D
+1744,2013,San Jose Earthquakes,"Wednesday, May 8",Toronto FC,2,1,W
+1745,2013,San Jose Earthquakes,"Saturday, May 11",Seattle Sounders FC,0,4,L
+1746,2013,San Jose Earthquakes,"Saturday, May 18",Colorado Rapids,1,1,D
+1747,2013,San Jose Earthquakes,"Saturday, May 25",FC Dallas,0,1,L
+1748,2013,San Jose Earthquakes,"Saturday, Jun 1",Real Salt Lake,0,3,L
+1749,2013,San Jose Earthquakes,"Saturday, Jun 15",Colorado Rapids,2,1,W
+1750,2013,San Jose Earthquakes,"Saturday, Jun 22",D.C. United,0,1,L
+1751,2013,San Jose Earthquakes,"Saturday, Jun 29",LA Galaxy,3,2,W
+1752,2013,San Jose Earthquakes,"Wednesday, Jul 3",Chicago Fire,2,3,L
+1753,2013,San Jose Earthquakes,"Saturday, Jul 6",New England Revolution,0,2,L
+1754,2013,San Jose Earthquakes,"Saturday, Jul 13",Seattle Sounders FC,1,0,W
+1755,2013,San Jose Earthquakes,"Saturday, Jul 27",Portland Timbers,2,1,W
+1756,2013,San Jose Earthquakes,"Saturday, Aug 3",Chivas USA,2,0,W
+1757,2013,San Jose Earthquakes,"Saturday, Aug 10",Vancouver Whitecaps,0,2,L
+1758,2013,San Jose Earthquakes,"Sunday, Aug 18",Sporting Kansas City,1,0,W
+1759,2013,San Jose Earthquakes,"Saturday, Aug 24",FC Dallas,2,2,D
+1760,2013,San Jose Earthquakes,"Saturday, Aug 31",LA Galaxy,0,3,L
+1761,2013,San Jose Earthquakes,"Monday, Sep 9",Philadelphia Union,1,0,W
+1762,2013,San Jose Earthquakes,"Saturday, Sep 14",Vancouver Whitecaps,0,0,D
+1763,2013,San Jose Earthquakes,"Saturday, Sep 21",Real Salt Lake,2,1,W
+1764,2013,San Jose Earthquakes,"Monday, Sep 30",Chivas USA,1,0,W
+1765,2013,San Jose Earthquakes,"Wednesday, Oct 9",Colorado Rapids,1,0,W
+1766,2013,San Jose Earthquakes,"Sunday, Oct 20",LA Galaxy,0,0,D
+1767,2013,San Jose Earthquakes,"Saturday, Oct 26",FC Dallas,2,1,W
+1768,2013,Seattle Sounders FC,"Saturday, Mar 2",Montreal Impact,0,1,L
+1769,2013,Seattle Sounders FC,"Saturday, Mar 16",Portland Timbers,1,1,D
+1770,2013,Seattle Sounders FC,"Saturday, Mar 23",San Jose Earthquakes,0,1,L
+1771,2013,Seattle Sounders FC,"Saturday, Mar 30",Real Salt Lake,1,2,L
+1772,2013,Seattle Sounders FC,"Saturday, Apr 13",New England Revolution,0,0,D
+1773,2013,Seattle Sounders FC,"Saturday, Apr 20",Colorado Rapids,1,0,W
+1774,2013,Seattle Sounders FC,"Saturday, May 4",Philadelphia Union,2,2,D
+1775,2013,Seattle Sounders FC,"Wednesday, May 8",Sporting Kansas City,1,0,W
+1776,2013,Seattle Sounders FC,"Saturday, May 11",San Jose Earthquakes,4,0,W
+1777,2013,Seattle Sounders FC,"Saturday, May 18",FC Dallas,4,2,W
+1778,2013,Seattle Sounders FC,"Monday, May 27",LA Galaxy,0,4,L
+1779,2013,Seattle Sounders FC,"Saturday, Jun 1",Chivas USA,2,0,W
+1780,2013,Seattle Sounders FC,"Saturday, Jun 8",Vancouver Whitecaps,3,2,W
+1781,2013,Seattle Sounders FC,"Saturday, Jun 22",Real Salt Lake,0,2,L
+1782,2013,Seattle Sounders FC,"Wednesday, Jul 3",D.C. United,2,0,W
+1783,2013,Seattle Sounders FC,"Sunday, Jul 7",Vancouver Whitecaps,0,2,L
+1784,2013,Seattle Sounders FC,"Saturday, Jul 13",San Jose Earthquakes,0,1,L
+1785,2013,Seattle Sounders FC,"Saturday, Jul 20",Colorado Rapids,1,1,D
+1786,2013,Seattle Sounders FC,"Monday, Jul 29",Chivas USA,2,1,W
+1787,2013,Seattle Sounders FC,"Saturday, Aug 3",FC Dallas,3,0,W
+1788,2013,Seattle Sounders FC,"Saturday, Aug 10",Toronto FC,2,1,W
+1789,2013,Seattle Sounders FC,"Saturday, Aug 17",Houston Dynamo,1,3,L
+1790,2013,Seattle Sounders FC,"Sunday, Aug 25",Portland Timbers,1,0,W
+1791,2013,Seattle Sounders FC,"Saturday, Aug 31",Columbus Crew,1,0,W
+1792,2013,Seattle Sounders FC,"Wednesday, Sep 4",Chivas USA,1,0,W
+1793,2013,Seattle Sounders FC,"Saturday, Sep 7",Chicago Fire,2,1,W
+1794,2013,Seattle Sounders FC,"Friday, Sep 13",Real Salt Lake,2,0,W
+1795,2013,Seattle Sounders FC,"Saturday, Sep 21",LA Galaxy,1,1,D
+1796,2013,Seattle Sounders FC,"Sunday, Sep 29",New York Red Bulls,1,1,D
+1797,2013,Seattle Sounders FC,"Saturday, Oct 5",Colorado Rapids,1,5,L
+1798,2013,Seattle Sounders FC,"Wednesday, Oct 9",Vancouver Whitecaps,1,4,L
+1799,2013,Seattle Sounders FC,"Sunday, Oct 13",Portland Timbers,0,1,L
+1800,2013,Seattle Sounders FC,"Saturday, Oct 19",FC Dallas,0,2,L
+1801,2013,Seattle Sounders FC,"Sunday, Oct 27",LA Galaxy,1,1,D
+1802,2013,Sporting Kansas City,"Saturday, Mar 2",Philadelphia Union,3,1,W
+1803,2013,Sporting Kansas City,"Saturday, Mar 9",Toronto FC,1,2,L
+1804,2013,Sporting Kansas City,"Saturday, Mar 16",Chicago Fire,0,0,D
+1805,2013,Sporting Kansas City,"Saturday, Mar 23",New England Revolution,0,0,D
+1806,2013,Sporting Kansas City,"Saturday, Mar 30",Montreal Impact,2,0,W
+1807,2013,Sporting Kansas City,"Friday, Apr 5",D.C. United,1,0,W
+1808,2013,Sporting Kansas City,"Wednesday, Apr 17",New York Red Bulls,1,0,W
+1809,2013,Sporting Kansas City,"Saturday, Apr 20",LA Galaxy,0,2,L
+1810,2013,Sporting Kansas City,"Saturday, Apr 27",Portland Timbers,2,3,L
+1811,2013,Sporting Kansas City,"Sunday, May 5",Chivas USA,4,0,W
+1812,2013,Sporting Kansas City,"Wednesday, May 8",Seattle Sounders FC,0,1,L
+1813,2013,Sporting Kansas City,"Sunday, May 12",Houston Dynamo,1,0,W
+1814,2013,Sporting Kansas City,"Sunday, May 19",D.C. United,1,1,D
+1815,2013,Sporting Kansas City,"Sunday, May 26",Houston Dynamo,1,1,D
+1816,2013,Sporting Kansas City,"Saturday, Jun 1",Montreal Impact,1,2,L
+1817,2013,Sporting Kansas City,"Saturday, Jun 22",FC Dallas,2,2,D
+1818,2013,Sporting Kansas City,"Saturday, Jun 29",Columbus Crew,3,2,W
+1819,2013,Sporting Kansas City,"Wednesday, Jul 3",Vancouver Whitecaps,1,1,D
+1820,2013,Sporting Kansas City,"Sunday, Jul 7",Chicago Fire,2,1,W
+1821,2013,Sporting Kansas City,"Saturday, Jul 13",Toronto FC,3,0,W
+1822,2013,Sporting Kansas City,"Saturday, Jul 20",Real Salt Lake,2,1,W
+1823,2013,Sporting Kansas City,"Saturday, Jul 27",Montreal Impact,0,1,L
+1824,2013,Sporting Kansas City,"Saturday, Aug 3",New York Red Bulls,2,3,L
+1825,2013,Sporting Kansas City,"Saturday, Aug 10",New England Revolution,3,0,W
+1826,2013,Sporting Kansas City,"Sunday, Aug 18",San Jose Earthquakes,0,1,L
+1827,2013,Sporting Kansas City,"Friday, Aug 23",Chicago Fire,0,1,L
+1828,2013,Sporting Kansas City,"Saturday, Aug 31",Colorado Rapids,2,1,W
+1829,2013,Sporting Kansas City,"Saturday, Sep 7",Columbus Crew,3,0,W
+1830,2013,Sporting Kansas City,"Saturday, Sep 21",Toronto FC,2,1,W
+1831,2013,Sporting Kansas City,"Friday, Sep 27",Philadelphia Union,0,1,L
+1832,2013,Sporting Kansas City,"Saturday, Oct 5",Columbus Crew,1,0,W
+1833,2013,Sporting Kansas City,"Wednesday, Oct 9",Houston Dynamo,0,0,D
+1834,2013,Sporting Kansas City,"Friday, Oct 18",D.C. United,1,0,W
+1835,2013,Sporting Kansas City,"Saturday, Oct 26",Philadelphia Union,2,1,W
+1836,2013,Toronto FC,"Saturday, Mar 2",Vancouver Whitecaps,0,1,L
+1837,2013,Toronto FC,"Saturday, Mar 9",Sporting Kansas City,2,1,W
+1838,2013,Toronto FC,"Saturday, Mar 16",Montreal Impact,1,2,L
+1839,2013,Toronto FC,"Saturday, Mar 30",LA Galaxy,2,2,D
+1840,2013,Toronto FC,"Saturday, Apr 6",FC Dallas,2,2,D
+1841,2013,Toronto FC,"Saturday, Apr 13",Philadelphia Union,1,1,D
+1842,2013,Toronto FC,"Saturday, Apr 20",Houston Dynamo,1,1,D
+1843,2013,Toronto FC,"Saturday, Apr 27",New York Red Bulls,1,2,L
+1844,2013,Toronto FC,"Saturday, May 4",Colorado Rapids,0,1,L
+1845,2013,Toronto FC,"Wednesday, May 8",San Jose Earthquakes,1,2,L
+1846,2013,Toronto FC,"Saturday, May 18",Columbus Crew,0,1,L
+1847,2013,Toronto FC,"Saturday, May 25",New England Revolution,0,2,L
+1848,2013,Toronto FC,"Saturday, Jun 1",Philadelphia Union,1,1,D
+1849,2013,Toronto FC,"Saturday, Jun 15",D.C. United,2,1,W
+1850,2013,Toronto FC,"Saturday, Jun 22",Houston Dynamo,0,0,D
+1851,2013,Toronto FC,"Saturday, Jun 29",Real Salt Lake,0,1,L
+1852,2013,Toronto FC,"Wednesday, Jul 3",Montreal Impact,3,3,D
+1853,2013,Toronto FC,"Saturday, Jul 13",Sporting Kansas City,0,3,L
+1854,2013,Toronto FC,"Wednesday, Jul 17",Chivas USA,0,1,L
+1855,2013,Toronto FC,"Saturday, Jul 20",New York Red Bulls,0,0,D
+1856,2013,Toronto FC,"Saturday, Jul 27",Columbus Crew,2,1,W
+1857,2013,Toronto FC,"Sunday, Aug 4",New England Revolution,1,0,W
+1858,2013,Toronto FC,"Saturday, Aug 10",Seattle Sounders FC,1,2,L
+1859,2013,Toronto FC,"Saturday, Aug 17",Columbus Crew,0,2,L
+1860,2013,Toronto FC,"Saturday, Aug 24",D.C. United,1,1,D
+1861,2013,Toronto FC,"Friday, Aug 30",New England Revolution,1,1,D
+1862,2013,Toronto FC,"Sunday, Sep 8",Portland Timbers,0,4,L
+1863,2013,Toronto FC,"Wednesday, Sep 11",Chicago Fire,1,1,D
+1864,2013,Toronto FC,"Saturday, Sep 14",New York Red Bulls,0,2,L
+1865,2013,Toronto FC,"Saturday, Sep 21",Sporting Kansas City,1,2,L
+1866,2013,Toronto FC,"Saturday, Sep 28",D.C. United,4,1,W
+1867,2013,Toronto FC,"Saturday, Oct 5",Philadelphia Union,0,1,L
+1868,2013,Toronto FC,"Saturday, Oct 19",Chicago Fire,0,1,L
+1869,2013,Toronto FC,"Saturday, Oct 26",Montreal Impact,1,0,W
+1870,2013,Vancouver Whitecaps,"Saturday, Mar 2",Toronto FC,1,0,W
+1871,2013,Vancouver Whitecaps,"Saturday, Mar 9",Columbus Crew,2,1,W
+1872,2013,Vancouver Whitecaps,"Saturday, Mar 23",Houston Dynamo,1,2,L
+1873,2013,Vancouver Whitecaps,"Saturday, Mar 30",Chivas USA,1,2,L
+1874,2013,Vancouver Whitecaps,"Saturday, Apr 6",San Jose Earthquakes,1,1,D
+1875,2013,Vancouver Whitecaps,"Saturday, Apr 13",Real Salt Lake,1,1,D
+1876,2013,Vancouver Whitecaps,"Saturday, Apr 20",FC Dallas,0,2,L
+1877,2013,Vancouver Whitecaps,"Saturday, Apr 27",FC Dallas,2,2,D
+1878,2013,Vancouver Whitecaps,"Saturday, May 4",Real Salt Lake,0,2,L
+1879,2013,Vancouver Whitecaps,"Saturday, May 11",LA Galaxy,3,1,W
+1880,2013,Vancouver Whitecaps,"Saturday, May 18",Portland Timbers,2,2,D
+1881,2013,Vancouver Whitecaps,"Saturday, Jun 1",New York Red Bulls,2,1,W
+1882,2013,Vancouver Whitecaps,"Saturday, Jun 8",Seattle Sounders FC,2,3,L
+1883,2013,Vancouver Whitecaps,"Saturday, Jun 15",New England Revolution,4,3,W
+1884,2013,Vancouver Whitecaps,"Wednesday, Jun 19",Chivas USA,3,1,W
+1885,2013,Vancouver Whitecaps,"Saturday, Jun 29",D.C. United,1,0,W
+1886,2013,Vancouver Whitecaps,"Wednesday, Jul 3",Sporting Kansas City,1,1,D
+1887,2013,Vancouver Whitecaps,"Sunday, Jul 7",Seattle Sounders FC,2,0,W
+1888,2013,Vancouver Whitecaps,"Sunday, Jul 14",Chicago Fire,3,1,W
+1889,2013,Vancouver Whitecaps,"Saturday, Jul 20",LA Galaxy,1,2,L
+1890,2013,Vancouver Whitecaps,"Saturday, Jul 27",Philadelphia Union,0,1,L
+1891,2013,Vancouver Whitecaps,"Sunday, Aug 4",Portland Timbers,1,1,D
+1892,2013,Vancouver Whitecaps,"Saturday, Aug 10",San Jose Earthquakes,2,0,W
+1893,2013,Vancouver Whitecaps,"Saturday, Aug 17",Colorado Rapids,0,2,L
+1894,2013,Vancouver Whitecaps,"Saturday, Aug 24",LA Galaxy,0,1,L
+1895,2013,Vancouver Whitecaps,"Sunday, Sep 1",Chivas USA,2,2,D
+1896,2013,Vancouver Whitecaps,"Saturday, Sep 7",FC Dallas,1,3,L
+1897,2013,Vancouver Whitecaps,"Saturday, Sep 14",San Jose Earthquakes,0,0,D
+1898,2013,Vancouver Whitecaps,"Saturday, Sep 21",Montreal Impact,3,0,W
+1899,2013,Vancouver Whitecaps,"Saturday, Sep 28",Real Salt Lake,0,1,L
+1900,2013,Vancouver Whitecaps,"Sunday, Oct 6",Portland Timbers,2,2,D
+1901,2013,Vancouver Whitecaps,"Wednesday, Oct 9",Seattle Sounders FC,4,1,W
+1902,2013,Vancouver Whitecaps,"Saturday, Oct 19",Colorado Rapids,2,3,L
+1903,2013,Vancouver Whitecaps,"Sunday, Oct 27",Colorado Rapids,3,0,W
+1904,2014,Chicago Fire,"Sunday, Mar 9",Chivas USA,2,3,L
+1905,2014,Chicago Fire,"Sunday, Mar 16",Portland Timbers,1,1,D
+1906,2014,Chicago Fire,"Sunday, Mar 23",New York Red Bulls,1,1,D
+1907,2014,Chicago Fire,"Saturday, Mar 29",D.C. United,2,2,D
+1908,2014,Chicago Fire,"Saturday, Apr 5",Philadelphia Union,2,2,D
+1909,2014,Chicago Fire,"Saturday, Apr 12",Montreal Impact,1,1,D
+1910,2014,Chicago Fire,"Saturday, Apr 19",New England Revolution,1,1,D
+1911,2014,Chicago Fire,"Saturday, May 3",Real Salt Lake,2,3,L
+1912,2014,Chicago Fire,"Saturday, May 10",New York Red Bulls,5,4,W
+1913,2014,Chicago Fire,"Sunday, May 18",Sporting Kansas City,2,1,W
+1914,2014,Chicago Fire,"Saturday, May 24",Columbus Crew,0,2,L
+1915,2014,Chicago Fire,"Sunday, Jun 1",LA Galaxy,1,1,D
+1916,2014,Chicago Fire,"Wednesday, Jun 4",Colorado Rapids,0,0,D
+1917,2014,Chicago Fire,"Saturday, Jun 7",Seattle Sounders FC,2,3,L
+1918,2014,Chicago Fire,"Wednesday, Jul 2",Toronto FC,1,1,D
+1919,2014,Chicago Fire,"Sunday, Jul 6",Sporting Kansas City,1,1,D
+1920,2014,Chicago Fire,"Saturday, Jul 12",New England Revolution,1,0,W
+1921,2014,Chicago Fire,"Saturday, Jul 19",Philadelphia Union,1,1,D
+1922,2014,Chicago Fire,"Wednesday, Jul 23",San Jose Earthquakes,1,5,L
+1923,2014,Chicago Fire,"Wednesday, Jul 30",Vancouver Whitecaps,0,0,D
+1924,2014,Chicago Fire,"Saturday, Aug 2",Columbus Crew,1,1,D
+1925,2014,Chicago Fire,"Sunday, Aug 10",New York Red Bulls,1,0,W
+1926,2014,Chicago Fire,"Saturday, Aug 16",Montreal Impact,0,1,L
+1927,2014,Chicago Fire,"Saturday, Aug 23",Toronto FC,2,2,D
+1928,2014,Chicago Fire,"Saturday, Aug 30",FC Dallas,1,0,W
+1929,2014,Chicago Fire,"Sunday, Sep 7",New England Revolution,1,2,L
+1930,2014,Chicago Fire,"Saturday, Sep 13",Toronto FC,1,1,D
+1931,2014,Chicago Fire,"Saturday, Sep 20",D.C. United,3,3,D
+1932,2014,Chicago Fire,"Sunday, Sep 28",Houston Dynamo,0,2,L
+1933,2014,Chicago Fire,"Thursday, Oct 2",Philadelphia Union,1,1,D
+1934,2014,Chicago Fire,"Sunday, Oct 5",Montreal Impact,0,0,D
+1935,2014,Chicago Fire,"Friday, Oct 10",Sporting Kansas City,0,2,L
+1936,2014,Chicago Fire,"Saturday, Oct 18",D.C. United,1,2,L
+1937,2014,Chicago Fire,"Friday, Oct 24",Houston Dynamo,2,1,W
+1938,2014,Chivas USA,"Sunday, Mar 9",Chicago Fire,3,2,W
+1939,2014,Chivas USA,"Sunday, Mar 16",Vancouver Whitecaps,1,1,D
+1940,2014,Chivas USA,"Saturday, Mar 22",FC Dallas,1,3,L
+1941,2014,Chivas USA,"Sunday, Mar 30",New York Red Bulls,1,1,D
+1942,2014,Chivas USA,"Sunday, Apr 6",LA Galaxy,0,3,L
+1943,2014,Chivas USA,"Saturday, Apr 12",Portland Timbers,1,1,D
+1944,2014,Chivas USA,"Saturday, Apr 19",Seattle Sounders FC,1,2,L
+1945,2014,Chivas USA,"Saturday, Apr 26",San Jose Earthquakes,0,1,L
+1946,2014,Chivas USA,"Saturday, May 3",Houston Dynamo,1,4,L
+1947,2014,Chivas USA,"Sunday, May 11",Colorado Rapids,3,1,W
+1948,2014,Chivas USA,"Saturday, May 17",FC Dallas,1,1,D
+1949,2014,Chivas USA,"Wednesday, May 28",Portland Timbers,0,2,L
+1950,2014,Chivas USA,"Saturday, May 31",Philadelphia Union,0,3,L
+1951,2014,Chivas USA,"Sunday, Jun 8",LA Galaxy,1,1,D
+1952,2014,Chivas USA,"Saturday, Jun 28",Real Salt Lake,1,0,W
+1953,2014,Chivas USA,"Wednesday, Jul 2",San Jose Earthquakes,1,0,W
+1954,2014,Chivas USA,"Saturday, Jul 5",Montreal Impact,1,0,W
+1955,2014,Chivas USA,"Saturday, Jul 12",Vancouver Whitecaps,3,1,W
+1956,2014,Chivas USA,"Sunday, Jul 20",D.C. United,1,3,L
+1957,2014,Chivas USA,"Friday, Jul 25",Colorado Rapids,0,3,L
+1958,2014,Chivas USA,"Sunday, Aug 3",FC Dallas,0,1,L
+1959,2014,Chivas USA,"Saturday, Aug 9",Portland Timbers,0,2,L
+1960,2014,Chivas USA,"Saturday, Aug 16",Vancouver Whitecaps,0,0,D
+1961,2014,Chivas USA,"Saturday, Aug 23",New England Revolution,0,1,L
+1962,2014,Chivas USA,"Sunday, Aug 31",LA Galaxy,0,3,L
+1963,2014,Chivas USA,"Wednesday, Sep 3",Seattle Sounders FC,2,4,L
+1964,2014,Chivas USA,"Sunday, Sep 7",Columbus Crew,0,3,L
+1965,2014,Chivas USA,"Friday, Sep 12",Sporting Kansas City,0,4,L
+1966,2014,Chivas USA,"Sunday, Sep 21",Toronto FC,0,3,L
+1967,2014,Chivas USA,"Saturday, Sep 27",Seattle Sounders FC,2,4,L
+1968,2014,Chivas USA,"Sunday, Oct 5",Real Salt Lake,1,0,W
+1969,2014,Chivas USA,"Saturday, Oct 11",Colorado Rapids,2,1,W
+1970,2014,Chivas USA,"Wednesday, Oct 22",Real Salt Lake,0,2,L
+1971,2014,Chivas USA,"Sunday, Oct 26",San Jose Earthquakes,1,0,W
+1972,2014,Colorado Rapids,"Saturday, Mar 15",New York Red Bulls,1,1,D
+1973,2014,Colorado Rapids,"Saturday, Mar 22",Portland Timbers,2,0,W
+1974,2014,Colorado Rapids,"Saturday, Mar 29",Sporting Kansas City,2,3,L
+1975,2014,Colorado Rapids,"Saturday, Apr 5",Vancouver Whitecaps,2,1,W
+1976,2014,Colorado Rapids,"Saturday, Apr 12",Toronto FC,1,0,W
+1977,2014,Colorado Rapids,"Saturday, Apr 19",San Jose Earthquakes,0,0,D
+1978,2014,Colorado Rapids,"Saturday, Apr 26",Seattle Sounders FC,1,4,L
+1979,2014,Colorado Rapids,"Saturday, May 3",LA Galaxy,1,0,W
+1980,2014,Colorado Rapids,"Wednesday, May 7",San Jose Earthquakes,0,0,D
+1981,2014,Colorado Rapids,"Sunday, May 11",Chivas USA,1,3,L
+1982,2014,Colorado Rapids,"Saturday, May 17",Real Salt Lake,1,2,L
+1983,2014,Colorado Rapids,"Saturday, May 24",Montreal Impact,4,1,W
+1984,2014,Colorado Rapids,"Sunday, Jun 1",Houston Dynamo,3,0,W
+1985,2014,Colorado Rapids,"Wednesday, Jun 4",Chicago Fire,0,0,D
+1986,2014,Colorado Rapids,"Saturday, Jun 7",FC Dallas,2,3,L
+1987,2014,Colorado Rapids,"Saturday, Jun 28",Vancouver Whitecaps,2,0,W
+1988,2014,Colorado Rapids,"Friday, Jul 4",Columbus Crew,1,1,D
+1989,2014,Colorado Rapids,"Saturday, Jul 12",Philadelphia Union,3,3,D
+1990,2014,Colorado Rapids,"Saturday, Jul 19",Portland Timbers,1,2,L
+1991,2014,Colorado Rapids,"Friday, Jul 25",Chivas USA,3,0,W
+1992,2014,Colorado Rapids,"Wednesday, Jul 30",New England Revolution,0,3,L
+1993,2014,Colorado Rapids,"Saturday, Aug 2",Real Salt Lake,0,1,L
+1994,2014,Colorado Rapids,"Saturday, Aug 9",FC Dallas,1,3,L
+1995,2014,Colorado Rapids,"Sunday, Aug 17",D.C. United,2,4,L
+1996,2014,Colorado Rapids,"Wednesday, Aug 20",LA Galaxy,3,4,L
+1997,2014,Colorado Rapids,"Saturday, Aug 30",Seattle Sounders FC,0,1,L
+1998,2014,Colorado Rapids,"Friday, Sep 5",LA Galaxy,0,6,L
+1999,2014,Colorado Rapids,"Saturday, Sep 13",Portland Timbers,2,2,D
+2000,2014,Colorado Rapids,"Friday, Sep 19",Real Salt Lake,1,5,L
+2001,2014,Colorado Rapids,"Saturday, Sep 27",San Jose Earthquakes,1,1,D
+2002,2014,Colorado Rapids,"Sunday, Oct 5",Seattle Sounders FC,1,4,L
+2003,2014,Colorado Rapids,"Saturday, Oct 11",Chivas USA,1,2,L
+2004,2014,Colorado Rapids,"Saturday, Oct 18",FC Dallas,0,1,L
+2005,2014,Colorado Rapids,"Saturday, Oct 25",Vancouver Whitecaps,0,1,L
+2006,2014,Columbus Crew,"Saturday, Mar 8",D.C. United,3,0,W
+2007,2014,Columbus Crew,"Saturday, Mar 22",Philadelphia Union,2,1,W
+2008,2014,Columbus Crew,"Saturday, Mar 29",Seattle Sounders FC,2,1,W
+2009,2014,Columbus Crew,"Saturday, Apr 5",Toronto FC,0,2,L
+2010,2014,Columbus Crew,"Sunday, Apr 13",San Jose Earthquakes,1,1,D
+2011,2014,Columbus Crew,"Saturday, Apr 19",D.C. United,1,1,D
+2012,2014,Columbus Crew,"Saturday, Apr 26",New York Red Bulls,1,1,D
+2013,2014,Columbus Crew,"Sunday, May 4",Sporting Kansas City,0,2,L
+2014,2014,Columbus Crew,"Wednesday, May 7",Houston Dynamo,0,1,L
+2015,2014,Columbus Crew,"Saturday, May 10",Vancouver Whitecaps,0,1,L
+2016,2014,Columbus Crew,"Saturday, May 17",Portland Timbers,3,3,D
+2017,2014,Columbus Crew,"Saturday, May 24",Chicago Fire,2,0,W
+2018,2014,Columbus Crew,"Saturday, May 31",Toronto FC,2,3,L
+2019,2014,Columbus Crew,"Wednesday, Jun 4",Real Salt Lake,1,1,D
+2020,2014,Columbus Crew,"Saturday, Jun 7",D.C. United,0,0,D
+2021,2014,Columbus Crew,"Sunday, Jun 29",FC Dallas,0,0,D
+2022,2014,Columbus Crew,"Friday, Jul 4",Colorado Rapids,1,1,D
+2023,2014,Columbus Crew,"Saturday, Jul 12",New York Red Bulls,1,4,L
+2024,2014,Columbus Crew,"Wednesday, Jul 16",Sporting Kansas City,1,2,L
+2025,2014,Columbus Crew,"Saturday, Jul 19",Montreal Impact,2,1,W
+2026,2014,Columbus Crew,"Saturday, Jul 26",New England Revolution,2,1,W
+2027,2014,Columbus Crew,"Saturday, Aug 2",Chicago Fire,1,1,D
+2028,2014,Columbus Crew,"Saturday, Aug 9",Toronto FC,2,3,L
+2029,2014,Columbus Crew,"Saturday, Aug 16",LA Galaxy,4,1,W
+2030,2014,Columbus Crew,"Saturday, Aug 23",Houston Dynamo,3,0,W
+2031,2014,Columbus Crew,"Saturday, Aug 30",Montreal Impact,0,2,L
+2032,2014,Columbus Crew,"Sunday, Sep 7",Chivas USA,3,0,W
+2033,2014,Columbus Crew,"Saturday, Sep 13",Houston Dynamo,2,2,D
+2034,2014,Columbus Crew,"Saturday, Sep 20",New England Revolution,1,0,W
+2035,2014,Columbus Crew,"Saturday, Sep 27",Montreal Impact,2,0,W
+2036,2014,Columbus Crew,"Saturday, Oct 4",New England Revolution,1,2,L
+2037,2014,Columbus Crew,"Saturday, Oct 11",Philadelphia Union,3,2,W
+2038,2014,Columbus Crew,"Sunday, Oct 19",New York Red Bulls,3,1,W
+2039,2014,Columbus Crew,"Sunday, Oct 26",Philadelphia Union,2,1,W
+2040,2014,D.C. United,"Saturday, Mar 8",Columbus Crew,0,3,L
+2041,2014,D.C. United,"Saturday, Mar 22",Toronto FC,0,1,L
+2042,2014,D.C. United,"Saturday, Mar 29",Chicago Fire,2,2,D
+2043,2014,D.C. United,"Saturday, Apr 5",New England Revolution,2,0,W
+2044,2014,D.C. United,"Saturday, Apr 12",New York Red Bulls,1,0,W
+2045,2014,D.C. United,"Saturday, Apr 19",Columbus Crew,1,1,D
+2046,2014,D.C. United,"Saturday, Apr 26",FC Dallas,4,1,W
+2047,2014,D.C. United,"Saturday, May 3",Portland Timbers,2,3,L
+2048,2014,D.C. United,"Saturday, May 10",Philadelphia Union,1,0,W
+2049,2014,D.C. United,"Saturday, May 17",Montreal Impact,1,1,D
+2050,2014,D.C. United,"Wednesday, May 21",Houston Dynamo,2,0,W
+2051,2014,D.C. United,"Saturday, May 24",New England Revolution,1,2,L
+2052,2014,D.C. United,"Saturday, May 31",Sporting Kansas City,1,0,W
+2053,2014,D.C. United,"Saturday, Jun 7",Columbus Crew,0,0,D
+2054,2014,D.C. United,"Wednesday, Jun 11",Montreal Impact,4,2,W
+2055,2014,D.C. United,"Saturday, Jun 28",Seattle Sounders FC,0,1,L
+2056,2014,D.C. United,"Saturday, Jul 5",Toronto FC,2,1,W
+2057,2014,D.C. United,"Saturday, Jul 12",San Jose Earthquakes,2,1,W
+2058,2014,D.C. United,"Sunday, Jul 20",Chivas USA,3,1,W
+2059,2014,D.C. United,"Wednesday, Jul 30",Toronto FC,3,0,W
+2060,2014,D.C. United,"Sunday, Aug 3",Houston Dynamo,0,1,L
+2061,2014,D.C. United,"Saturday, Aug 9",Real Salt Lake,0,3,L
+2062,2014,D.C. United,"Sunday, Aug 17",Colorado Rapids,4,2,W
+2063,2014,D.C. United,"Saturday, Aug 23",Sporting Kansas City,3,0,W
+2064,2014,D.C. United,"Wednesday, Aug 27",LA Galaxy,1,4,L
+2065,2014,D.C. United,"Sunday, Aug 31",New York Red Bulls,2,0,W
+2066,2014,D.C. United,"Saturday, Sep 6",Vancouver Whitecaps,0,0,D
+2067,2014,D.C. United,"Wednesday, Sep 10",New York Red Bulls,0,1,L
+2068,2014,D.C. United,"Saturday, Sep 20",Chicago Fire,3,3,D
+2069,2014,D.C. United,"Saturday, Sep 27",Philadelphia Union,1,0,W
+2070,2014,D.C. United,"Friday, Oct 3",Sporting Kansas City,0,0,D
+2071,2014,D.C. United,"Sunday, Oct 12",Houston Dynamo,3,1,W
+2072,2014,D.C. United,"Saturday, Oct 18",Chicago Fire,2,1,W
+2073,2014,D.C. United,"Saturday, Oct 25",Montreal Impact,1,1,D
+2074,2014,FC Dallas,"Saturday, Mar 8",Montreal Impact,3,2,W
+2075,2014,FC Dallas,"Saturday, Mar 15",Sporting Kansas City,1,1,D
+2076,2014,FC Dallas,"Saturday, Mar 22",Chivas USA,3,1,W
+2077,2014,FC Dallas,"Saturday, Mar 29",Portland Timbers,2,1,W
+2078,2014,FC Dallas,"Saturday, Apr 5",Houston Dynamo,4,1,W
+2079,2014,FC Dallas,"Saturday, Apr 12",Seattle Sounders FC,2,3,L
+2080,2014,FC Dallas,"Saturday, Apr 19",Toronto FC,2,1,W
+2081,2014,FC Dallas,"Saturday, Apr 26",D.C. United,1,4,L
+2082,2014,FC Dallas,"Sunday, May 4",New York Red Bulls,0,1,L
+2083,2014,FC Dallas,"Wednesday, May 7",Seattle Sounders FC,1,2,L
+2084,2014,FC Dallas,"Saturday, May 10",San Jose Earthquakes,1,2,L
+2085,2014,FC Dallas,"Saturday, May 17",Chivas USA,1,1,D
+2086,2014,FC Dallas,"Wednesday, May 21",LA Galaxy,1,2,L
+2087,2014,FC Dallas,"Saturday, May 24",Real Salt Lake,0,0,D
+2088,2014,FC Dallas,"Saturday, May 31",San Jose Earthquakes,1,2,L
+2089,2014,FC Dallas,"Saturday, Jun 7",Colorado Rapids,3,2,W
+2090,2014,FC Dallas,"Wednesday, Jun 11",Portland Timbers,2,2,D
+2091,2014,FC Dallas,"Sunday, Jun 29",Columbus Crew,0,0,D
+2092,2014,FC Dallas,"Friday, Jul 4",Philadelphia Union,2,1,W
+2093,2014,FC Dallas,"Saturday, Jul 19",New England Revolution,2,0,W
+2094,2014,FC Dallas,"Sunday, Jul 27",Vancouver Whitecaps,2,2,D
+2095,2014,FC Dallas,"Sunday, Aug 3",Chivas USA,1,0,W
+2096,2014,FC Dallas,"Saturday, Aug 9",Colorado Rapids,3,1,W
+2097,2014,FC Dallas,"Saturday, Aug 16",San Jose Earthquakes,5,0,W
+2098,2014,FC Dallas,"Friday, Aug 22",Real Salt Lake,2,1,W
+2099,2014,FC Dallas,"Saturday, Aug 30",Chicago Fire,0,1,L
+2100,2014,FC Dallas,"Saturday, Sep 6",Real Salt Lake,1,2,L
+2101,2014,FC Dallas,"Saturday, Sep 13",Vancouver Whitecaps,2,1,W
+2102,2014,FC Dallas,"Saturday, Sep 20",LA Galaxy,1,2,L
+2103,2014,FC Dallas,"Wednesday, Sep 24",Seattle Sounders FC,3,1,W
+2104,2014,FC Dallas,"Saturday, Oct 4",Vancouver Whitecaps,0,2,L
+2105,2014,FC Dallas,"Sunday, Oct 12",LA Galaxy,2,1,W
+2106,2014,FC Dallas,"Saturday, Oct 18",Colorado Rapids,1,0,W
+2107,2014,FC Dallas,"Saturday, Oct 25",Portland Timbers,0,2,L
+2108,2014,Houston Dynamo,"Saturday, Mar 8",New England Revolution,4,0,W
+2109,2014,Houston Dynamo,"Saturday, Mar 15",Montreal Impact,1,0,W
+2110,2014,Houston Dynamo,"Saturday, Mar 29",Vancouver Whitecaps,1,2,L
+2111,2014,Houston Dynamo,"Saturday, Apr 5",FC Dallas,1,4,L
+2112,2014,Houston Dynamo,"Saturday, Apr 12",New England Revolution,0,2,L
+2113,2014,Houston Dynamo,"Saturday, Apr 19",Philadelphia Union,0,0,D
+2114,2014,Houston Dynamo,"Wednesday, Apr 23",New York Red Bulls,0,4,L
+2115,2014,Houston Dynamo,"Sunday, Apr 27",Portland Timbers,1,1,D
+2116,2014,Houston Dynamo,"Saturday, May 3",Chivas USA,4,1,W
+2117,2014,Houston Dynamo,"Wednesday, May 7",Columbus Crew,1,0,W
+2118,2014,Houston Dynamo,"Sunday, May 11",Real Salt Lake,2,5,L
+2119,2014,Houston Dynamo,"Saturday, May 17",LA Galaxy,1,0,W
+2120,2014,Houston Dynamo,"Wednesday, May 21",D.C. United,0,2,L
+2121,2014,Houston Dynamo,"Sunday, May 25",San Jose Earthquakes,0,3,L
+2122,2014,Houston Dynamo,"Sunday, Jun 1",Colorado Rapids,0,3,L
+2123,2014,Houston Dynamo,"Friday, Jun 6",Sporting Kansas City,0,2,L
+2124,2014,Houston Dynamo,"Sunday, Jun 29",Montreal Impact,0,3,L
+2125,2014,Houston Dynamo,"Friday, Jul 4",New York Red Bulls,2,2,D
+2126,2014,Houston Dynamo,"Saturday, Jul 12",Toronto FC,2,4,L
+2127,2014,Houston Dynamo,"Saturday, Jul 19",Toronto FC,2,2,D
+2128,2014,Houston Dynamo,"Sunday, Aug 3",D.C. United,1,0,W
+2129,2014,Houston Dynamo,"Sunday, Aug 10",Seattle Sounders FC,0,2,L
+2130,2014,Houston Dynamo,"Friday, Aug 15",Philadelphia Union,2,0,W
+2131,2014,Houston Dynamo,"Saturday, Aug 23",Columbus Crew,0,3,L
+2132,2014,Houston Dynamo,"Friday, Aug 29",Sporting Kansas City,3,1,W
+2133,2014,Houston Dynamo,"Saturday, Sep 6",Montreal Impact,3,2,W
+2134,2014,Houston Dynamo,"Saturday, Sep 13",Columbus Crew,2,2,D
+2135,2014,Houston Dynamo,"Saturday, Sep 20",Philadelphia Union,0,0,D
+2136,2014,Houston Dynamo,"Sunday, Sep 28",Chicago Fire,2,0,W
+2137,2014,Houston Dynamo,"Saturday, Oct 4",New York Red Bulls,0,1,L
+2138,2014,Houston Dynamo,"Wednesday, Oct 8",Toronto FC,1,0,W
+2139,2014,Houston Dynamo,"Sunday, Oct 12",D.C. United,1,3,L
+2140,2014,Houston Dynamo,"Thursday, Oct 16",New England Revolution,1,2,L
+2141,2014,Houston Dynamo,"Friday, Oct 24",Chicago Fire,1,2,L
+2142,2014,LA Galaxy,"Saturday, Mar 8",Real Salt Lake,0,1,L
+2143,2014,LA Galaxy,"Saturday, Mar 22",Real Salt Lake,1,1,D
+2144,2014,LA Galaxy,"Sunday, Apr 6",Chivas USA,3,0,W
+2145,2014,LA Galaxy,"Saturday, Apr 12",Vancouver Whitecaps,1,0,W
+2146,2014,LA Galaxy,"Saturday, Apr 19",Vancouver Whitecaps,2,2,D
+2147,2014,LA Galaxy,"Saturday, May 3",Colorado Rapids,0,1,L
+2148,2014,LA Galaxy,"Sunday, May 11",Portland Timbers,1,1,D
+2149,2014,LA Galaxy,"Saturday, May 17",Houston Dynamo,0,1,L
+2150,2014,LA Galaxy,"Wednesday, May 21",FC Dallas,2,1,W
+2151,2014,LA Galaxy,"Sunday, May 25",Philadelphia Union,4,1,W
+2152,2014,LA Galaxy,"Sunday, Jun 1",Chicago Fire,1,1,D
+2153,2014,LA Galaxy,"Sunday, Jun 8",Chivas USA,1,1,D
+2154,2014,LA Galaxy,"Saturday, Jun 28",San Jose Earthquakes,1,0,W
+2155,2014,LA Galaxy,"Saturday, Jul 5",Portland Timbers,2,2,D
+2156,2014,LA Galaxy,"Saturday, Jul 12",Real Salt Lake,1,0,W
+2157,2014,LA Galaxy,"Wednesday, Jul 16",New England Revolution,5,1,W
+2158,2014,LA Galaxy,"Saturday, Jul 19",Sporting Kansas City,1,2,L
+2159,2014,LA Galaxy,"Monday, Jul 28",Seattle Sounders FC,3,0,W
+2160,2014,LA Galaxy,"Saturday, Aug 2",Portland Timbers,3,1,W
+2161,2014,LA Galaxy,"Friday, Aug 8",San Jose Earthquakes,2,2,D
+2162,2014,LA Galaxy,"Saturday, Aug 16",Columbus Crew,1,4,L
+2163,2014,LA Galaxy,"Wednesday, Aug 20",Colorado Rapids,4,3,W
+2164,2014,LA Galaxy,"Saturday, Aug 23",Vancouver Whitecaps,2,0,W
+2165,2014,LA Galaxy,"Wednesday, Aug 27",D.C. United,4,1,W
+2166,2014,LA Galaxy,"Sunday, Aug 31",Chivas USA,3,0,W
+2167,2014,LA Galaxy,"Friday, Sep 5",Colorado Rapids,6,0,W
+2168,2014,LA Galaxy,"Wednesday, Sep 10",Montreal Impact,2,2,D
+2169,2014,LA Galaxy,"Sunday, Sep 14",San Jose Earthquakes,1,1,D
+2170,2014,LA Galaxy,"Saturday, Sep 20",FC Dallas,2,1,W
+2171,2014,LA Galaxy,"Sunday, Sep 28",New York Red Bulls,4,0,W
+2172,2014,LA Galaxy,"Saturday, Oct 4",Toronto FC,3,0,W
+2173,2014,LA Galaxy,"Sunday, Oct 12",FC Dallas,1,2,L
+2174,2014,LA Galaxy,"Sunday, Oct 19",Seattle Sounders FC,2,2,D
+2175,2014,LA Galaxy,"Saturday, Oct 25",Seattle Sounders FC,0,2,L
+2176,2014,Montreal Impact,"Saturday, Mar 8",FC Dallas,2,3,L
+2177,2014,Montreal Impact,"Saturday, Mar 15",Houston Dynamo,0,1,L
+2178,2014,Montreal Impact,"Sunday, Mar 23",Seattle Sounders FC,0,2,L
+2179,2014,Montreal Impact,"Saturday, Mar 29",Philadelphia Union,1,1,D
+2180,2014,Montreal Impact,"Saturday, Apr 5",New York Red Bulls,2,2,D
+2181,2014,Montreal Impact,"Saturday, Apr 12",Chicago Fire,1,1,D
+2182,2014,Montreal Impact,"Saturday, Apr 19",Sporting Kansas City,0,4,L
+2183,2014,Montreal Impact,"Saturday, Apr 26",Philadelphia Union,1,0,W
+2184,2014,Montreal Impact,"Saturday, May 10",Sporting Kansas City,0,3,L
+2185,2014,Montreal Impact,"Saturday, May 17",D.C. United,1,1,D
+2186,2014,Montreal Impact,"Saturday, May 24",Colorado Rapids,1,4,L
+2187,2014,Montreal Impact,"Saturday, May 31",New England Revolution,2,0,W
+2188,2014,Montreal Impact,"Wednesday, Jun 11",D.C. United,2,4,L
+2189,2014,Montreal Impact,"Wednesday, Jun 25",Vancouver Whitecaps,0,0,D
+2190,2014,Montreal Impact,"Sunday, Jun 29",Houston Dynamo,3,0,W
+2191,2014,Montreal Impact,"Saturday, Jul 5",Chivas USA,0,1,L
+2192,2014,Montreal Impact,"Saturday, Jul 12",Sporting Kansas City,1,2,L
+2193,2014,Montreal Impact,"Saturday, Jul 19",Columbus Crew,1,2,L
+2194,2014,Montreal Impact,"Thursday, Jul 24",Real Salt Lake,1,3,L
+2195,2014,Montreal Impact,"Sunday, Jul 27",Portland Timbers,2,3,L
+2196,2014,Montreal Impact,"Saturday, Aug 2",Toronto FC,0,2,L
+2197,2014,Montreal Impact,"Saturday, Aug 9",Philadelphia Union,1,2,L
+2198,2014,Montreal Impact,"Saturday, Aug 16",Chicago Fire,1,0,W
+2199,2014,Montreal Impact,"Saturday, Aug 23",New York Red Bulls,2,4,L
+2200,2014,Montreal Impact,"Saturday, Aug 30",Columbus Crew,2,0,W
+2201,2014,Montreal Impact,"Saturday, Sep 6",Houston Dynamo,2,3,L
+2202,2014,Montreal Impact,"Wednesday, Sep 10",LA Galaxy,2,2,D
+2203,2014,Montreal Impact,"Saturday, Sep 13",New England Revolution,1,2,L
+2204,2014,Montreal Impact,"Saturday, Sep 20",San Jose Earthquakes,2,0,W
+2205,2014,Montreal Impact,"Saturday, Sep 27",Columbus Crew,0,2,L
+2206,2014,Montreal Impact,"Sunday, Oct 5",Chicago Fire,0,0,D
+2207,2014,Montreal Impact,"Saturday, Oct 11",New England Revolution,2,2,D
+2208,2014,Montreal Impact,"Saturday, Oct 18",Toronto FC,1,1,D
+2209,2014,Montreal Impact,"Saturday, Oct 25",D.C. United,1,1,D
+2210,2014,New England Revolution,"Saturday, Mar 8",Houston Dynamo,0,4,L
+2211,2014,New England Revolution,"Saturday, Mar 15",Philadelphia Union,0,1,L
+2212,2014,New England Revolution,"Saturday, Mar 22",Vancouver Whitecaps,0,0,D
+2213,2014,New England Revolution,"Saturday, Mar 29",San Jose Earthquakes,2,1,W
+2214,2014,New England Revolution,"Saturday, Apr 5",D.C. United,0,2,L
+2215,2014,New England Revolution,"Saturday, Apr 12",Houston Dynamo,2,0,W
+2216,2014,New England Revolution,"Saturday, Apr 19",Chicago Fire,1,1,D
+2217,2014,New England Revolution,"Saturday, Apr 26",Sporting Kansas City,2,0,W
+2218,2014,New England Revolution,"Saturday, May 3",Toronto FC,2,1,W
+2219,2014,New England Revolution,"Sunday, May 11",Seattle Sounders FC,5,0,W
+2220,2014,New England Revolution,"Saturday, May 17",Philadelphia Union,5,3,W
+2221,2014,New England Revolution,"Saturday, May 24",D.C. United,2,1,W
+2222,2014,New England Revolution,"Saturday, May 31",Montreal Impact,0,2,L
+2223,2014,New England Revolution,"Sunday, Jun 8",New York Red Bulls,0,2,L
+2224,2014,New England Revolution,"Saturday, Jun 28",Philadelphia Union,1,3,L
+2225,2014,New England Revolution,"Friday, Jul 4",Real Salt Lake,1,2,L
+2226,2014,New England Revolution,"Saturday, Jul 12",Chicago Fire,0,1,L
+2227,2014,New England Revolution,"Wednesday, Jul 16",LA Galaxy,1,5,L
+2228,2014,New England Revolution,"Saturday, Jul 19",FC Dallas,0,2,L
+2229,2014,New England Revolution,"Saturday, Jul 26",Columbus Crew,1,2,L
+2230,2014,New England Revolution,"Wednesday, Jul 30",Colorado Rapids,3,0,W
+2231,2014,New England Revolution,"Saturday, Aug 2",New York Red Bulls,1,2,L
+2232,2014,New England Revolution,"Saturday, Aug 16",Portland Timbers,1,1,D
+2233,2014,New England Revolution,"Saturday, Aug 23",Chivas USA,1,0,W
+2234,2014,New England Revolution,"Saturday, Aug 30",Toronto FC,3,0,W
+2235,2014,New England Revolution,"Wednesday, Sep 3",Sporting Kansas City,3,1,W
+2236,2014,New England Revolution,"Sunday, Sep 7",Chicago Fire,2,1,W
+2237,2014,New England Revolution,"Saturday, Sep 13",Montreal Impact,2,1,W
+2238,2014,New England Revolution,"Saturday, Sep 20",Columbus Crew,0,1,L
+2239,2014,New England Revolution,"Friday, Sep 26",Sporting Kansas City,3,2,W
+2240,2014,New England Revolution,"Saturday, Oct 4",Columbus Crew,2,1,W
+2241,2014,New England Revolution,"Saturday, Oct 11",Montreal Impact,2,2,D
+2242,2014,New England Revolution,"Thursday, Oct 16",Houston Dynamo,2,1,W
+2243,2014,New England Revolution,"Saturday, Oct 25",Toronto FC,1,0,W
+2244,2014,New York Red Bulls,"Saturday, Mar 8",Vancouver Whitecaps,1,4,L
+2245,2014,New York Red Bulls,"Saturday, Mar 15",Colorado Rapids,1,1,D
+2246,2014,New York Red Bulls,"Sunday, Mar 23",Chicago Fire,1,1,D
+2247,2014,New York Red Bulls,"Sunday, Mar 30",Chivas USA,1,1,D
+2248,2014,New York Red Bulls,"Saturday, Apr 5",Montreal Impact,2,2,D
+2249,2014,New York Red Bulls,"Saturday, Apr 12",D.C. United,0,1,L
+2250,2014,New York Red Bulls,"Wednesday, Apr 16",Philadelphia Union,2,1,W
+2251,2014,New York Red Bulls,"Wednesday, Apr 23",Houston Dynamo,4,0,W
+2252,2014,New York Red Bulls,"Saturday, Apr 26",Columbus Crew,1,1,D
+2253,2014,New York Red Bulls,"Sunday, May 4",FC Dallas,1,0,W
+2254,2014,New York Red Bulls,"Saturday, May 10",Chicago Fire,4,5,L
+2255,2014,New York Red Bulls,"Saturday, May 17",Toronto FC,0,2,L
+2256,2014,New York Red Bulls,"Saturday, May 24",Portland Timbers,1,2,L
+2257,2014,New York Red Bulls,"Tuesday, May 27",Sporting Kansas City,1,1,D
+2258,2014,New York Red Bulls,"Sunday, Jun 8",New England Revolution,2,0,W
+2259,2014,New York Red Bulls,"Friday, Jun 27",Toronto FC,2,2,D
+2260,2014,New York Red Bulls,"Friday, Jul 4",Houston Dynamo,2,2,D
+2261,2014,New York Red Bulls,"Saturday, Jul 12",Columbus Crew,4,1,W
+2262,2014,New York Red Bulls,"Wednesday, Jul 16",Philadelphia Union,1,3,L
+2263,2014,New York Red Bulls,"Saturday, Jul 19",San Jose Earthquakes,1,1,D
+2264,2014,New York Red Bulls,"Wednesday, Jul 30",Real Salt Lake,1,1,D
+2265,2014,New York Red Bulls,"Saturday, Aug 2",New England Revolution,2,1,W
+2266,2014,New York Red Bulls,"Sunday, Aug 10",Chicago Fire,0,1,L
+2267,2014,New York Red Bulls,"Saturday, Aug 23",Montreal Impact,4,2,W
+2268,2014,New York Red Bulls,"Sunday, Aug 31",D.C. United,0,2,L
+2269,2014,New York Red Bulls,"Saturday, Sep 6",Sporting Kansas City,2,1,W
+2270,2014,New York Red Bulls,"Wednesday, Sep 10",D.C. United,1,0,W
+2271,2014,New York Red Bulls,"Saturday, Sep 13",Philadelphia Union,2,2,D
+2272,2014,New York Red Bulls,"Saturday, Sep 20",Seattle Sounders FC,4,1,W
+2273,2014,New York Red Bulls,"Sunday, Sep 28",LA Galaxy,0,4,L
+2274,2014,New York Red Bulls,"Saturday, Oct 4",Houston Dynamo,1,0,W
+2275,2014,New York Red Bulls,"Saturday, Oct 11",Toronto FC,3,1,W
+2276,2014,New York Red Bulls,"Sunday, Oct 19",Columbus Crew,1,3,L
+2277,2014,New York Red Bulls,"Sunday, Oct 26",Sporting Kansas City,2,0,W
+2278,2014,Philadelphia Union,"Saturday, Mar 8",Portland Timbers,1,1,D
+2279,2014,Philadelphia Union,"Saturday, Mar 15",New England Revolution,1,0,W
+2280,2014,Philadelphia Union,"Saturday, Mar 22",Columbus Crew,1,2,L
+2281,2014,Philadelphia Union,"Saturday, Mar 29",Montreal Impact,1,1,D
+2282,2014,Philadelphia Union,"Saturday, Apr 5",Chicago Fire,2,2,D
+2283,2014,Philadelphia Union,"Saturday, Apr 12",Real Salt Lake,2,2,D
+2284,2014,Philadelphia Union,"Wednesday, Apr 16",New York Red Bulls,1,2,L
+2285,2014,Philadelphia Union,"Saturday, Apr 19",Houston Dynamo,0,0,D
+2286,2014,Philadelphia Union,"Saturday, Apr 26",Montreal Impact,0,1,L
+2287,2014,Philadelphia Union,"Saturday, May 3",Seattle Sounders FC,1,2,L
+2288,2014,Philadelphia Union,"Saturday, May 10",D.C. United,0,1,L
+2289,2014,Philadelphia Union,"Wednesday, May 14",Sporting Kansas City,2,1,W
+2290,2014,Philadelphia Union,"Saturday, May 17",New England Revolution,3,5,L
+2291,2014,Philadelphia Union,"Sunday, May 25",LA Galaxy,1,4,L
+2292,2014,Philadelphia Union,"Saturday, May 31",Chivas USA,3,0,W
+2293,2014,Philadelphia Union,"Saturday, Jun 7",Vancouver Whitecaps,3,3,D
+2294,2014,Philadelphia Union,"Saturday, Jun 28",New England Revolution,3,1,W
+2295,2014,Philadelphia Union,"Friday, Jul 4",FC Dallas,1,2,L
+2296,2014,Philadelphia Union,"Saturday, Jul 12",Colorado Rapids,3,3,D
+2297,2014,Philadelphia Union,"Wednesday, Jul 16",New York Red Bulls,3,1,W
+2298,2014,Philadelphia Union,"Saturday, Jul 19",Chicago Fire,1,1,D
+2299,2014,Philadelphia Union,"Friday, Aug 1",Sporting Kansas City,1,1,D
+2300,2014,Philadelphia Union,"Saturday, Aug 9",Montreal Impact,2,1,W
+2301,2014,Philadelphia Union,"Friday, Aug 15",Houston Dynamo,0,2,L
+2302,2014,Philadelphia Union,"Sunday, Aug 24",San Jose Earthquakes,4,2,W
+2303,2014,Philadelphia Union,"Wednesday, Sep 3",Toronto FC,1,0,W
+2304,2014,Philadelphia Union,"Saturday, Sep 6",Toronto FC,2,0,W
+2305,2014,Philadelphia Union,"Saturday, Sep 13",New York Red Bulls,2,2,D
+2306,2014,Philadelphia Union,"Saturday, Sep 20",Houston Dynamo,0,0,D
+2307,2014,Philadelphia Union,"Saturday, Sep 27",D.C. United,0,1,L
+2308,2014,Philadelphia Union,"Thursday, Oct 2",Chicago Fire,1,1,D
+2309,2014,Philadelphia Union,"Saturday, Oct 11",Columbus Crew,2,3,L
+2310,2014,Philadelphia Union,"Saturday, Oct 18",Sporting Kansas City,2,1,W
+2311,2014,Philadelphia Union,"Sunday, Oct 26",Columbus Crew,1,2,L
+2312,2014,Portland Timbers,"Saturday, Mar 8",Philadelphia Union,1,1,D
+2313,2014,Portland Timbers,"Sunday, Mar 16",Chicago Fire,1,1,D
+2314,2014,Portland Timbers,"Saturday, Mar 22",Colorado Rapids,0,2,L
+2315,2014,Portland Timbers,"Saturday, Mar 29",FC Dallas,1,2,L
+2316,2014,Portland Timbers,"Saturday, Apr 5",Seattle Sounders FC,4,4,D
+2317,2014,Portland Timbers,"Saturday, Apr 12",Chivas USA,1,1,D
+2318,2014,Portland Timbers,"Saturday, Apr 19",Real Salt Lake,0,1,L
+2319,2014,Portland Timbers,"Sunday, Apr 27",Houston Dynamo,1,1,D
+2320,2014,Portland Timbers,"Saturday, May 3",D.C. United,3,2,W
+2321,2014,Portland Timbers,"Sunday, May 11",LA Galaxy,1,1,D
+2322,2014,Portland Timbers,"Saturday, May 17",Columbus Crew,3,3,D
+2323,2014,Portland Timbers,"Saturday, May 24",New York Red Bulls,2,1,W
+2324,2014,Portland Timbers,"Wednesday, May 28",Chivas USA,2,0,W
+2325,2014,Portland Timbers,"Sunday, Jun 1",Vancouver Whitecaps,3,4,L
+2326,2014,Portland Timbers,"Saturday, Jun 7",Real Salt Lake,3,1,W
+2327,2014,Portland Timbers,"Wednesday, Jun 11",FC Dallas,2,2,D
+2328,2014,Portland Timbers,"Saturday, Jun 28",Sporting Kansas City,0,1,L
+2329,2014,Portland Timbers,"Saturday, Jul 5",LA Galaxy,2,2,D
+2330,2014,Portland Timbers,"Sunday, Jul 13",Seattle Sounders FC,0,2,L
+2331,2014,Portland Timbers,"Saturday, Jul 19",Colorado Rapids,2,1,W
+2332,2014,Portland Timbers,"Sunday, Jul 27",Montreal Impact,3,2,W
+2333,2014,Portland Timbers,"Saturday, Aug 2",LA Galaxy,1,3,L
+2334,2014,Portland Timbers,"Saturday, Aug 9",Chivas USA,2,0,W
+2335,2014,Portland Timbers,"Saturday, Aug 16",New England Revolution,1,1,D
+2336,2014,Portland Timbers,"Sunday, Aug 24",Seattle Sounders FC,2,4,L
+2337,2014,Portland Timbers,"Saturday, Aug 30",Vancouver Whitecaps,3,0,W
+2338,2014,Portland Timbers,"Sunday, Sep 7",San Jose Earthquakes,3,3,D
+2339,2014,Portland Timbers,"Saturday, Sep 13",Colorado Rapids,2,2,D
+2340,2014,Portland Timbers,"Saturday, Sep 20",Vancouver Whitecaps,3,0,W
+2341,2014,Portland Timbers,"Saturday, Sep 27",Toronto FC,2,3,L
+2342,2014,Portland Timbers,"Sunday, Oct 5",San Jose Earthquakes,2,1,W
+2343,2014,Portland Timbers,"Wednesday, Oct 8",San Jose Earthquakes,3,0,W
+2344,2014,Portland Timbers,"Friday, Oct 17",Real Salt Lake,0,0,D
+2345,2014,Portland Timbers,"Saturday, Oct 25",FC Dallas,2,0,W
+2346,2014,Real Salt Lake,"Saturday, Mar 8",LA Galaxy,1,0,W
+2347,2014,Real Salt Lake,"Saturday, Mar 15",San Jose Earthquakes,3,3,D
+2348,2014,Real Salt Lake,"Saturday, Mar 22",LA Galaxy,1,1,D
+2349,2014,Real Salt Lake,"Saturday, Mar 29",Toronto FC,3,0,W
+2350,2014,Real Salt Lake,"Saturday, Apr 5",Sporting Kansas City,0,0,D
+2351,2014,Real Salt Lake,"Saturday, Apr 12",Philadelphia Union,2,2,D
+2352,2014,Real Salt Lake,"Saturday, Apr 19",Portland Timbers,1,0,W
+2353,2014,Real Salt Lake,"Saturday, Apr 26",Vancouver Whitecaps,2,2,D
+2354,2014,Real Salt Lake,"Saturday, May 3",Chicago Fire,3,2,W
+2355,2014,Real Salt Lake,"Sunday, May 11",Houston Dynamo,5,2,W
+2356,2014,Real Salt Lake,"Saturday, May 17",Colorado Rapids,2,1,W
+2357,2014,Real Salt Lake,"Saturday, May 24",FC Dallas,0,0,D
+2358,2014,Real Salt Lake,"Saturday, May 31",Seattle Sounders FC,0,4,L
+2359,2014,Real Salt Lake,"Wednesday, Jun 4",Columbus Crew,1,1,D
+2360,2014,Real Salt Lake,"Saturday, Jun 7",Portland Timbers,1,3,L
+2361,2014,Real Salt Lake,"Saturday, Jun 28",Chivas USA,0,1,L
+2362,2014,Real Salt Lake,"Friday, Jul 4",New England Revolution,2,1,W
+2363,2014,Real Salt Lake,"Saturday, Jul 12",LA Galaxy,0,1,L
+2364,2014,Real Salt Lake,"Saturday, Jul 19",Vancouver Whitecaps,1,1,D
+2365,2014,Real Salt Lake,"Thursday, Jul 24",Montreal Impact,3,1,W
+2366,2014,Real Salt Lake,"Wednesday, Jul 30",New York Red Bulls,1,1,D
+2367,2014,Real Salt Lake,"Saturday, Aug 2",Colorado Rapids,1,0,W
+2368,2014,Real Salt Lake,"Saturday, Aug 9",D.C. United,3,0,W
+2369,2014,Real Salt Lake,"Saturday, Aug 16",Seattle Sounders FC,2,1,W
+2370,2014,Real Salt Lake,"Friday, Aug 22",FC Dallas,1,2,L
+2371,2014,Real Salt Lake,"Saturday, Aug 30",San Jose Earthquakes,1,1,D
+2372,2014,Real Salt Lake,"Saturday, Sep 6",FC Dallas,2,1,W
+2373,2014,Real Salt Lake,"Friday, Sep 12",Seattle Sounders FC,2,3,L
+2374,2014,Real Salt Lake,"Friday, Sep 19",Colorado Rapids,5,1,W
+2375,2014,Real Salt Lake,"Saturday, Sep 27",Vancouver Whitecaps,1,2,L
+2376,2014,Real Salt Lake,"Sunday, Oct 5",Chivas USA,0,1,L
+2377,2014,Real Salt Lake,"Saturday, Oct 11",San Jose Earthquakes,2,0,W
+2378,2014,Real Salt Lake,"Friday, Oct 17",Portland Timbers,0,0,D
+2379,2014,Real Salt Lake,"Wednesday, Oct 22",Chivas USA,2,0,W
+2380,2014,San Jose Earthquakes,"Saturday, Mar 15",Real Salt Lake,3,3,D
+2381,2014,San Jose Earthquakes,"Saturday, Mar 22",Sporting Kansas City,0,1,L
+2382,2014,San Jose Earthquakes,"Saturday, Mar 29",New England Revolution,1,2,L
+2383,2014,San Jose Earthquakes,"Sunday, Apr 13",Columbus Crew,1,1,D
+2384,2014,San Jose Earthquakes,"Saturday, Apr 19",Colorado Rapids,0,0,D
+2385,2014,San Jose Earthquakes,"Saturday, Apr 26",Chivas USA,1,0,W
+2386,2014,San Jose Earthquakes,"Saturday, May 3",Vancouver Whitecaps,2,3,L
+2387,2014,San Jose Earthquakes,"Wednesday, May 7",Colorado Rapids,0,0,D
+2388,2014,San Jose Earthquakes,"Saturday, May 10",FC Dallas,2,1,W
+2389,2014,San Jose Earthquakes,"Saturday, May 17",Seattle Sounders FC,0,1,L
+2390,2014,San Jose Earthquakes,"Sunday, May 25",Houston Dynamo,3,0,W
+2391,2014,San Jose Earthquakes,"Saturday, May 31",FC Dallas,2,1,W
+2392,2014,San Jose Earthquakes,"Saturday, Jun 7",Toronto FC,0,1,L
+2393,2014,San Jose Earthquakes,"Saturday, Jun 28",LA Galaxy,0,1,L
+2394,2014,San Jose Earthquakes,"Wednesday, Jul 2",Chivas USA,0,1,L
+2395,2014,San Jose Earthquakes,"Saturday, Jul 12",D.C. United,1,2,L
+2396,2014,San Jose Earthquakes,"Saturday, Jul 19",New York Red Bulls,1,1,D
+2397,2014,San Jose Earthquakes,"Wednesday, Jul 23",Chicago Fire,5,1,W
+2398,2014,San Jose Earthquakes,"Saturday, Aug 2",Seattle Sounders FC,1,0,W
+2399,2014,San Jose Earthquakes,"Friday, Aug 8",LA Galaxy,2,2,D
+2400,2014,San Jose Earthquakes,"Saturday, Aug 16",FC Dallas,0,5,L
+2401,2014,San Jose Earthquakes,"Wednesday, Aug 20",Seattle Sounders FC,1,1,D
+2402,2014,San Jose Earthquakes,"Sunday, Aug 24",Philadelphia Union,2,4,L
+2403,2014,San Jose Earthquakes,"Saturday, Aug 30",Real Salt Lake,1,1,D
+2404,2014,San Jose Earthquakes,"Sunday, Sep 7",Portland Timbers,3,3,D
+2405,2014,San Jose Earthquakes,"Wednesday, Sep 10",Vancouver Whitecaps,0,2,L
+2406,2014,San Jose Earthquakes,"Sunday, Sep 14",LA Galaxy,1,1,D
+2407,2014,San Jose Earthquakes,"Saturday, Sep 20",Montreal Impact,0,2,L
+2408,2014,San Jose Earthquakes,"Saturday, Sep 27",Colorado Rapids,1,1,D
+2409,2014,San Jose Earthquakes,"Sunday, Oct 5",Portland Timbers,1,2,L
+2410,2014,San Jose Earthquakes,"Wednesday, Oct 8",Portland Timbers,0,3,L
+2411,2014,San Jose Earthquakes,"Saturday, Oct 11",Real Salt Lake,0,2,L
+2412,2014,San Jose Earthquakes,"Saturday, Oct 18",Vancouver Whitecaps,0,0,D
+2413,2014,San Jose Earthquakes,"Sunday, Oct 26",Chivas USA,0,1,L
+2414,2014,Seattle Sounders FC,"Saturday, Mar 8",Sporting Kansas City,1,0,W
+2415,2014,Seattle Sounders FC,"Saturday, Mar 15",Toronto FC,1,2,L
+2416,2014,Seattle Sounders FC,"Sunday, Mar 23",Montreal Impact,2,0,W
+2417,2014,Seattle Sounders FC,"Saturday, Mar 29",Columbus Crew,1,2,L
+2418,2014,Seattle Sounders FC,"Saturday, Apr 5",Portland Timbers,4,4,D
+2419,2014,Seattle Sounders FC,"Saturday, Apr 12",FC Dallas,3,2,W
+2420,2014,Seattle Sounders FC,"Saturday, Apr 19",Chivas USA,2,1,W
+2421,2014,Seattle Sounders FC,"Saturday, Apr 26",Colorado Rapids,4,1,W
+2422,2014,Seattle Sounders FC,"Saturday, May 3",Philadelphia Union,2,1,W
+2423,2014,Seattle Sounders FC,"Wednesday, May 7",FC Dallas,2,1,W
+2424,2014,Seattle Sounders FC,"Sunday, May 11",New England Revolution,0,5,L
+2425,2014,Seattle Sounders FC,"Saturday, May 17",San Jose Earthquakes,1,0,W
+2426,2014,Seattle Sounders FC,"Saturday, May 24",Vancouver Whitecaps,2,2,D
+2427,2014,Seattle Sounders FC,"Saturday, May 31",Real Salt Lake,4,0,W
+2428,2014,Seattle Sounders FC,"Saturday, Jun 7",Chicago Fire,3,2,W
+2429,2014,Seattle Sounders FC,"Saturday, Jun 28",D.C. United,1,0,W
+2430,2014,Seattle Sounders FC,"Saturday, Jul 5",Vancouver Whitecaps,0,1,L
+2431,2014,Seattle Sounders FC,"Sunday, Jul 13",Portland Timbers,2,0,W
+2432,2014,Seattle Sounders FC,"Monday, Jul 28",LA Galaxy,0,3,L
+2433,2014,Seattle Sounders FC,"Saturday, Aug 2",San Jose Earthquakes,0,1,L
+2434,2014,Seattle Sounders FC,"Sunday, Aug 10",Houston Dynamo,2,0,W
+2435,2014,Seattle Sounders FC,"Saturday, Aug 16",Real Salt Lake,1,2,L
+2436,2014,Seattle Sounders FC,"Wednesday, Aug 20",San Jose Earthquakes,1,1,D
+2437,2014,Seattle Sounders FC,"Sunday, Aug 24",Portland Timbers,4,2,W
+2438,2014,Seattle Sounders FC,"Saturday, Aug 30",Colorado Rapids,1,0,W
+2439,2014,Seattle Sounders FC,"Wednesday, Sep 3",Chivas USA,4,2,W
+2440,2014,Seattle Sounders FC,"Friday, Sep 12",Real Salt Lake,3,2,W
+2441,2014,Seattle Sounders FC,"Saturday, Sep 20",New York Red Bulls,1,4,L
+2442,2014,Seattle Sounders FC,"Wednesday, Sep 24",FC Dallas,1,3,L
+2443,2014,Seattle Sounders FC,"Saturday, Sep 27",Chivas USA,4,2,W
+2444,2014,Seattle Sounders FC,"Sunday, Oct 5",Colorado Rapids,4,1,W
+2445,2014,Seattle Sounders FC,"Friday, Oct 10",Vancouver Whitecaps,0,1,L
+2446,2014,Seattle Sounders FC,"Sunday, Oct 19",LA Galaxy,2,2,D
+2447,2014,Seattle Sounders FC,"Saturday, Oct 25",LA Galaxy,2,0,W
+2448,2014,Sporting Kansas City,"Saturday, Mar 8",Seattle Sounders FC,0,1,L
+2449,2014,Sporting Kansas City,"Saturday, Mar 15",FC Dallas,1,1,D
+2450,2014,Sporting Kansas City,"Saturday, Mar 22",San Jose Earthquakes,1,0,W
+2451,2014,Sporting Kansas City,"Saturday, Mar 29",Colorado Rapids,3,2,W
+2452,2014,Sporting Kansas City,"Saturday, Apr 5",Real Salt Lake,0,0,D
+2453,2014,Sporting Kansas City,"Saturday, Apr 19",Montreal Impact,4,0,W
+2454,2014,Sporting Kansas City,"Saturday, Apr 26",New England Revolution,0,2,L
+2455,2014,Sporting Kansas City,"Sunday, May 4",Columbus Crew,2,0,W
+2456,2014,Sporting Kansas City,"Saturday, May 10",Montreal Impact,3,0,W
+2457,2014,Sporting Kansas City,"Wednesday, May 14",Philadelphia Union,1,2,L
+2458,2014,Sporting Kansas City,"Sunday, May 18",Chicago Fire,1,2,L
+2459,2014,Sporting Kansas City,"Friday, May 23",Toronto FC,2,2,D
+2460,2014,Sporting Kansas City,"Tuesday, May 27",New York Red Bulls,1,1,D
+2461,2014,Sporting Kansas City,"Saturday, May 31",D.C. United,0,1,L
+2462,2014,Sporting Kansas City,"Friday, Jun 6",Houston Dynamo,2,0,W
+2463,2014,Sporting Kansas City,"Saturday, Jun 28",Portland Timbers,1,0,W
+2464,2014,Sporting Kansas City,"Sunday, Jul 6",Chicago Fire,1,1,D
+2465,2014,Sporting Kansas City,"Saturday, Jul 12",Montreal Impact,2,1,W
+2466,2014,Sporting Kansas City,"Wednesday, Jul 16",Columbus Crew,2,1,W
+2467,2014,Sporting Kansas City,"Saturday, Jul 19",LA Galaxy,2,1,W
+2468,2014,Sporting Kansas City,"Saturday, Jul 26",Toronto FC,2,1,W
+2469,2014,Sporting Kansas City,"Friday, Aug 1",Philadelphia Union,1,1,D
+2470,2014,Sporting Kansas City,"Sunday, Aug 10",Vancouver Whitecaps,0,2,L
+2471,2014,Sporting Kansas City,"Saturday, Aug 16",Toronto FC,4,1,W
+2472,2014,Sporting Kansas City,"Saturday, Aug 23",D.C. United,0,3,L
+2473,2014,Sporting Kansas City,"Friday, Aug 29",Houston Dynamo,1,3,L
+2474,2014,Sporting Kansas City,"Wednesday, Sep 3",New England Revolution,1,3,L
+2475,2014,Sporting Kansas City,"Saturday, Sep 6",New York Red Bulls,1,2,L
+2476,2014,Sporting Kansas City,"Friday, Sep 12",Chivas USA,4,0,W
+2477,2014,Sporting Kansas City,"Friday, Sep 26",New England Revolution,2,3,L
+2478,2014,Sporting Kansas City,"Friday, Oct 3",D.C. United,0,0,D
+2479,2014,Sporting Kansas City,"Friday, Oct 10",Chicago Fire,2,0,W
+2480,2014,Sporting Kansas City,"Saturday, Oct 18",Philadelphia Union,1,2,L
+2481,2014,Sporting Kansas City,"Sunday, Oct 26",New York Red Bulls,0,2,L
+2482,2014,Toronto FC,"Saturday, Mar 15",Seattle Sounders FC,2,1,W
+2483,2014,Toronto FC,"Saturday, Mar 22",D.C. United,1,0,W
+2484,2014,Toronto FC,"Saturday, Mar 29",Real Salt Lake,0,3,L
+2485,2014,Toronto FC,"Saturday, Apr 5",Columbus Crew,2,0,W
+2486,2014,Toronto FC,"Saturday, Apr 12",Colorado Rapids,0,1,L
+2487,2014,Toronto FC,"Saturday, Apr 19",FC Dallas,1,2,L
+2488,2014,Toronto FC,"Saturday, May 3",New England Revolution,1,2,L
+2489,2014,Toronto FC,"Saturday, May 17",New York Red Bulls,2,0,W
+2490,2014,Toronto FC,"Friday, May 23",Sporting Kansas City,2,2,D
+2491,2014,Toronto FC,"Saturday, May 31",Columbus Crew,3,2,W
+2492,2014,Toronto FC,"Saturday, Jun 7",San Jose Earthquakes,1,0,W
+2493,2014,Toronto FC,"Friday, Jun 27",New York Red Bulls,2,2,D
+2494,2014,Toronto FC,"Wednesday, Jul 2",Chicago Fire,1,1,D
+2495,2014,Toronto FC,"Saturday, Jul 5",D.C. United,1,2,L
+2496,2014,Toronto FC,"Saturday, Jul 12",Houston Dynamo,4,2,W
+2497,2014,Toronto FC,"Wednesday, Jul 16",Vancouver Whitecaps,1,1,D
+2498,2014,Toronto FC,"Saturday, Jul 19",Houston Dynamo,2,2,D
+2499,2014,Toronto FC,"Saturday, Jul 26",Sporting Kansas City,1,2,L
+2500,2014,Toronto FC,"Wednesday, Jul 30",D.C. United,0,3,L
+2501,2014,Toronto FC,"Saturday, Aug 2",Montreal Impact,2,0,W
+2502,2014,Toronto FC,"Saturday, Aug 9",Columbus Crew,3,2,W
+2503,2014,Toronto FC,"Saturday, Aug 16",Sporting Kansas City,1,4,L
+2504,2014,Toronto FC,"Saturday, Aug 23",Chicago Fire,2,2,D
+2505,2014,Toronto FC,"Saturday, Aug 30",New England Revolution,0,3,L
+2506,2014,Toronto FC,"Wednesday, Sep 3",Philadelphia Union,0,1,L
+2507,2014,Toronto FC,"Saturday, Sep 6",Philadelphia Union,0,2,L
+2508,2014,Toronto FC,"Saturday, Sep 13",Chicago Fire,1,1,D
+2509,2014,Toronto FC,"Sunday, Sep 21",Chivas USA,3,0,W
+2510,2014,Toronto FC,"Saturday, Sep 27",Portland Timbers,3,2,W
+2511,2014,Toronto FC,"Saturday, Oct 4",LA Galaxy,0,3,L
+2512,2014,Toronto FC,"Wednesday, Oct 8",Houston Dynamo,0,1,L
+2513,2014,Toronto FC,"Saturday, Oct 11",New York Red Bulls,1,3,L
+2514,2014,Toronto FC,"Saturday, Oct 18",Montreal Impact,1,1,D
+2515,2014,Toronto FC,"Saturday, Oct 25",New England Revolution,0,1,L
+2516,2014,Vancouver Whitecaps,"Saturday, Mar 8",New York Red Bulls,4,1,W
+2517,2014,Vancouver Whitecaps,"Sunday, Mar 16",Chivas USA,1,1,D
+2518,2014,Vancouver Whitecaps,"Saturday, Mar 22",New England Revolution,0,0,D
+2519,2014,Vancouver Whitecaps,"Saturday, Mar 29",Houston Dynamo,2,1,W
+2520,2014,Vancouver Whitecaps,"Saturday, Apr 5",Colorado Rapids,1,2,L
+2521,2014,Vancouver Whitecaps,"Saturday, Apr 12",LA Galaxy,0,1,L
+2522,2014,Vancouver Whitecaps,"Saturday, Apr 19",LA Galaxy,2,2,D
+2523,2014,Vancouver Whitecaps,"Saturday, Apr 26",Real Salt Lake,2,2,D
+2524,2014,Vancouver Whitecaps,"Saturday, May 3",San Jose Earthquakes,3,2,W
+2525,2014,Vancouver Whitecaps,"Saturday, May 10",Columbus Crew,1,0,W
+2526,2014,Vancouver Whitecaps,"Saturday, May 24",Seattle Sounders FC,2,2,D
+2527,2014,Vancouver Whitecaps,"Sunday, Jun 1",Portland Timbers,4,3,W
+2528,2014,Vancouver Whitecaps,"Saturday, Jun 7",Philadelphia Union,3,3,D
+2529,2014,Vancouver Whitecaps,"Wednesday, Jun 25",Montreal Impact,0,0,D
+2530,2014,Vancouver Whitecaps,"Saturday, Jun 28",Colorado Rapids,0,2,L
+2531,2014,Vancouver Whitecaps,"Saturday, Jul 5",Seattle Sounders FC,1,0,W
+2532,2014,Vancouver Whitecaps,"Saturday, Jul 12",Chivas USA,1,3,L
+2533,2014,Vancouver Whitecaps,"Wednesday, Jul 16",Toronto FC,1,1,D
+2534,2014,Vancouver Whitecaps,"Saturday, Jul 19",Real Salt Lake,1,1,D
+2535,2014,Vancouver Whitecaps,"Sunday, Jul 27",FC Dallas,2,2,D
+2536,2014,Vancouver Whitecaps,"Wednesday, Jul 30",Chicago Fire,0,0,D
+2537,2014,Vancouver Whitecaps,"Sunday, Aug 10",Sporting Kansas City,2,0,W
+2538,2014,Vancouver Whitecaps,"Saturday, Aug 16",Chivas USA,0,0,D
+2539,2014,Vancouver Whitecaps,"Saturday, Aug 23",LA Galaxy,0,2,L
+2540,2014,Vancouver Whitecaps,"Saturday, Aug 30",Portland Timbers,0,3,L
+2541,2014,Vancouver Whitecaps,"Saturday, Sep 6",D.C. United,0,0,D
+2542,2014,Vancouver Whitecaps,"Wednesday, Sep 10",San Jose Earthquakes,2,0,W
+2543,2014,Vancouver Whitecaps,"Saturday, Sep 13",FC Dallas,1,2,L
+2544,2014,Vancouver Whitecaps,"Saturday, Sep 20",Portland Timbers,0,3,L
+2545,2014,Vancouver Whitecaps,"Saturday, Sep 27",Real Salt Lake,2,1,W
+2546,2014,Vancouver Whitecaps,"Saturday, Oct 4",FC Dallas,2,0,W
+2547,2014,Vancouver Whitecaps,"Friday, Oct 10",Seattle Sounders FC,1,0,W
+2548,2014,Vancouver Whitecaps,"Saturday, Oct 18",San Jose Earthquakes,0,0,D
+2549,2014,Vancouver Whitecaps,"Saturday, Oct 25",Colorado Rapids,1,0,W
